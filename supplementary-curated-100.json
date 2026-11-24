@@ -1,0 +1,3056 @@
+[
+  {
+    "id": "v001",
+    "lemma": "być",
+    "meaning": "to be",
+    "partOfSpeech": "verb",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "presentIndicative": {
+        "1sg": "jestem",
+        "2sg": "jesteś",
+        "3sg": "jest",
+        "1pl": "jesteśmy",
+        "2pl": "jesteście",
+        "3pl": "są"
+      }
+    },
+    "formsStatus": "draft-present-only-needs-dictionary-cross-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/być#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v002",
+    "lemma": "mieć",
+    "meaning": "to have",
+    "partOfSpeech": "verb",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "presentIndicative": {
+        "1sg": "mam",
+        "2sg": "masz",
+        "3sg": "ma",
+        "1pl": "mamy",
+        "2pl": "macie",
+        "3pl": "mają"
+      }
+    },
+    "formsStatus": "draft-present-only-needs-dictionary-cross-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/mieć#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v003",
+    "lemma": "robić",
+    "meaning": "to do; make",
+    "partOfSpeech": "verb",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "presentIndicative": {
+        "1sg": "robię",
+        "2sg": "robisz",
+        "3sg": "robi",
+        "1pl": "robimy",
+        "2pl": "robicie",
+        "3pl": "robią"
+      }
+    },
+    "formsStatus": "draft-present-only-needs-dictionary-cross-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/robić#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v004",
+    "lemma": "mówić",
+    "meaning": "to speak; say",
+    "partOfSpeech": "verb",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "presentIndicative": {
+        "1sg": "mówię",
+        "2sg": "mówisz",
+        "3sg": "mówi",
+        "1pl": "mówimy",
+        "2pl": "mówicie",
+        "3pl": "mówią"
+      }
+    },
+    "formsStatus": "draft-present-only-needs-dictionary-cross-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/mówić#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v005",
+    "lemma": "wiedzieć",
+    "meaning": "to know a fact",
+    "partOfSpeech": "verb",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "presentIndicative": {
+        "1sg": "wiem",
+        "2sg": "wiesz",
+        "3sg": "wie",
+        "1pl": "wiemy",
+        "2pl": "wiecie",
+        "3pl": "wiedzą"
+      }
+    },
+    "formsStatus": "draft-present-only-needs-dictionary-cross-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/wiedzieć#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v006",
+    "lemma": "znać",
+    "meaning": "to know someone",
+    "partOfSpeech": "verb",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "presentIndicative": {
+        "1sg": "znam",
+        "2sg": "znasz",
+        "3sg": "zna",
+        "1pl": "znamy",
+        "2pl": "znacie",
+        "3pl": "znają"
+      }
+    },
+    "formsStatus": "draft-present-only-needs-dictionary-cross-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/znać#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v007",
+    "lemma": "chcieć",
+    "meaning": "to want",
+    "partOfSpeech": "verb",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "presentIndicative": {
+        "1sg": "chcę",
+        "2sg": "chcesz",
+        "3sg": "chce",
+        "1pl": "chcemy",
+        "2pl": "chcecie",
+        "3pl": "chcą"
+      }
+    },
+    "formsStatus": "draft-present-only-needs-dictionary-cross-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/chcieć#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v008",
+    "lemma": "móc",
+    "meaning": "to be able to",
+    "partOfSpeech": "verb",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "presentIndicative": {
+        "1sg": "mogę",
+        "2sg": "możesz",
+        "3sg": "może",
+        "1pl": "możemy",
+        "2pl": "możecie",
+        "3pl": "mogą"
+      }
+    },
+    "formsStatus": "draft-present-only-needs-dictionary-cross-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/móc#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v009",
+    "lemma": "musieć",
+    "meaning": "to have to",
+    "partOfSpeech": "verb",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "presentIndicative": {
+        "1sg": "muszę",
+        "2sg": "musisz",
+        "3sg": "musi",
+        "1pl": "musimy",
+        "2pl": "musicie",
+        "3pl": "muszą"
+      }
+    },
+    "formsStatus": "draft-present-only-needs-dictionary-cross-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/musieć#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v010",
+    "lemma": "iść",
+    "meaning": "to go on foot",
+    "partOfSpeech": "verb",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "presentIndicative": {
+        "1sg": "idę",
+        "2sg": "idziesz",
+        "3sg": "idzie",
+        "1pl": "idziemy",
+        "2pl": "idziecie",
+        "3pl": "idą"
+      }
+    },
+    "formsStatus": "draft-present-only-needs-dictionary-cross-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/iść#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v011",
+    "lemma": "jeść",
+    "meaning": "to eat",
+    "partOfSpeech": "verb",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "presentIndicative": {
+        "1sg": "jem",
+        "2sg": "jesz",
+        "3sg": "je",
+        "1pl": "jemy",
+        "2pl": "jecie",
+        "3pl": "jedzą"
+      }
+    },
+    "formsStatus": "draft-present-only-needs-dictionary-cross-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/jeść#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v012",
+    "lemma": "pić",
+    "meaning": "to drink",
+    "partOfSpeech": "verb",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "presentIndicative": {
+        "1sg": "piję",
+        "2sg": "pijesz",
+        "3sg": "pije",
+        "1pl": "pijemy",
+        "2pl": "pijecie",
+        "3pl": "piją"
+      }
+    },
+    "formsStatus": "draft-present-only-needs-dictionary-cross-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/pić#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v013",
+    "lemma": "widzieć",
+    "meaning": "to see",
+    "partOfSpeech": "verb",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "presentIndicative": {
+        "1sg": "widzę",
+        "2sg": "widzisz",
+        "3sg": "widzi",
+        "1pl": "widzimy",
+        "2pl": "widzicie",
+        "3pl": "widzą"
+      }
+    },
+    "formsStatus": "draft-present-only-needs-dictionary-cross-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/widzieć#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v014",
+    "lemma": "słyszeć",
+    "meaning": "to hear",
+    "partOfSpeech": "verb",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "presentIndicative": {
+        "1sg": "słyszę",
+        "2sg": "słyszysz",
+        "3sg": "słyszy",
+        "1pl": "słyszymy",
+        "2pl": "słyszycie",
+        "3pl": "słyszą"
+      }
+    },
+    "formsStatus": "draft-present-only-needs-dictionary-cross-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/słyszeć#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v015",
+    "lemma": "lubić",
+    "meaning": "to like",
+    "partOfSpeech": "verb",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "presentIndicative": {
+        "1sg": "lubię",
+        "2sg": "lubisz",
+        "3sg": "lubi",
+        "1pl": "lubimy",
+        "2pl": "lubicie",
+        "3pl": "lubią"
+      }
+    },
+    "formsStatus": "draft-present-only-needs-dictionary-cross-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/lubić#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v016",
+    "lemma": "myśleć",
+    "meaning": "to think",
+    "partOfSpeech": "verb",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "presentIndicative": {
+        "1sg": "myślę",
+        "2sg": "myślisz",
+        "3sg": "myśli",
+        "1pl": "myślimy",
+        "2pl": "myślicie",
+        "3pl": "myślą"
+      }
+    },
+    "formsStatus": "draft-present-only-needs-dictionary-cross-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/myśleć#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v017",
+    "lemma": "dać",
+    "meaning": "to give",
+    "partOfSpeech": "verb",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "futureIndicative": {
+        "1sg": "dam",
+        "2sg": "dasz",
+        "3sg": "da",
+        "1pl": "damy",
+        "2pl": "dacie",
+        "3pl": "dadzą"
+      }
+    },
+    "formsStatus": "perfective-verb-no-present-tense-future-only-draft",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/dać#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v018",
+    "lemma": "brać",
+    "meaning": "to take",
+    "partOfSpeech": "verb",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "presentIndicative": {
+        "1sg": "biorę",
+        "2sg": "bierzesz",
+        "3sg": "bierze",
+        "1pl": "bierzemy",
+        "2pl": "bierzecie",
+        "3pl": "biorą"
+      }
+    },
+    "formsStatus": "draft-present-only-needs-dictionary-cross-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/brać#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v019",
+    "lemma": "szukać",
+    "meaning": "to look for",
+    "partOfSpeech": "verb",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "presentIndicative": {
+        "1sg": "szukam",
+        "2sg": "szukasz",
+        "3sg": "szuka",
+        "1pl": "szukamy",
+        "2pl": "szukacie",
+        "3pl": "szukają"
+      }
+    },
+    "formsStatus": "draft-present-only-needs-dictionary-cross-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/szukać#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v020",
+    "lemma": "potrzebować",
+    "meaning": "to need",
+    "partOfSpeech": "verb",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "presentIndicative": {
+        "1sg": "potrzebuję",
+        "2sg": "potrzebujesz",
+        "3sg": "potrzebuje",
+        "1pl": "potrzebujemy",
+        "2pl": "potrzebujecie",
+        "3pl": "potrzebują"
+      }
+    },
+    "formsStatus": "draft-present-only-needs-dictionary-cross-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/potrzebować#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v021",
+    "lemma": "dom",
+    "meaning": "house; home",
+    "partOfSpeech": "noun",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "singular": {
+        "nominative": "dom",
+        "genitive": "domu",
+        "dative": "domowi",
+        "accusative": "dom",
+        "instrumental": "domem",
+        "locative": "domu",
+        "vocative": "domu"
+      },
+      "plural": {
+        "nominative": "domy",
+        "genitive": "domów",
+        "dative": "domom",
+        "accusative": "domy",
+        "instrumental": "domami",
+        "locative": "domach",
+        "vocative": "domy"
+      }
+    },
+    "formsStatus": "draft-needs-dictionary-cross-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/dom#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v022",
+    "lemma": "człowiek",
+    "meaning": "person; human",
+    "partOfSpeech": "noun",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "singular": {
+        "nominative": "człowiek",
+        "genitive": "człowieka",
+        "dative": "człowiekowi",
+        "accusative": "człowieka",
+        "instrumental": "człowiekiem",
+        "locative": "człowieku",
+        "vocative": "człowieku"
+      },
+      "plural": {
+        "nominative": "ludzie",
+        "genitive": "ludzi",
+        "dative": "ludziom",
+        "accusative": "ludzi",
+        "instrumental": "ludźmi",
+        "locative": "ludziach",
+        "vocative": "ludzie"
+      }
+    },
+    "formsStatus": "complete-draft-needs-dictionary-and-native-review",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/człowiek#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v023",
+    "lemma": "kobieta",
+    "meaning": "woman",
+    "partOfSpeech": "noun",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "singular": {
+        "nominative": "kobieta",
+        "genitive": "kobiety",
+        "dative": "kobiecie",
+        "accusative": "kobietę",
+        "instrumental": "kobietą",
+        "locative": "kobiecie",
+        "vocative": "kobieto"
+      },
+      "plural": {
+        "nominative": "kobiety",
+        "genitive": "kobiet",
+        "dative": "kobietom",
+        "accusative": "kobiety",
+        "instrumental": "kobietami",
+        "locative": "kobietach",
+        "vocative": "kobiety"
+      }
+    },
+    "formsStatus": "complete-draft-needs-dictionary-and-native-review",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/kobieta#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v024",
+    "lemma": "mężczyzna",
+    "meaning": "man",
+    "partOfSpeech": "noun",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "singular": {
+        "nominative": "mężczyzna",
+        "genitive": "mężczyzny",
+        "dative": "mężczyźnie",
+        "accusative": "mężczyznę",
+        "instrumental": "mężczyzną",
+        "locative": "mężczyźnie",
+        "vocative": "mężczyzno"
+      },
+      "plural": {
+        "nominative": "mężczyźni",
+        "genitive": "mężczyzn",
+        "dative": "mężczyznom",
+        "accusative": "mężczyzn",
+        "instrumental": "mężczyznami",
+        "locative": "mężczyznach",
+        "vocative": "mężczyźni"
+      }
+    },
+    "formsStatus": "complete-draft-needs-dictionary-and-native-review",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/mężczyzna#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v025",
+    "lemma": "dziecko",
+    "meaning": "child",
+    "partOfSpeech": "noun",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "singular": {
+        "nominative": "dziecko",
+        "genitive": "dziecka",
+        "dative": "dziecku",
+        "accusative": "dziecko",
+        "instrumental": "dzieckiem",
+        "locative": "dziecku",
+        "vocative": "dziecko"
+      },
+      "plural": {
+        "nominative": "dzieci",
+        "genitive": "dzieci",
+        "dative": "dzieciom",
+        "accusative": "dzieci",
+        "instrumental": "dziećmi",
+        "locative": "dzieciach",
+        "vocative": "dzieci"
+      }
+    },
+    "formsStatus": "complete-draft-needs-dictionary-and-native-review",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/dziecko#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v026",
+    "lemma": "czas",
+    "meaning": "time",
+    "partOfSpeech": "noun",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "singular": {
+        "nominative": "czas",
+        "genitive": "czasu",
+        "dative": "czasowi",
+        "accusative": "czas",
+        "instrumental": "czasem",
+        "locative": "czasie",
+        "vocative": "czasie"
+      },
+      "plural": {
+        "nominative": "czasy",
+        "genitive": "czasów",
+        "dative": "czasom",
+        "accusative": "czasy",
+        "instrumental": "czasami",
+        "locative": "czasach",
+        "vocative": "czasy"
+      }
+    },
+    "formsStatus": "complete-draft-needs-dictionary-and-native-review",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/czas#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v027",
+    "lemma": "dzień",
+    "meaning": "day",
+    "partOfSpeech": "noun",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "singular": {
+        "nominative": "dzień",
+        "genitive": "dnia",
+        "dative": "dniowi",
+        "accusative": "dzień",
+        "instrumental": "dniem",
+        "locative": "dniu",
+        "vocative": "dniu"
+      },
+      "plural": {
+        "nominative": "dni",
+        "genitive": "dni",
+        "dative": "dniom",
+        "accusative": "dni",
+        "instrumental": "dniami",
+        "locative": "dniach",
+        "vocative": "dni"
+      }
+    },
+    "formsStatus": "complete-draft-needs-dictionary-and-native-review",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/dzień#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v028",
+    "lemma": "rok",
+    "meaning": "year",
+    "partOfSpeech": "noun",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "singular": {
+        "nominative": "rok",
+        "genitive": "roku",
+        "dative": "rokowi",
+        "accusative": "rok",
+        "instrumental": "rokiem",
+        "locative": "roku",
+        "vocative": "roku"
+      },
+      "plural": {
+        "nominative": "lata",
+        "genitive": "lat",
+        "dative": "latom",
+        "accusative": "lata",
+        "instrumental": "latami",
+        "locative": "latach",
+        "vocative": "lata"
+      }
+    },
+    "formsStatus": "draft-needs-dictionary-cross-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/rok#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v029",
+    "lemma": "praca",
+    "meaning": "work; job",
+    "partOfSpeech": "noun",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "singular": {
+        "nominative": "praca",
+        "genitive": "pracy",
+        "dative": "pracy",
+        "accusative": "pracę",
+        "instrumental": "pracą",
+        "locative": "pracy",
+        "vocative": "praco"
+      },
+      "plural": {
+        "nominative": "prace",
+        "genitive": "prac",
+        "dative": "pracom",
+        "accusative": "prace",
+        "instrumental": "pracami",
+        "locative": "pracach",
+        "vocative": "prace"
+      }
+    },
+    "formsStatus": "draft-needs-dictionary-cross-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/praca#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v030",
+    "lemma": "szkoła",
+    "meaning": "school",
+    "partOfSpeech": "noun",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "singular": {
+        "nominative": "szkoła",
+        "genitive": "szkoły",
+        "dative": "szkole",
+        "accusative": "szkołę",
+        "instrumental": "szkołą",
+        "locative": "szkole",
+        "vocative": "szkoło"
+      },
+      "plural": {
+        "nominative": "szkoły",
+        "genitive": "szkół",
+        "dative": "szkołom",
+        "accusative": "szkoły",
+        "instrumental": "szkołami",
+        "locative": "szkołach",
+        "vocative": "szkoły"
+      }
+    },
+    "formsStatus": "draft-needs-dictionary-cross-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/szkoła#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v031",
+    "lemma": "miasto",
+    "meaning": "city",
+    "partOfSpeech": "noun",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "singular": {
+        "nominative": "miasto",
+        "genitive": "miasta",
+        "dative": "miastu",
+        "accusative": "miasto",
+        "instrumental": "miastem",
+        "locative": "mieście",
+        "vocative": "miasto"
+      },
+      "plural": {
+        "nominative": "miasta",
+        "genitive": "miast",
+        "dative": "miastom",
+        "accusative": "miasta",
+        "instrumental": "miastami",
+        "locative": "miastach",
+        "vocative": "miasta"
+      }
+    },
+    "formsStatus": "draft-needs-dictionary-cross-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/miasto#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v032",
+    "lemma": "woda",
+    "meaning": "water",
+    "partOfSpeech": "noun",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "singular": {
+        "nominative": "woda",
+        "genitive": "wody",
+        "dative": "wodzie",
+        "accusative": "wodę",
+        "instrumental": "wodą",
+        "locative": "wodzie",
+        "vocative": "wodo"
+      },
+      "plural": {
+        "nominative": "wody",
+        "genitive": "wód",
+        "dative": "wodom",
+        "accusative": "wody",
+        "instrumental": "wodami",
+        "locative": "wodach",
+        "vocative": "wody"
+      }
+    },
+    "formsStatus": "draft-needs-dictionary-cross-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/woda#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v033",
+    "lemma": "jedzenie",
+    "meaning": "food",
+    "partOfSpeech": "noun",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "singular": {
+        "nominative": "jedzenie",
+        "genitive": "jedzenia",
+        "dative": "jedzeniu",
+        "accusative": "jedzenie",
+        "instrumental": "jedzeniem",
+        "locative": "jedzeniu",
+        "vocative": "jedzenie"
+      },
+      "plural": {
+        "nominative": "jedzenia",
+        "genitive": "jedzeń",
+        "dative": "jedzeniom",
+        "accusative": "jedzenia",
+        "instrumental": "jedzeniami",
+        "locative": "jedzeniach",
+        "vocative": "jedzenia"
+      }
+    },
+    "formsStatus": "draft-needs-dictionary-cross-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/jedzenie#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v034",
+    "lemma": "pieniądze",
+    "meaning": "money",
+    "partOfSpeech": "noun",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "singular": null,
+      "plural": {
+        "nominative": "pieniądze",
+        "genitive": "pieniędzy",
+        "dative": "pieniądzom",
+        "accusative": "pieniądze",
+        "instrumental": "pieniędzmi",
+        "locative": "pieniądzach",
+        "vocative": "pieniądze"
+      }
+    },
+    "formsStatus": "complete-draft-needs-dictionary-and-native-review",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/pieniądze#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v035",
+    "lemma": "książka",
+    "meaning": "book",
+    "partOfSpeech": "noun",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "singular": {
+        "nominative": "książka",
+        "genitive": "książki",
+        "dative": "książce",
+        "accusative": "książkę",
+        "instrumental": "książką",
+        "locative": "książce",
+        "vocative": "książko"
+      },
+      "plural": {
+        "nominative": "książki",
+        "genitive": "książek",
+        "dative": "książkom",
+        "accusative": "książki",
+        "instrumental": "książkami",
+        "locative": "książkach",
+        "vocative": "książki"
+      }
+    },
+    "formsStatus": "draft-needs-dictionary-cross-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/książka#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v036",
+    "lemma": "słowo",
+    "meaning": "word",
+    "partOfSpeech": "noun",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "singular": {
+        "nominative": "słowo",
+        "genitive": "słowa",
+        "dative": "słowu",
+        "accusative": "słowo",
+        "instrumental": "słowem",
+        "locative": "słowie",
+        "vocative": "słowo"
+      },
+      "plural": {
+        "nominative": "słowa",
+        "genitive": "słów",
+        "dative": "słowom",
+        "accusative": "słowa",
+        "instrumental": "słowami",
+        "locative": "słowach",
+        "vocative": "słowa"
+      }
+    },
+    "formsStatus": "complete-draft-needs-dictionary-and-native-review",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/słowo#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v037",
+    "lemma": "język",
+    "meaning": "language",
+    "partOfSpeech": "noun",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "singular": {
+        "nominative": "język",
+        "genitive": "języka",
+        "dative": "językowi",
+        "accusative": "język",
+        "instrumental": "językiem",
+        "locative": "języku",
+        "vocative": "języku"
+      },
+      "plural": {
+        "nominative": "języki",
+        "genitive": "języków",
+        "dative": "językom",
+        "accusative": "języki",
+        "instrumental": "językami",
+        "locative": "językach",
+        "vocative": "języki"
+      }
+    },
+    "formsStatus": "draft-needs-dictionary-cross-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/język#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v038",
+    "lemma": "pytanie",
+    "meaning": "question",
+    "partOfSpeech": "noun",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "singular": {
+        "nominative": "pytanie",
+        "genitive": "pytania",
+        "dative": "pytaniu",
+        "accusative": "pytanie",
+        "instrumental": "pytaniem",
+        "locative": "pytaniu",
+        "vocative": "pytanie"
+      },
+      "plural": {
+        "nominative": "pytania",
+        "genitive": "pytań",
+        "dative": "pytaniom",
+        "accusative": "pytania",
+        "instrumental": "pytaniami",
+        "locative": "pytaniach",
+        "vocative": "pytania"
+      }
+    },
+    "formsStatus": "draft-needs-dictionary-cross-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/pytanie#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v039",
+    "lemma": "odpowiedź",
+    "meaning": "answer",
+    "partOfSpeech": "noun",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "singular": {
+        "nominative": "odpowiedź",
+        "genitive": "odpowiedzi",
+        "dative": "odpowiedzi",
+        "accusative": "odpowiedź",
+        "instrumental": "odpowiedzią",
+        "locative": "odpowiedzi",
+        "vocative": "odpowiedzi"
+      },
+      "plural": {
+        "nominative": "odpowiedzi",
+        "genitive": "odpowiedzi",
+        "dative": "odpowiedziom",
+        "accusative": "odpowiedzi",
+        "instrumental": "odpowiedziami",
+        "locative": "odpowiedziach",
+        "vocative": "odpowiedzi"
+      }
+    },
+    "formsStatus": "draft-needs-dictionary-cross-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/odpowiedź#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v040",
+    "lemma": "problem",
+    "meaning": "problem",
+    "partOfSpeech": "noun",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "singular": {
+        "nominative": "problem",
+        "genitive": "problemu",
+        "dative": "problemowi",
+        "accusative": "problem",
+        "instrumental": "problemem",
+        "locative": "problemie",
+        "vocative": "problemie"
+      },
+      "plural": {
+        "nominative": "problemy",
+        "genitive": "problemów",
+        "dative": "problemom",
+        "accusative": "problemy",
+        "instrumental": "problemami",
+        "locative": "problemach",
+        "vocative": "problemy"
+      }
+    },
+    "formsStatus": "draft-needs-dictionary-cross-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/problem#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v041",
+    "lemma": "dobry",
+    "meaning": "good",
+    "partOfSpeech": "adjective",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "adjectiveDeclension": {
+        "masculineSingular": {
+          "nominative": "dobry",
+          "genitive": "dobrego",
+          "dative": "dobremu",
+          "accusative": {
+            "animate": "dobrego",
+            "inanimate": "dobry"
+          },
+          "instrumental": "dobrym",
+          "locative": "dobrym",
+          "vocative": "dobry"
+        },
+        "feminineSingular": {
+          "nominative": "dobra",
+          "genitive": "dobrej",
+          "dative": "dobrej",
+          "accusative": "dobrą",
+          "instrumental": "dobrą",
+          "locative": "dobrej",
+          "vocative": "dobra"
+        },
+        "neuterSingular": {
+          "nominative": "dobre",
+          "genitive": "dobrego",
+          "dative": "dobremu",
+          "accusative": "dobre",
+          "instrumental": "dobrym",
+          "locative": "dobrym",
+          "vocative": "dobre"
+        },
+        "nonMasculinePersonalPlural": {
+          "nominative": "dobre",
+          "genitive": "dobrych",
+          "dative": "dobrym",
+          "accusative": "dobre",
+          "instrumental": "dobrymi",
+          "locative": "dobrych",
+          "vocative": "dobre"
+        },
+        "masculinePersonalPlural": {
+          "nominative": null,
+          "genitive": "dobrych",
+          "dative": "dobrym",
+          "accusative": "dobrych",
+          "instrumental": "dobrymi",
+          "locative": "dobrych",
+          "vocative": null
+        }
+      }
+    },
+    "formsStatus": "pattern-generated-partial-requires-dictionary-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/dobry#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v042",
+    "lemma": "zły",
+    "meaning": "bad",
+    "partOfSpeech": "adjective",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "adjectiveDeclension": {
+        "masculineSingular": {
+          "nominative": "zły",
+          "genitive": "złego",
+          "dative": "złemu",
+          "accusative": {
+            "animate": "złego",
+            "inanimate": "zły"
+          },
+          "instrumental": "złym",
+          "locative": "złym",
+          "vocative": "zły"
+        },
+        "feminineSingular": {
+          "nominative": "zła",
+          "genitive": "złej",
+          "dative": "złej",
+          "accusative": "złą",
+          "instrumental": "złą",
+          "locative": "złej",
+          "vocative": "zła"
+        },
+        "neuterSingular": {
+          "nominative": "złe",
+          "genitive": "złego",
+          "dative": "złemu",
+          "accusative": "złe",
+          "instrumental": "złym",
+          "locative": "złym",
+          "vocative": "złe"
+        },
+        "nonMasculinePersonalPlural": {
+          "nominative": "złe",
+          "genitive": "złych",
+          "dative": "złym",
+          "accusative": "złe",
+          "instrumental": "złymi",
+          "locative": "złych",
+          "vocative": "złe"
+        },
+        "masculinePersonalPlural": {
+          "nominative": null,
+          "genitive": "złych",
+          "dative": "złym",
+          "accusative": "złych",
+          "instrumental": "złymi",
+          "locative": "złych",
+          "vocative": null
+        }
+      }
+    },
+    "formsStatus": "pattern-generated-partial-requires-dictionary-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/zły#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v043",
+    "lemma": "duży",
+    "meaning": "big",
+    "partOfSpeech": "adjective",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "adjectiveDeclension": {
+        "masculineSingular": {
+          "nominative": "duży",
+          "genitive": "dużego",
+          "dative": "dużemu",
+          "accusative": {
+            "animate": "dużego",
+            "inanimate": "duży"
+          },
+          "instrumental": "dużym",
+          "locative": "dużym",
+          "vocative": "duży"
+        },
+        "feminineSingular": {
+          "nominative": "duża",
+          "genitive": "dużej",
+          "dative": "dużej",
+          "accusative": "dużą",
+          "instrumental": "dużą",
+          "locative": "dużej",
+          "vocative": "duża"
+        },
+        "neuterSingular": {
+          "nominative": "duże",
+          "genitive": "dużego",
+          "dative": "dużemu",
+          "accusative": "duże",
+          "instrumental": "dużym",
+          "locative": "dużym",
+          "vocative": "duże"
+        },
+        "nonMasculinePersonalPlural": {
+          "nominative": "duże",
+          "genitive": "dużych",
+          "dative": "dużym",
+          "accusative": "duże",
+          "instrumental": "dużymi",
+          "locative": "dużych",
+          "vocative": "duże"
+        },
+        "masculinePersonalPlural": {
+          "nominative": null,
+          "genitive": "dużych",
+          "dative": "dużym",
+          "accusative": "dużych",
+          "instrumental": "dużymi",
+          "locative": "dużych",
+          "vocative": null
+        }
+      }
+    },
+    "formsStatus": "pattern-generated-partial-requires-dictionary-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/duży#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v044",
+    "lemma": "mały",
+    "meaning": "small",
+    "partOfSpeech": "adjective",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "adjectiveDeclension": {
+        "masculineSingular": {
+          "nominative": "mały",
+          "genitive": "małego",
+          "dative": "małemu",
+          "accusative": {
+            "animate": "małego",
+            "inanimate": "mały"
+          },
+          "instrumental": "małym",
+          "locative": "małym",
+          "vocative": "mały"
+        },
+        "feminineSingular": {
+          "nominative": "mała",
+          "genitive": "małej",
+          "dative": "małej",
+          "accusative": "małą",
+          "instrumental": "małą",
+          "locative": "małej",
+          "vocative": "mała"
+        },
+        "neuterSingular": {
+          "nominative": "małe",
+          "genitive": "małego",
+          "dative": "małemu",
+          "accusative": "małe",
+          "instrumental": "małym",
+          "locative": "małym",
+          "vocative": "małe"
+        },
+        "nonMasculinePersonalPlural": {
+          "nominative": "małe",
+          "genitive": "małych",
+          "dative": "małym",
+          "accusative": "małe",
+          "instrumental": "małymi",
+          "locative": "małych",
+          "vocative": "małe"
+        },
+        "masculinePersonalPlural": {
+          "nominative": null,
+          "genitive": "małych",
+          "dative": "małym",
+          "accusative": "małych",
+          "instrumental": "małymi",
+          "locative": "małych",
+          "vocative": null
+        }
+      }
+    },
+    "formsStatus": "pattern-generated-partial-requires-dictionary-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/mały#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v045",
+    "lemma": "nowy",
+    "meaning": "new",
+    "partOfSpeech": "adjective",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "adjectiveDeclension": {
+        "masculineSingular": {
+          "nominative": "nowy",
+          "genitive": "nowego",
+          "dative": "nowemu",
+          "accusative": {
+            "animate": "nowego",
+            "inanimate": "nowy"
+          },
+          "instrumental": "nowym",
+          "locative": "nowym",
+          "vocative": "nowy"
+        },
+        "feminineSingular": {
+          "nominative": "nowa",
+          "genitive": "nowej",
+          "dative": "nowej",
+          "accusative": "nową",
+          "instrumental": "nową",
+          "locative": "nowej",
+          "vocative": "nowa"
+        },
+        "neuterSingular": {
+          "nominative": "nowe",
+          "genitive": "nowego",
+          "dative": "nowemu",
+          "accusative": "nowe",
+          "instrumental": "nowym",
+          "locative": "nowym",
+          "vocative": "nowe"
+        },
+        "nonMasculinePersonalPlural": {
+          "nominative": "nowe",
+          "genitive": "nowych",
+          "dative": "nowym",
+          "accusative": "nowe",
+          "instrumental": "nowymi",
+          "locative": "nowych",
+          "vocative": "nowe"
+        },
+        "masculinePersonalPlural": {
+          "nominative": null,
+          "genitive": "nowych",
+          "dative": "nowym",
+          "accusative": "nowych",
+          "instrumental": "nowymi",
+          "locative": "nowych",
+          "vocative": null
+        }
+      }
+    },
+    "formsStatus": "pattern-generated-partial-requires-dictionary-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/nowy#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v046",
+    "lemma": "stary",
+    "meaning": "old",
+    "partOfSpeech": "adjective",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "adjectiveDeclension": {
+        "masculineSingular": {
+          "nominative": "stary",
+          "genitive": "starego",
+          "dative": "staremu",
+          "accusative": {
+            "animate": "starego",
+            "inanimate": "stary"
+          },
+          "instrumental": "starym",
+          "locative": "starym",
+          "vocative": "stary"
+        },
+        "feminineSingular": {
+          "nominative": "stara",
+          "genitive": "starej",
+          "dative": "starej",
+          "accusative": "starą",
+          "instrumental": "starą",
+          "locative": "starej",
+          "vocative": "stara"
+        },
+        "neuterSingular": {
+          "nominative": "stare",
+          "genitive": "starego",
+          "dative": "staremu",
+          "accusative": "stare",
+          "instrumental": "starym",
+          "locative": "starym",
+          "vocative": "stare"
+        },
+        "nonMasculinePersonalPlural": {
+          "nominative": "stare",
+          "genitive": "starych",
+          "dative": "starym",
+          "accusative": "stare",
+          "instrumental": "starymi",
+          "locative": "starych",
+          "vocative": "stare"
+        },
+        "masculinePersonalPlural": {
+          "nominative": null,
+          "genitive": "starych",
+          "dative": "starym",
+          "accusative": "starych",
+          "instrumental": "starymi",
+          "locative": "starych",
+          "vocative": null
+        }
+      }
+    },
+    "formsStatus": "pattern-generated-partial-requires-dictionary-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/stary#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v047",
+    "lemma": "ważny",
+    "meaning": "important",
+    "partOfSpeech": "adjective",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "adjectiveDeclension": {
+        "masculineSingular": {
+          "nominative": "ważny",
+          "genitive": "ważnego",
+          "dative": "ważnemu",
+          "accusative": {
+            "animate": "ważnego",
+            "inanimate": "ważny"
+          },
+          "instrumental": "ważnym",
+          "locative": "ważnym",
+          "vocative": "ważny"
+        },
+        "feminineSingular": {
+          "nominative": "ważna",
+          "genitive": "ważnej",
+          "dative": "ważnej",
+          "accusative": "ważną",
+          "instrumental": "ważną",
+          "locative": "ważnej",
+          "vocative": "ważna"
+        },
+        "neuterSingular": {
+          "nominative": "ważne",
+          "genitive": "ważnego",
+          "dative": "ważnemu",
+          "accusative": "ważne",
+          "instrumental": "ważnym",
+          "locative": "ważnym",
+          "vocative": "ważne"
+        },
+        "nonMasculinePersonalPlural": {
+          "nominative": "ważne",
+          "genitive": "ważnych",
+          "dative": "ważnym",
+          "accusative": "ważne",
+          "instrumental": "ważnymi",
+          "locative": "ważnych",
+          "vocative": "ważne"
+        },
+        "masculinePersonalPlural": {
+          "nominative": null,
+          "genitive": "ważnych",
+          "dative": "ważnym",
+          "accusative": "ważnych",
+          "instrumental": "ważnymi",
+          "locative": "ważnych",
+          "vocative": null
+        }
+      }
+    },
+    "formsStatus": "pattern-generated-partial-requires-dictionary-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/ważny#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v048",
+    "lemma": "inny",
+    "meaning": "other; different",
+    "partOfSpeech": "adjective",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "adjectiveDeclension": {
+        "masculineSingular": {
+          "nominative": "inny",
+          "genitive": "innego",
+          "dative": "innemu",
+          "accusative": {
+            "animate": "innego",
+            "inanimate": "inny"
+          },
+          "instrumental": "innym",
+          "locative": "innym",
+          "vocative": "inny"
+        },
+        "feminineSingular": {
+          "nominative": "inna",
+          "genitive": "innej",
+          "dative": "innej",
+          "accusative": "inną",
+          "instrumental": "inną",
+          "locative": "innej",
+          "vocative": "inna"
+        },
+        "neuterSingular": {
+          "nominative": "inne",
+          "genitive": "innego",
+          "dative": "innemu",
+          "accusative": "inne",
+          "instrumental": "innym",
+          "locative": "innym",
+          "vocative": "inne"
+        },
+        "nonMasculinePersonalPlural": {
+          "nominative": "inne",
+          "genitive": "innych",
+          "dative": "innym",
+          "accusative": "inne",
+          "instrumental": "innymi",
+          "locative": "innych",
+          "vocative": "inne"
+        },
+        "masculinePersonalPlural": {
+          "nominative": null,
+          "genitive": "innych",
+          "dative": "innym",
+          "accusative": "innych",
+          "instrumental": "innymi",
+          "locative": "innych",
+          "vocative": null
+        }
+      }
+    },
+    "formsStatus": "pattern-generated-partial-requires-dictionary-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/inny#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v049",
+    "lemma": "pierwszy",
+    "meaning": "first",
+    "partOfSpeech": "adjective",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "adjectiveDeclension": {
+        "masculineSingular": {
+          "nominative": "pierwszy",
+          "genitive": "pierwszego",
+          "dative": "pierwszemu",
+          "accusative": "pierwszego",
+          "instrumental": "pierwszym",
+          "locative": "pierwszym",
+          "vocative": "pierwszy"
+        },
+        "feminineSingular": {
+          "nominative": "pierwsza",
+          "genitive": "pierwszej",
+          "dative": "pierwszej",
+          "accusative": "pierwszą",
+          "instrumental": "pierwszą",
+          "locative": "pierwszej",
+          "vocative": "pierwsza"
+        },
+        "neuterSingular": {
+          "nominative": "pierwsze",
+          "genitive": "pierwszego",
+          "dative": "pierwszemu",
+          "accusative": "pierwsze",
+          "instrumental": "pierwszym",
+          "locative": "pierwszym",
+          "vocative": "pierwsze"
+        },
+        "masculinePersonalPlural": {
+          "nominative": "pierwsi",
+          "genitive": "pierwszych",
+          "dative": "pierwszym",
+          "accusative": "pierwszych",
+          "instrumental": "pierwszymi",
+          "locative": "pierwszych",
+          "vocative": "pierwsi"
+        },
+        "otherPlural": {
+          "nominative": "pierwsze",
+          "genitive": "pierwszych",
+          "dative": "pierwszym",
+          "accusative": "pierwsze",
+          "instrumental": "pierwszymi",
+          "locative": "pierwszych",
+          "vocative": "pierwsze"
+        }
+      }
+    },
+    "formsStatus": "draft-needs-dictionary-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/pierwszy#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v050",
+    "lemma": "ostatni",
+    "meaning": "last",
+    "partOfSpeech": "adjective",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "adjectiveDeclension": {
+        "masculineSingular": {
+          "nominative": "ostatni",
+          "genitive": "ostatniego",
+          "dative": "ostatniemu",
+          "accusative": "ostatniego",
+          "instrumental": "ostatnim",
+          "locative": "ostatnim",
+          "vocative": "ostatni"
+        },
+        "feminineSingular": {
+          "nominative": "ostatnia",
+          "genitive": "ostatniej",
+          "dative": "ostatniej",
+          "accusative": "ostatnią",
+          "instrumental": "ostatnią",
+          "locative": "ostatniej",
+          "vocative": "ostatnia"
+        },
+        "neuterSingular": {
+          "nominative": "ostatnie",
+          "genitive": "ostatniego",
+          "dative": "ostatniemu",
+          "accusative": "ostatnie",
+          "instrumental": "ostatnim",
+          "locative": "ostatnim",
+          "vocative": "ostatnie"
+        },
+        "masculinePersonalPlural": {
+          "nominative": "ostatni",
+          "genitive": "ostatnich",
+          "dative": "ostatnim",
+          "accusative": "ostatnich",
+          "instrumental": "ostatnimi",
+          "locative": "ostatnich",
+          "vocative": "ostatni"
+        },
+        "otherPlural": {
+          "nominative": "ostatnie",
+          "genitive": "ostatnich",
+          "dative": "ostatnim",
+          "accusative": "ostatnie",
+          "instrumental": "ostatnimi",
+          "locative": "ostatnich",
+          "vocative": "ostatnie"
+        }
+      }
+    },
+    "formsStatus": "draft-needs-dictionary-check",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/ostatni#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v051",
+    "lemma": "ja",
+    "meaning": "I",
+    "partOfSpeech": "pronoun",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "caseVariants": {
+        "nominative": [
+          "ja"
+        ],
+        "genitive": [
+          "mnie"
+        ],
+        "dative": [
+          "mi",
+          "mnie"
+        ],
+        "accusative": [
+          "mnie"
+        ],
+        "instrumental": [
+          "mną"
+        ],
+        "locative": [
+          "mnie"
+        ],
+        "vocative": [
+          "ja"
+        ]
+      }
+    },
+    "formsStatus": "draft-pronoun-variants-needs-context-and-dictionary-review",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/ja#Polish"
+    ],
+    "linguisticallyVerified": false,
+    "usageNotes": [
+      "Short/clitic forms such as mi, ci, go, mu, im are not freely interchangeable with emphatic forms.",
+      "After prepositions, third-person forms commonly use initial n- (e.g. niego, niej, nich); not every variant is valid in every context.",
+      "Vocative entries for personal pronouns are identical to nominative but are uncommon as direct address; exclude from automatic drills pending review."
+    ]
+  },
+  {
+    "id": "v052",
+    "lemma": "ty",
+    "meaning": "you singular",
+    "partOfSpeech": "pronoun",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "caseVariants": {
+        "nominative": [
+          "ty"
+        ],
+        "genitive": [
+          "ciebie",
+          "cię"
+        ],
+        "dative": [
+          "tobie",
+          "ci"
+        ],
+        "accusative": [
+          "ciebie",
+          "cię"
+        ],
+        "instrumental": [
+          "tobą"
+        ],
+        "locative": [
+          "tobie"
+        ],
+        "vocative": [
+          "ty"
+        ]
+      }
+    },
+    "formsStatus": "draft-pronoun-variants-needs-context-and-dictionary-review",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/ty#Polish"
+    ],
+    "linguisticallyVerified": false,
+    "usageNotes": [
+      "Short/clitic forms such as mi, ci, go, mu, im are not freely interchangeable with emphatic forms.",
+      "After prepositions, third-person forms commonly use initial n- (e.g. niego, niej, nich); not every variant is valid in every context.",
+      "Vocative entries for personal pronouns are identical to nominative but are uncommon as direct address; exclude from automatic drills pending review."
+    ]
+  },
+  {
+    "id": "v053",
+    "lemma": "on",
+    "meaning": "he",
+    "partOfSpeech": "pronoun",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "caseVariants": {
+        "nominative": [
+          "on"
+        ],
+        "genitive": [
+          "jego",
+          "go",
+          "niego"
+        ],
+        "dative": [
+          "jemu",
+          "mu",
+          "niemu"
+        ],
+        "accusative": [
+          "jego",
+          "go",
+          "niego"
+        ],
+        "instrumental": [
+          "nim"
+        ],
+        "locative": [
+          "nim"
+        ],
+        "vocative": [
+          "on"
+        ]
+      }
+    },
+    "formsStatus": "draft-pronoun-variants-needs-context-and-dictionary-review",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/on#Polish"
+    ],
+    "linguisticallyVerified": false,
+    "usageNotes": [
+      "Short/clitic forms such as mi, ci, go, mu, im are not freely interchangeable with emphatic forms.",
+      "After prepositions, third-person forms commonly use initial n- (e.g. niego, niej, nich); not every variant is valid in every context.",
+      "Vocative entries for personal pronouns are identical to nominative but are uncommon as direct address; exclude from automatic drills pending review."
+    ]
+  },
+  {
+    "id": "v054",
+    "lemma": "ona",
+    "meaning": "she",
+    "partOfSpeech": "pronoun",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "caseVariants": {
+        "nominative": [
+          "ona"
+        ],
+        "genitive": [
+          "jej",
+          "niej"
+        ],
+        "dative": [
+          "jej",
+          "niej"
+        ],
+        "accusative": [
+          "ją",
+          "nią"
+        ],
+        "instrumental": [
+          "nią"
+        ],
+        "locative": [
+          "niej"
+        ],
+        "vocative": [
+          "ona"
+        ]
+      }
+    },
+    "formsStatus": "draft-pronoun-variants-needs-context-and-dictionary-review",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/ona#Polish"
+    ],
+    "linguisticallyVerified": false,
+    "usageNotes": [
+      "Short/clitic forms such as mi, ci, go, mu, im are not freely interchangeable with emphatic forms.",
+      "After prepositions, third-person forms commonly use initial n- (e.g. niego, niej, nich); not every variant is valid in every context.",
+      "Vocative entries for personal pronouns are identical to nominative but are uncommon as direct address; exclude from automatic drills pending review."
+    ]
+  },
+  {
+    "id": "v055",
+    "lemma": "ono",
+    "meaning": "it",
+    "partOfSpeech": "pronoun",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "caseVariants": {
+        "nominative": [
+          "ono"
+        ],
+        "genitive": [
+          "jego",
+          "go",
+          "niego"
+        ],
+        "dative": [
+          "jemu",
+          "mu",
+          "niemu"
+        ],
+        "accusative": [
+          "je",
+          "nie"
+        ],
+        "instrumental": [
+          "nim"
+        ],
+        "locative": [
+          "nim"
+        ],
+        "vocative": [
+          "ono"
+        ]
+      }
+    },
+    "formsStatus": "draft-pronoun-variants-needs-context-and-dictionary-review",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/ono#Polish"
+    ],
+    "linguisticallyVerified": false,
+    "usageNotes": [
+      "Short/clitic forms such as mi, ci, go, mu, im are not freely interchangeable with emphatic forms.",
+      "After prepositions, third-person forms commonly use initial n- (e.g. niego, niej, nich); not every variant is valid in every context.",
+      "Vocative entries for personal pronouns are identical to nominative but are uncommon as direct address; exclude from automatic drills pending review."
+    ]
+  },
+  {
+    "id": "v056",
+    "lemma": "my",
+    "meaning": "we",
+    "partOfSpeech": "pronoun",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "caseVariants": {
+        "nominative": [
+          "my"
+        ],
+        "genitive": [
+          "nas"
+        ],
+        "dative": [
+          "nam"
+        ],
+        "accusative": [
+          "nas"
+        ],
+        "instrumental": [
+          "nami"
+        ],
+        "locative": [
+          "nas"
+        ],
+        "vocative": [
+          "my"
+        ]
+      }
+    },
+    "formsStatus": "draft-pronoun-variants-needs-context-and-dictionary-review",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/my#Polish"
+    ],
+    "linguisticallyVerified": false,
+    "usageNotes": [
+      "Short/clitic forms such as mi, ci, go, mu, im are not freely interchangeable with emphatic forms.",
+      "After prepositions, third-person forms commonly use initial n- (e.g. niego, niej, nich); not every variant is valid in every context.",
+      "Vocative entries for personal pronouns are identical to nominative but are uncommon as direct address; exclude from automatic drills pending review."
+    ]
+  },
+  {
+    "id": "v057",
+    "lemma": "wy",
+    "meaning": "you plural",
+    "partOfSpeech": "pronoun",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "caseVariants": {
+        "nominative": [
+          "wy"
+        ],
+        "genitive": [
+          "was"
+        ],
+        "dative": [
+          "wam"
+        ],
+        "accusative": [
+          "was"
+        ],
+        "instrumental": [
+          "wami"
+        ],
+        "locative": [
+          "was"
+        ],
+        "vocative": [
+          "wy"
+        ]
+      }
+    },
+    "formsStatus": "draft-pronoun-variants-needs-context-and-dictionary-review",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/wy#Polish"
+    ],
+    "linguisticallyVerified": false,
+    "usageNotes": [
+      "Short/clitic forms such as mi, ci, go, mu, im are not freely interchangeable with emphatic forms.",
+      "After prepositions, third-person forms commonly use initial n- (e.g. niego, niej, nich); not every variant is valid in every context.",
+      "Vocative entries for personal pronouns are identical to nominative but are uncommon as direct address; exclude from automatic drills pending review."
+    ]
+  },
+  {
+    "id": "v058",
+    "lemma": "oni",
+    "meaning": "they masculine personal",
+    "partOfSpeech": "pronoun",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "caseVariants": {
+        "nominative": [
+          "oni"
+        ],
+        "genitive": [
+          "ich",
+          "nich"
+        ],
+        "dative": [
+          "im",
+          "nim"
+        ],
+        "accusative": [
+          "ich",
+          "nich"
+        ],
+        "instrumental": [
+          "nimi"
+        ],
+        "locative": [
+          "nich"
+        ],
+        "vocative": [
+          "oni"
+        ]
+      }
+    },
+    "formsStatus": "draft-pronoun-variants-needs-context-and-dictionary-review",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/oni#Polish"
+    ],
+    "linguisticallyVerified": false,
+    "usageNotes": [
+      "Short/clitic forms such as mi, ci, go, mu, im are not freely interchangeable with emphatic forms.",
+      "After prepositions, third-person forms commonly use initial n- (e.g. niego, niej, nich); not every variant is valid in every context.",
+      "Vocative entries for personal pronouns are identical to nominative but are uncommon as direct address; exclude from automatic drills pending review."
+    ]
+  },
+  {
+    "id": "v059",
+    "lemma": "one",
+    "meaning": "they non-masculine personal",
+    "partOfSpeech": "pronoun",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "caseVariants": {
+        "nominative": [
+          "one"
+        ],
+        "genitive": [
+          "ich",
+          "nich"
+        ],
+        "dative": [
+          "im",
+          "nim"
+        ],
+        "accusative": [
+          "je",
+          "nie"
+        ],
+        "instrumental": [
+          "nimi"
+        ],
+        "locative": [
+          "nich"
+        ],
+        "vocative": [
+          "one"
+        ]
+      }
+    },
+    "formsStatus": "draft-pronoun-variants-needs-context-and-dictionary-review",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/one#Polish"
+    ],
+    "linguisticallyVerified": false,
+    "usageNotes": [
+      "Short/clitic forms such as mi, ci, go, mu, im are not freely interchangeable with emphatic forms.",
+      "After prepositions, third-person forms commonly use initial n- (e.g. niego, niej, nich); not every variant is valid in every context.",
+      "Vocative entries for personal pronouns are identical to nominative but are uncommon as direct address; exclude from automatic drills pending review."
+    ]
+  },
+  {
+    "id": "v060",
+    "lemma": "to",
+    "meaning": "this; that; it",
+    "partOfSpeech": "pronoun",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "declensionDraft": {
+        "note": "Ambiguous: neuter demonstrative pronoun, independent “this/that” and particle uses. Context determines declension.",
+        "demonstrativeNeuterSingular": {
+          "nominative": "to",
+          "genitive": "tego",
+          "dative": "temu",
+          "accusative": "to",
+          "instrumental": "tym",
+          "locative": "tym"
+        }
+      }
+    },
+    "formsStatus": "dictionary-tag-reviewed-core-forms; vocative not applicable",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/to#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v061",
+    "lemma": "kto",
+    "meaning": "who",
+    "partOfSpeech": "pronoun",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "caseVariants": {
+        "nominative": [
+          "kto"
+        ],
+        "genitive": [
+          "kogo"
+        ],
+        "dative": [
+          "komu"
+        ],
+        "accusative": [
+          "kogo"
+        ],
+        "instrumental": [
+          "kim"
+        ],
+        "locative": [
+          "kim"
+        ]
+      }
+    },
+    "formsStatus": "draft-pronoun-variants-needs-context-and-dictionary-review",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/kto#Polish"
+    ],
+    "linguisticallyVerified": false,
+    "usageNotes": [
+      "Short/clitic forms such as mi, ci, go, mu, im are not freely interchangeable with emphatic forms.",
+      "After prepositions, third-person forms commonly use initial n- (e.g. niego, niej, nich); not every variant is valid in every context.",
+      "Vocative entries for personal pronouns are identical to nominative but are uncommon as direct address; exclude from automatic drills pending review."
+    ]
+  },
+  {
+    "id": "v062",
+    "lemma": "co",
+    "meaning": "what",
+    "partOfSpeech": "pronoun",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "caseVariants": {
+        "nominative": [
+          "co"
+        ],
+        "genitive": [
+          "czego"
+        ],
+        "dative": [
+          "czemu"
+        ],
+        "accusative": [
+          "co"
+        ],
+        "instrumental": [
+          "czym"
+        ],
+        "locative": [
+          "czym"
+        ]
+      }
+    },
+    "formsStatus": "draft-pronoun-variants-needs-context-and-dictionary-review",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/co#Polish"
+    ],
+    "linguisticallyVerified": false,
+    "usageNotes": [
+      "Short/clitic forms such as mi, ci, go, mu, im are not freely interchangeable with emphatic forms.",
+      "After prepositions, third-person forms commonly use initial n- (e.g. niego, niej, nich); not every variant is valid in every context.",
+      "Vocative entries for personal pronouns are identical to nominative but are uncommon as direct address; exclude from automatic drills pending review."
+    ]
+  },
+  {
+    "id": "v063",
+    "lemma": "który",
+    "meaning": "which",
+    "partOfSpeech": "pronoun",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "declensionDraft": {
+        "masculineSingular": {
+          "nominative": "który",
+          "genitive": "którego",
+          "dative": "któremu",
+          "accusative": "którego",
+          "instrumental": "którym",
+          "locative": "którym",
+          "vocative": "który"
+        },
+        "feminineSingular": {
+          "nominative": "która",
+          "genitive": "której",
+          "dative": "której",
+          "accusative": "którą",
+          "instrumental": "którą",
+          "locative": "której",
+          "vocative": "która"
+        },
+        "neuterSingular": {
+          "nominative": "które",
+          "genitive": "którego",
+          "dative": "któremu",
+          "accusative": "które",
+          "instrumental": "którym",
+          "locative": "którym",
+          "vocative": "które"
+        },
+        "masculinePersonalPlural": {
+          "nominative": "którzy",
+          "genitive": "których",
+          "dative": "którym",
+          "accusative": "których",
+          "instrumental": "którymi",
+          "locative": "których",
+          "vocative": "którzy"
+        },
+        "otherPlural": {
+          "nominative": "które",
+          "genitive": "których",
+          "dative": "którym",
+          "accusative": "które",
+          "instrumental": "którymi",
+          "locative": "których",
+          "vocative": "które"
+        }
+      }
+    },
+    "formsStatus": "complete-core-draft-variant-and-context-review-required",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/który#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v064",
+    "lemma": "ten",
+    "meaning": "this; that",
+    "partOfSpeech": "pronoun",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "declensionDraft": {
+        "masculineSingular": {
+          "nominative": "ten",
+          "genitive": "tego",
+          "dative": "temu",
+          "accusative": "tego",
+          "instrumental": "tym",
+          "locative": "tym",
+          "vocative": "ten"
+        },
+        "feminineSingular": {
+          "nominative": "ta",
+          "genitive": "tej",
+          "dative": "tej",
+          "accusative": "tę",
+          "instrumental": "tą",
+          "locative": "tej",
+          "vocative": "ta"
+        },
+        "neuterSingular": {
+          "nominative": "to",
+          "genitive": "tego",
+          "dative": "temu",
+          "accusative": "to",
+          "instrumental": "tym",
+          "locative": "tym",
+          "vocative": "to"
+        },
+        "masculinePersonalPlural": {
+          "nominative": "ci",
+          "genitive": "tych",
+          "dative": "tym",
+          "accusative": "tych",
+          "instrumental": "tymi",
+          "locative": "tych",
+          "vocative": "ci"
+        },
+        "otherPlural": {
+          "nominative": "te",
+          "genitive": "tych",
+          "dative": "tym",
+          "accusative": "te",
+          "instrumental": "tymi",
+          "locative": "tych",
+          "vocative": "te"
+        }
+      }
+    },
+    "formsStatus": "complete-core-draft-variant-and-context-review-required",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/ten#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v065",
+    "lemma": "swój",
+    "meaning": "one's own",
+    "partOfSpeech": "pronoun",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "declensionDraft": {
+        "masculineSingular": {
+          "nominative": "swój",
+          "genitive": "swojego",
+          "dative": "swojemu",
+          "accusative": "swojego",
+          "instrumental": "swoim",
+          "locative": "swoim",
+          "vocative": "swój"
+        },
+        "feminineSingular": {
+          "nominative": "swoja",
+          "genitive": "swojej",
+          "dative": "swojej",
+          "accusative": "swoją",
+          "instrumental": "swoją",
+          "locative": "swojej",
+          "vocative": "swoja"
+        },
+        "neuterSingular": {
+          "nominative": "swoje",
+          "genitive": "swojego",
+          "dative": "swojemu",
+          "accusative": "swoje",
+          "instrumental": "swoim",
+          "locative": "swoim",
+          "vocative": "swoje"
+        },
+        "masculinePersonalPlural": {
+          "nominative": "swoi",
+          "genitive": "swoich",
+          "dative": "swoim",
+          "accusative": "swoich",
+          "instrumental": "swoimi",
+          "locative": "swoich",
+          "vocative": "swoi"
+        },
+        "otherPlural": {
+          "nominative": "swoje",
+          "genitive": "swoich",
+          "dative": "swoim",
+          "accusative": "swoje",
+          "instrumental": "swoimi",
+          "locative": "swoich",
+          "vocative": "swoje"
+        }
+      }
+    },
+    "formsStatus": "complete-core-draft-variant-and-context-review-required",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/swój#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v066",
+    "lemma": "i",
+    "meaning": "and",
+    "partOfSpeech": "conjunction",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "invariable": true
+    },
+    "formsStatus": "invariable-part-of-speech",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/i#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v067",
+    "lemma": "ale",
+    "meaning": "but",
+    "partOfSpeech": "conjunction",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "invariable": true
+    },
+    "formsStatus": "invariable-part-of-speech",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/ale#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v068",
+    "lemma": "albo",
+    "meaning": "or",
+    "partOfSpeech": "conjunction",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "invariable": true
+    },
+    "formsStatus": "invariable-part-of-speech",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/albo#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v069",
+    "lemma": "bo",
+    "meaning": "because",
+    "partOfSpeech": "conjunction",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "invariable": true
+    },
+    "formsStatus": "invariable-part-of-speech",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/bo#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v070",
+    "lemma": "że",
+    "meaning": "that",
+    "partOfSpeech": "conjunction",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "invariable": true
+    },
+    "formsStatus": "invariable-part-of-speech",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/że#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v071",
+    "lemma": "jeśli",
+    "meaning": "if",
+    "partOfSpeech": "conjunction",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "invariable": true
+    },
+    "formsStatus": "invariable-part-of-speech",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/jeśli#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v072",
+    "lemma": "kiedy",
+    "meaning": "when",
+    "partOfSpeech": "adverb",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "invariable": true
+    },
+    "formsStatus": "invariable-part-of-speech",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/kiedy#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v073",
+    "lemma": "gdzie",
+    "meaning": "where",
+    "partOfSpeech": "adverb",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "invariable": true
+    },
+    "formsStatus": "invariable-part-of-speech",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/gdzie#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v074",
+    "lemma": "jak",
+    "meaning": "how; as",
+    "partOfSpeech": "adverb",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "invariable": true
+    },
+    "formsStatus": "invariable-part-of-speech",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/jak#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v075",
+    "lemma": "dlaczego",
+    "meaning": "why",
+    "partOfSpeech": "adverb",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "invariable": true
+    },
+    "formsStatus": "invariable-part-of-speech",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/dlaczego#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v076",
+    "lemma": "teraz",
+    "meaning": "now",
+    "partOfSpeech": "adverb",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "invariable": true
+    },
+    "formsStatus": "invariable-part-of-speech",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/teraz#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v077",
+    "lemma": "dzisiaj",
+    "meaning": "today",
+    "partOfSpeech": "adverb",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "invariable": true
+    },
+    "formsStatus": "invariable-part-of-speech",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/dzisiaj#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v078",
+    "lemma": "jutro",
+    "meaning": "tomorrow",
+    "partOfSpeech": "adverb",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "invariable": true
+    },
+    "formsStatus": "invariable-part-of-speech",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/jutro#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v079",
+    "lemma": "wczoraj",
+    "meaning": "yesterday",
+    "partOfSpeech": "adverb",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "invariable": true
+    },
+    "formsStatus": "invariable-part-of-speech",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/wczoraj#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v080",
+    "lemma": "zawsze",
+    "meaning": "always",
+    "partOfSpeech": "adverb",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "invariable": true
+    },
+    "formsStatus": "invariable-part-of-speech",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/zawsze#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v081",
+    "lemma": "często",
+    "meaning": "often",
+    "partOfSpeech": "adverb",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "invariable": true
+    },
+    "formsStatus": "invariable-part-of-speech",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/często#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v082",
+    "lemma": "bardzo",
+    "meaning": "very",
+    "partOfSpeech": "adverb",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "invariable": true
+    },
+    "formsStatus": "invariable-part-of-speech",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/bardzo#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v083",
+    "lemma": "dobrze",
+    "meaning": "well",
+    "partOfSpeech": "adverb",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "invariable": true
+    },
+    "formsStatus": "invariable-part-of-speech",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/dobrze#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v084",
+    "lemma": "tutaj",
+    "meaning": "here",
+    "partOfSpeech": "adverb",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "invariable": true
+    },
+    "formsStatus": "invariable-part-of-speech",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/tutaj#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v085",
+    "lemma": "tam",
+    "meaning": "there",
+    "partOfSpeech": "adverb",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "invariable": true
+    },
+    "formsStatus": "invariable-part-of-speech",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/tam#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v086",
+    "lemma": "nie",
+    "meaning": "not; no",
+    "partOfSpeech": "particle",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "invariable": true
+    },
+    "formsStatus": "invariable-part-of-speech",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/nie#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v087",
+    "lemma": "tak",
+    "meaning": "yes; so",
+    "partOfSpeech": "particle",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "invariable": true
+    },
+    "formsStatus": "invariable-part-of-speech",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/tak#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v088",
+    "lemma": "już",
+    "meaning": "already",
+    "partOfSpeech": "particle",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "invariable": true
+    },
+    "formsStatus": "invariable-part-of-speech",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/już#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v089",
+    "lemma": "jeszcze",
+    "meaning": "still; yet",
+    "partOfSpeech": "particle",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "invariable": true
+    },
+    "formsStatus": "invariable-part-of-speech",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/jeszcze#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v090",
+    "lemma": "tylko",
+    "meaning": "only",
+    "partOfSpeech": "particle",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "invariable": true
+    },
+    "formsStatus": "invariable-part-of-speech",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/tylko#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v091",
+    "lemma": "w",
+    "meaning": "in; at",
+    "partOfSpeech": "preposition",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "invariable": true,
+      "governsCases": {
+        "locative": "static location: w domu",
+        "accusative": "some time expressions: w poniedziałek"
+      }
+    },
+    "formsStatus": "usage-pattern-draft-needs-reference-review",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/w#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v092",
+    "lemma": "na",
+    "meaning": "on; at; to",
+    "partOfSpeech": "preposition",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "invariable": true,
+      "governsCases": {
+        "locative": "static location: na stole",
+        "accusative": "destination: na stół"
+      }
+    },
+    "formsStatus": "usage-pattern-draft-needs-reference-review",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/na#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v093",
+    "lemma": "do",
+    "meaning": "to; into",
+    "partOfSpeech": "preposition",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "invariable": true,
+      "governsCases": {
+        "genitive": "destination: do domu"
+      }
+    },
+    "formsStatus": "usage-pattern-draft-needs-reference-review",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/do#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v094",
+    "lemma": "z",
+    "meaning": "with; from",
+    "partOfSpeech": "preposition",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "invariable": true,
+      "governsCases": {
+        "genitive": "origin: z domu",
+        "instrumental": "accompaniment: z kotem"
+      }
+    },
+    "formsStatus": "usage-pattern-draft-needs-reference-review",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/z#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v095",
+    "lemma": "od",
+    "meaning": "from; since",
+    "partOfSpeech": "preposition",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "invariable": true,
+      "governsCases": {
+        "genitive": "from: od mamy"
+      }
+    },
+    "formsStatus": "usage-pattern-draft-needs-reference-review",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/od#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v096",
+    "lemma": "dla",
+    "meaning": "for",
+    "partOfSpeech": "preposition",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "invariable": true,
+      "governsCases": {
+        "genitive": "for: dla mamy"
+      }
+    },
+    "formsStatus": "usage-pattern-draft-needs-reference-review",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/dla#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v097",
+    "lemma": "po",
+    "meaning": "after; around",
+    "partOfSpeech": "preposition",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "invariable": true,
+      "governsCases": {
+        "locative": "after/on: po pracy",
+        "accusative": "to collect or fetch: iść po wodę"
+      }
+    },
+    "formsStatus": "usage-pattern-draft-needs-reference-review",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/po#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v098",
+    "lemma": "o",
+    "meaning": "about; at",
+    "partOfSpeech": "preposition",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "invariable": true,
+      "governsCases": {
+        "locative": "about: o książce",
+        "accusative": "requested object: prosić o pomoc"
+      }
+    },
+    "formsStatus": "usage-pattern-draft-needs-reference-review",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/o#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v099",
+    "lemma": "przez",
+    "meaning": "through; by",
+    "partOfSpeech": "preposition",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "invariable": true,
+      "governsCases": {
+        "accusative": "through: przez park"
+      }
+    },
+    "formsStatus": "usage-pattern-draft-needs-reference-review",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/przez#Polish"
+    ],
+    "linguisticallyVerified": false
+  },
+  {
+    "id": "v100",
+    "lemma": "bez",
+    "meaning": "without",
+    "partOfSpeech": "preposition",
+    "frequencyRank": null,
+    "frequencyStatus": "curated-not-corpus-ranked",
+    "forms": {
+      "invariable": true,
+      "governsCases": {
+        "genitive": "without: bez wody"
+      }
+    },
+    "formsStatus": "usage-pattern-draft-needs-reference-review",
+    "sourceLinks": [
+      "https://en.wiktionary.org/wiki/bez#Polish"
+    ],
+    "linguisticallyVerified": false
+  }
+]

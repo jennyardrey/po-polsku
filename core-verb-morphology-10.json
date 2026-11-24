@@ -1,0 +1,3236 @@
+[
+  {
+    "lemma": "być",
+    "aspectTags": [
+      "imperf"
+    ],
+    "indicativePresentOrPerfectiveFuture": [
+      {
+        "tag": "fin:pl:pri:imperf",
+        "forms": [
+          "jesteśmy"
+        ]
+      },
+      {
+        "tag": "fin:pl:sec:imperf",
+        "forms": [
+          "jesteście"
+        ]
+      },
+      {
+        "tag": "fin:pl:ter:imperf",
+        "forms": [
+          "są"
+        ]
+      },
+      {
+        "tag": "fin:sg:pri:imperf",
+        "forms": [
+          "jestem"
+        ]
+      },
+      {
+        "tag": "fin:sg:sec:imperf",
+        "forms": [
+          "jesteś"
+        ]
+      },
+      {
+        "tag": "fin:sg:ter:imperf",
+        "forms": [
+          "jest"
+        ]
+      }
+    ],
+    "futureOfByc": [
+      {
+        "tag": "bedzie:pl:pri:imperf",
+        "forms": [
+          "będziemy"
+        ]
+      },
+      {
+        "tag": "bedzie:pl:sec:imperf",
+        "forms": [
+          "będziecie"
+        ]
+      },
+      {
+        "tag": "bedzie:pl:ter:imperf",
+        "forms": [
+          "będą"
+        ]
+      },
+      {
+        "tag": "bedzie:sg:pri:imperf",
+        "forms": [
+          "będę"
+        ]
+      },
+      {
+        "tag": "bedzie:sg:sec:imperf",
+        "forms": [
+          "będziesz"
+        ]
+      },
+      {
+        "tag": "bedzie:sg:ter:imperf",
+        "forms": [
+          "będzie"
+        ]
+      }
+    ],
+    "pastStemsGenderAndNumber": [
+      {
+        "tag": "praet:pl:m1:imperf",
+        "forms": [
+          "byli"
+        ]
+      },
+      {
+        "tag": "praet:pl:m1:pri:imperf",
+        "forms": [
+          "byliśmy"
+        ]
+      },
+      {
+        "tag": "praet:pl:m1:sec:imperf",
+        "forms": [
+          "byliście"
+        ]
+      },
+      {
+        "tag": "praet:pl:m1:ter:imperf",
+        "forms": [
+          "byli"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:imperf",
+        "forms": [
+          "były"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:pri:imperf",
+        "forms": [
+          "byłyśmy"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:sec:imperf",
+        "forms": [
+          "byłyście"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:ter:imperf",
+        "forms": [
+          "były"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:imperf",
+        "forms": [
+          "była"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:pri:imperf",
+        "forms": [
+          "byłam"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:sec:imperf",
+        "forms": [
+          "byłaś"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:ter:imperf",
+        "forms": [
+          "była"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:imperf",
+        "forms": [
+          "był"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:pri:imperf",
+        "forms": [
+          "byłem"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:sec:imperf",
+        "forms": [
+          "byłeś"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:ter:imperf",
+        "forms": [
+          "był"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:imperf",
+        "forms": [
+          "było"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:pri:imperf",
+        "forms": [
+          "byłom"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:sec:imperf",
+        "forms": [
+          "byłoś"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:ter:imperf",
+        "forms": [
+          "było"
+        ]
+      }
+    ],
+    "conditional": [
+      {
+        "tag": "cond:pl:m1:pri:imperf",
+        "forms": [
+          "bylibyśmy"
+        ]
+      },
+      {
+        "tag": "cond:pl:m1:sec:imperf",
+        "forms": [
+          "bylibyście"
+        ]
+      },
+      {
+        "tag": "cond:pl:m1:ter:imperf",
+        "forms": [
+          "byliby"
+        ]
+      },
+      {
+        "tag": "cond:pl:m2.m3.f.n:pri:imperf",
+        "forms": [
+          "byłybyśmy"
+        ]
+      },
+      {
+        "tag": "cond:pl:m2.m3.f.n:sec:imperf",
+        "forms": [
+          "byłybyście"
+        ]
+      },
+      {
+        "tag": "cond:pl:m2.m3.f.n:ter:imperf",
+        "forms": [
+          "byłyby"
+        ]
+      },
+      {
+        "tag": "cond:sg:f:pri:imperf",
+        "forms": [
+          "byłabym"
+        ]
+      },
+      {
+        "tag": "cond:sg:f:sec:imperf",
+        "forms": [
+          "byłabyś"
+        ]
+      },
+      {
+        "tag": "cond:sg:f:ter:imperf",
+        "forms": [
+          "byłaby"
+        ]
+      },
+      {
+        "tag": "cond:sg:m1.m2.m3:pri:imperf",
+        "forms": [
+          "byłbym"
+        ]
+      },
+      {
+        "tag": "cond:sg:m1.m2.m3:sec:imperf",
+        "forms": [
+          "byłbyś"
+        ]
+      },
+      {
+        "tag": "cond:sg:m1.m2.m3:ter:imperf",
+        "forms": [
+          "byłby"
+        ]
+      },
+      {
+        "tag": "cond:sg:n:pri:imperf",
+        "forms": [
+          "byłobym"
+        ]
+      },
+      {
+        "tag": "cond:sg:n:sec:imperf",
+        "forms": [
+          "byłobyś"
+        ]
+      },
+      {
+        "tag": "cond:sg:n:ter:imperf",
+        "forms": [
+          "byłoby"
+        ]
+      }
+    ],
+    "imperative": [
+      {
+        "tag": "impt:pl:pri:imperf",
+        "forms": [
+          "bądźmy"
+        ]
+      },
+      {
+        "tag": "impt:pl:sec:imperf",
+        "forms": [
+          "bądźcie"
+        ]
+      },
+      {
+        "tag": "impt:sg:sec:imperf",
+        "forms": [
+          "bądź"
+        ]
+      }
+    ],
+    "infinitive": [
+      {
+        "tag": "inf:imperf",
+        "forms": [
+          "być"
+        ]
+      }
+    ],
+    "usageNotes": [
+      "Imperfective verbs may use a compound future with forms of być.",
+      "Past-tense forms require personal endings; dictionary praet forms are not a complete stand-alone person table.",
+      "Some dictionary tags cover rare forms; curate beginner drills by usage context."
+    ]
+  },
+  {
+    "lemma": "mieć",
+    "aspectTags": [
+      "imperf"
+    ],
+    "indicativePresentOrPerfectiveFuture": [
+      {
+        "tag": "fin:pl:pri:imperf",
+        "forms": [
+          "mamy"
+        ]
+      },
+      {
+        "tag": "fin:pl:sec:imperf",
+        "forms": [
+          "macie"
+        ]
+      },
+      {
+        "tag": "fin:pl:ter:imperf",
+        "forms": [
+          "mają"
+        ]
+      },
+      {
+        "tag": "fin:sg:pri:imperf",
+        "forms": [
+          "mam"
+        ]
+      },
+      {
+        "tag": "fin:sg:sec:imperf",
+        "forms": [
+          "masz"
+        ]
+      },
+      {
+        "tag": "fin:sg:ter:imperf",
+        "forms": [
+          "ma"
+        ]
+      }
+    ],
+    "futureOfByc": [],
+    "pastStemsGenderAndNumber": [
+      {
+        "tag": "praet:pl:m1:imperf",
+        "forms": [
+          "mieli"
+        ]
+      },
+      {
+        "tag": "praet:pl:m1:pri:imperf",
+        "forms": [
+          "mieliśmy"
+        ]
+      },
+      {
+        "tag": "praet:pl:m1:sec:imperf",
+        "forms": [
+          "mieliście"
+        ]
+      },
+      {
+        "tag": "praet:pl:m1:ter:imperf",
+        "forms": [
+          "mieli"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:imperf",
+        "forms": [
+          "miały"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:pri:imperf",
+        "forms": [
+          "miałyśmy"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:sec:imperf",
+        "forms": [
+          "miałyście"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:ter:imperf",
+        "forms": [
+          "miały"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:imperf",
+        "forms": [
+          "miała"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:pri:imperf",
+        "forms": [
+          "miałam"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:sec:imperf",
+        "forms": [
+          "miałaś"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:ter:imperf",
+        "forms": [
+          "miała"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:imperf",
+        "forms": [
+          "miał"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:pri:imperf",
+        "forms": [
+          "miałem"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:sec:imperf",
+        "forms": [
+          "miałeś"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:ter:imperf",
+        "forms": [
+          "miał"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:imperf",
+        "forms": [
+          "miało"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:pri:imperf",
+        "forms": [
+          "miałom"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:sec:imperf",
+        "forms": [
+          "miałoś"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:ter:imperf",
+        "forms": [
+          "miało"
+        ]
+      }
+    ],
+    "conditional": [
+      {
+        "tag": "cond:pl:m1:pri:imperf",
+        "forms": [
+          "mielibyśmy"
+        ]
+      },
+      {
+        "tag": "cond:pl:m1:sec:imperf",
+        "forms": [
+          "mielibyście"
+        ]
+      },
+      {
+        "tag": "cond:pl:m1:ter:imperf",
+        "forms": [
+          "mieliby"
+        ]
+      },
+      {
+        "tag": "cond:pl:m2.m3.f.n:pri:imperf",
+        "forms": [
+          "miałybyśmy"
+        ]
+      },
+      {
+        "tag": "cond:pl:m2.m3.f.n:sec:imperf",
+        "forms": [
+          "miałybyście"
+        ]
+      },
+      {
+        "tag": "cond:pl:m2.m3.f.n:ter:imperf",
+        "forms": [
+          "miałyby"
+        ]
+      },
+      {
+        "tag": "cond:sg:f:pri:imperf",
+        "forms": [
+          "miałabym"
+        ]
+      },
+      {
+        "tag": "cond:sg:f:sec:imperf",
+        "forms": [
+          "miałabyś"
+        ]
+      },
+      {
+        "tag": "cond:sg:f:ter:imperf",
+        "forms": [
+          "miałaby"
+        ]
+      },
+      {
+        "tag": "cond:sg:m1.m2.m3:pri:imperf",
+        "forms": [
+          "miałbym"
+        ]
+      },
+      {
+        "tag": "cond:sg:m1.m2.m3:sec:imperf",
+        "forms": [
+          "miałbyś"
+        ]
+      },
+      {
+        "tag": "cond:sg:m1.m2.m3:ter:imperf",
+        "forms": [
+          "miałby"
+        ]
+      },
+      {
+        "tag": "cond:sg:n:pri:imperf",
+        "forms": [
+          "miałobym"
+        ]
+      },
+      {
+        "tag": "cond:sg:n:sec:imperf",
+        "forms": [
+          "miałobyś"
+        ]
+      },
+      {
+        "tag": "cond:sg:n:ter:imperf",
+        "forms": [
+          "miałoby"
+        ]
+      }
+    ],
+    "imperative": [
+      {
+        "tag": "impt:pl:pri:imperf",
+        "forms": [
+          "miejmy"
+        ]
+      },
+      {
+        "tag": "impt:pl:sec:imperf",
+        "forms": [
+          "miejcie"
+        ]
+      },
+      {
+        "tag": "impt:sg:sec:imperf",
+        "forms": [
+          "miej"
+        ]
+      }
+    ],
+    "infinitive": [
+      {
+        "tag": "inf:imperf",
+        "forms": [
+          "mieć"
+        ]
+      }
+    ],
+    "usageNotes": [
+      "Imperfective verbs may use a compound future with forms of być.",
+      "Past-tense forms require personal endings; dictionary praet forms are not a complete stand-alone person table.",
+      "Some dictionary tags cover rare forms; curate beginner drills by usage context."
+    ]
+  },
+  {
+    "lemma": "móc",
+    "aspectTags": [
+      "imperf"
+    ],
+    "indicativePresentOrPerfectiveFuture": [
+      {
+        "tag": "fin:pl:pri:imperf",
+        "forms": [
+          "możemy"
+        ]
+      },
+      {
+        "tag": "fin:pl:sec:imperf",
+        "forms": [
+          "możecie"
+        ]
+      },
+      {
+        "tag": "fin:pl:ter:imperf",
+        "forms": [
+          "mogą"
+        ]
+      },
+      {
+        "tag": "fin:sg:pri:imperf",
+        "forms": [
+          "mogę"
+        ]
+      },
+      {
+        "tag": "fin:sg:sec:imperf",
+        "forms": [
+          "możesz"
+        ]
+      },
+      {
+        "tag": "fin:sg:ter:imperf",
+        "forms": [
+          "może"
+        ]
+      }
+    ],
+    "futureOfByc": [],
+    "pastStemsGenderAndNumber": [
+      {
+        "tag": "praet:pl:m1:imperf",
+        "forms": [
+          "mogli"
+        ]
+      },
+      {
+        "tag": "praet:pl:m1:pri:imperf",
+        "forms": [
+          "mogliśmy"
+        ]
+      },
+      {
+        "tag": "praet:pl:m1:sec:imperf",
+        "forms": [
+          "mogliście"
+        ]
+      },
+      {
+        "tag": "praet:pl:m1:ter:imperf",
+        "forms": [
+          "mogli"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:imperf",
+        "forms": [
+          "mogły"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:pri:imperf",
+        "forms": [
+          "mogłyśmy"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:sec:imperf",
+        "forms": [
+          "mogłyście"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:ter:imperf",
+        "forms": [
+          "mogły"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:imperf",
+        "forms": [
+          "mogła"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:pri:imperf",
+        "forms": [
+          "mogłam"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:sec:imperf",
+        "forms": [
+          "mogłaś"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:ter:imperf",
+        "forms": [
+          "mogła"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:imperf:agl",
+        "forms": [
+          "mogł"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:imperf:nagl",
+        "forms": [
+          "mógł"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:pri:imperf",
+        "forms": [
+          "mogłem"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:sec:imperf",
+        "forms": [
+          "mogłeś"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:ter:imperf",
+        "forms": [
+          "mógł"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:imperf",
+        "forms": [
+          "mogło"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:pri:imperf",
+        "forms": [
+          "mogłom"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:sec:imperf",
+        "forms": [
+          "mogłoś"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:ter:imperf",
+        "forms": [
+          "mogło"
+        ]
+      }
+    ],
+    "conditional": [
+      {
+        "tag": "cond:pl:m1:pri:imperf",
+        "forms": [
+          "moglibyśmy"
+        ]
+      },
+      {
+        "tag": "cond:pl:m1:sec:imperf",
+        "forms": [
+          "moglibyście"
+        ]
+      },
+      {
+        "tag": "cond:pl:m1:ter:imperf",
+        "forms": [
+          "mogliby"
+        ]
+      },
+      {
+        "tag": "cond:pl:m2.m3.f.n:pri:imperf",
+        "forms": [
+          "mogłybyśmy"
+        ]
+      },
+      {
+        "tag": "cond:pl:m2.m3.f.n:sec:imperf",
+        "forms": [
+          "mogłybyście"
+        ]
+      },
+      {
+        "tag": "cond:pl:m2.m3.f.n:ter:imperf",
+        "forms": [
+          "mogłyby"
+        ]
+      },
+      {
+        "tag": "cond:sg:f:pri:imperf",
+        "forms": [
+          "mogłabym"
+        ]
+      },
+      {
+        "tag": "cond:sg:f:sec:imperf",
+        "forms": [
+          "mogłabyś"
+        ]
+      },
+      {
+        "tag": "cond:sg:f:ter:imperf",
+        "forms": [
+          "mogłaby"
+        ]
+      },
+      {
+        "tag": "cond:sg:m1.m2.m3:pri:imperf",
+        "forms": [
+          "mógłbym"
+        ]
+      },
+      {
+        "tag": "cond:sg:m1.m2.m3:sec:imperf",
+        "forms": [
+          "mógłbyś"
+        ]
+      },
+      {
+        "tag": "cond:sg:m1.m2.m3:ter:imperf",
+        "forms": [
+          "mógłby"
+        ]
+      },
+      {
+        "tag": "cond:sg:n:pri:imperf",
+        "forms": [
+          "mogłobym"
+        ]
+      },
+      {
+        "tag": "cond:sg:n:sec:imperf",
+        "forms": [
+          "mogłobyś"
+        ]
+      },
+      {
+        "tag": "cond:sg:n:ter:imperf",
+        "forms": [
+          "mogłoby"
+        ]
+      }
+    ],
+    "imperative": [
+      {
+        "tag": "impt:pl:pri:imperf",
+        "forms": [
+          "móżmy"
+        ]
+      },
+      {
+        "tag": "impt:pl:sec:imperf",
+        "forms": [
+          "móżcie"
+        ]
+      },
+      {
+        "tag": "impt:sg:sec:imperf",
+        "forms": [
+          "móż"
+        ]
+      }
+    ],
+    "infinitive": [
+      {
+        "tag": "inf:imperf",
+        "forms": [
+          "móc"
+        ]
+      }
+    ],
+    "usageNotes": [
+      "Imperfective verbs may use a compound future with forms of być.",
+      "Past-tense forms require personal endings; dictionary praet forms are not a complete stand-alone person table.",
+      "Some dictionary tags cover rare forms; curate beginner drills by usage context."
+    ]
+  },
+  {
+    "lemma": "wiedzieć",
+    "aspectTags": [
+      "imperf"
+    ],
+    "indicativePresentOrPerfectiveFuture": [
+      {
+        "tag": "fin:pl:pri:imperf",
+        "forms": [
+          "wiemy"
+        ]
+      },
+      {
+        "tag": "fin:pl:sec:imperf",
+        "forms": [
+          "wiecie"
+        ]
+      },
+      {
+        "tag": "fin:pl:ter:imperf",
+        "forms": [
+          "wiedzą"
+        ]
+      },
+      {
+        "tag": "fin:sg:pri:imperf",
+        "forms": [
+          "wiem"
+        ]
+      },
+      {
+        "tag": "fin:sg:sec:imperf",
+        "forms": [
+          "wiesz"
+        ]
+      },
+      {
+        "tag": "fin:sg:ter:imperf",
+        "forms": [
+          "wie"
+        ]
+      }
+    ],
+    "futureOfByc": [],
+    "pastStemsGenderAndNumber": [
+      {
+        "tag": "praet:pl:m1:imperf",
+        "forms": [
+          "wiedzieli"
+        ]
+      },
+      {
+        "tag": "praet:pl:m1:pri:imperf",
+        "forms": [
+          "wiedzieliśmy"
+        ]
+      },
+      {
+        "tag": "praet:pl:m1:sec:imperf",
+        "forms": [
+          "wiedzieliście"
+        ]
+      },
+      {
+        "tag": "praet:pl:m1:ter:imperf",
+        "forms": [
+          "wiedzieli"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:imperf",
+        "forms": [
+          "wiedziały"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:pri:imperf",
+        "forms": [
+          "wiedziałyśmy"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:sec:imperf",
+        "forms": [
+          "wiedziałyście"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:ter:imperf",
+        "forms": [
+          "wiedziały"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:imperf",
+        "forms": [
+          "wiedziała"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:pri:imperf",
+        "forms": [
+          "wiedziałam"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:sec:imperf",
+        "forms": [
+          "wiedziałaś"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:ter:imperf",
+        "forms": [
+          "wiedziała"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:imperf",
+        "forms": [
+          "wiedział"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:pri:imperf",
+        "forms": [
+          "wiedziałem"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:sec:imperf",
+        "forms": [
+          "wiedziałeś"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:ter:imperf",
+        "forms": [
+          "wiedział"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:imperf",
+        "forms": [
+          "wiedziało"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:pri:imperf",
+        "forms": [
+          "wiedziałom"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:sec:imperf",
+        "forms": [
+          "wiedziałoś"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:ter:imperf",
+        "forms": [
+          "wiedziało"
+        ]
+      }
+    ],
+    "conditional": [
+      {
+        "tag": "cond:pl:m1:pri:imperf",
+        "forms": [
+          "wiedzielibyśmy"
+        ]
+      },
+      {
+        "tag": "cond:pl:m1:sec:imperf",
+        "forms": [
+          "wiedzielibyście"
+        ]
+      },
+      {
+        "tag": "cond:pl:m1:ter:imperf",
+        "forms": [
+          "wiedzieliby"
+        ]
+      },
+      {
+        "tag": "cond:pl:m2.m3.f.n:pri:imperf",
+        "forms": [
+          "wiedziałybyśmy"
+        ]
+      },
+      {
+        "tag": "cond:pl:m2.m3.f.n:sec:imperf",
+        "forms": [
+          "wiedziałybyście"
+        ]
+      },
+      {
+        "tag": "cond:pl:m2.m3.f.n:ter:imperf",
+        "forms": [
+          "wiedziałyby"
+        ]
+      },
+      {
+        "tag": "cond:sg:f:pri:imperf",
+        "forms": [
+          "wiedziałabym"
+        ]
+      },
+      {
+        "tag": "cond:sg:f:sec:imperf",
+        "forms": [
+          "wiedziałabyś"
+        ]
+      },
+      {
+        "tag": "cond:sg:f:ter:imperf",
+        "forms": [
+          "wiedziałaby"
+        ]
+      },
+      {
+        "tag": "cond:sg:m1.m2.m3:pri:imperf",
+        "forms": [
+          "wiedziałbym"
+        ]
+      },
+      {
+        "tag": "cond:sg:m1.m2.m3:sec:imperf",
+        "forms": [
+          "wiedziałbyś"
+        ]
+      },
+      {
+        "tag": "cond:sg:m1.m2.m3:ter:imperf",
+        "forms": [
+          "wiedziałby"
+        ]
+      },
+      {
+        "tag": "cond:sg:n:pri:imperf",
+        "forms": [
+          "wiedziałobym"
+        ]
+      },
+      {
+        "tag": "cond:sg:n:sec:imperf",
+        "forms": [
+          "wiedziałobyś"
+        ]
+      },
+      {
+        "tag": "cond:sg:n:ter:imperf",
+        "forms": [
+          "wiedziałoby"
+        ]
+      }
+    ],
+    "imperative": [
+      {
+        "tag": "impt:pl:pri:imperf",
+        "forms": [
+          "wiedzmy"
+        ]
+      },
+      {
+        "tag": "impt:pl:sec:imperf",
+        "forms": [
+          "wiedzcie"
+        ]
+      },
+      {
+        "tag": "impt:sg:sec:imperf",
+        "forms": [
+          "wiedz"
+        ]
+      }
+    ],
+    "infinitive": [
+      {
+        "tag": "inf:imperf",
+        "forms": [
+          "wiedzieć"
+        ]
+      }
+    ],
+    "usageNotes": [
+      "Imperfective verbs may use a compound future with forms of być.",
+      "Past-tense forms require personal endings; dictionary praet forms are not a complete stand-alone person table.",
+      "Some dictionary tags cover rare forms; curate beginner drills by usage context."
+    ]
+  },
+  {
+    "lemma": "mówić",
+    "aspectTags": [
+      "imperf"
+    ],
+    "indicativePresentOrPerfectiveFuture": [
+      {
+        "tag": "fin:pl:pri:imperf",
+        "forms": [
+          "mówimy"
+        ]
+      },
+      {
+        "tag": "fin:pl:sec:imperf",
+        "forms": [
+          "mówicie"
+        ]
+      },
+      {
+        "tag": "fin:pl:ter:imperf",
+        "forms": [
+          "mówią"
+        ]
+      },
+      {
+        "tag": "fin:sg:pri:imperf",
+        "forms": [
+          "mówię"
+        ]
+      },
+      {
+        "tag": "fin:sg:sec:imperf",
+        "forms": [
+          "mówisz"
+        ]
+      },
+      {
+        "tag": "fin:sg:ter:imperf",
+        "forms": [
+          "mówi"
+        ]
+      }
+    ],
+    "futureOfByc": [],
+    "pastStemsGenderAndNumber": [
+      {
+        "tag": "praet:pl:m1:imperf",
+        "forms": [
+          "mówili"
+        ]
+      },
+      {
+        "tag": "praet:pl:m1:pri:imperf",
+        "forms": [
+          "mówiliśmy"
+        ]
+      },
+      {
+        "tag": "praet:pl:m1:sec:imperf",
+        "forms": [
+          "mówiliście"
+        ]
+      },
+      {
+        "tag": "praet:pl:m1:ter:imperf",
+        "forms": [
+          "mówili"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:imperf",
+        "forms": [
+          "mówiły"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:pri:imperf",
+        "forms": [
+          "mówiłyśmy"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:sec:imperf",
+        "forms": [
+          "mówiłyście"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:ter:imperf",
+        "forms": [
+          "mówiły"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:imperf",
+        "forms": [
+          "mówiła"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:pri:imperf",
+        "forms": [
+          "mówiłam"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:sec:imperf",
+        "forms": [
+          "mówiłaś"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:ter:imperf",
+        "forms": [
+          "mówiła"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:imperf",
+        "forms": [
+          "mówił"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:pri:imperf",
+        "forms": [
+          "mówiłem"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:sec:imperf",
+        "forms": [
+          "mówiłeś"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:ter:imperf",
+        "forms": [
+          "mówił"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:imperf",
+        "forms": [
+          "mówiło"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:pri:imperf",
+        "forms": [
+          "mówiłom"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:sec:imperf",
+        "forms": [
+          "mówiłoś"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:ter:imperf",
+        "forms": [
+          "mówiło"
+        ]
+      }
+    ],
+    "conditional": [
+      {
+        "tag": "cond:pl:m1:pri:imperf",
+        "forms": [
+          "mówilibyśmy"
+        ]
+      },
+      {
+        "tag": "cond:pl:m1:sec:imperf",
+        "forms": [
+          "mówilibyście"
+        ]
+      },
+      {
+        "tag": "cond:pl:m1:ter:imperf",
+        "forms": [
+          "mówiliby"
+        ]
+      },
+      {
+        "tag": "cond:pl:m2.m3.f.n:pri:imperf",
+        "forms": [
+          "mówiłybyśmy"
+        ]
+      },
+      {
+        "tag": "cond:pl:m2.m3.f.n:sec:imperf",
+        "forms": [
+          "mówiłybyście"
+        ]
+      },
+      {
+        "tag": "cond:pl:m2.m3.f.n:ter:imperf",
+        "forms": [
+          "mówiłyby"
+        ]
+      },
+      {
+        "tag": "cond:sg:f:pri:imperf",
+        "forms": [
+          "mówiłabym"
+        ]
+      },
+      {
+        "tag": "cond:sg:f:sec:imperf",
+        "forms": [
+          "mówiłabyś"
+        ]
+      },
+      {
+        "tag": "cond:sg:f:ter:imperf",
+        "forms": [
+          "mówiłaby"
+        ]
+      },
+      {
+        "tag": "cond:sg:m1.m2.m3:pri:imperf",
+        "forms": [
+          "mówiłbym"
+        ]
+      },
+      {
+        "tag": "cond:sg:m1.m2.m3:sec:imperf",
+        "forms": [
+          "mówiłbyś"
+        ]
+      },
+      {
+        "tag": "cond:sg:m1.m2.m3:ter:imperf",
+        "forms": [
+          "mówiłby"
+        ]
+      },
+      {
+        "tag": "cond:sg:n:pri:imperf",
+        "forms": [
+          "mówiłobym"
+        ]
+      },
+      {
+        "tag": "cond:sg:n:sec:imperf",
+        "forms": [
+          "mówiłobyś"
+        ]
+      },
+      {
+        "tag": "cond:sg:n:ter:imperf",
+        "forms": [
+          "mówiłoby"
+        ]
+      }
+    ],
+    "imperative": [
+      {
+        "tag": "impt:pl:pri:imperf",
+        "forms": [
+          "mówmy"
+        ]
+      },
+      {
+        "tag": "impt:pl:sec:imperf",
+        "forms": [
+          "mówcie"
+        ]
+      },
+      {
+        "tag": "impt:sg:sec:imperf",
+        "forms": [
+          "mów"
+        ]
+      }
+    ],
+    "infinitive": [
+      {
+        "tag": "inf:imperf",
+        "forms": [
+          "mówić"
+        ]
+      }
+    ],
+    "usageNotes": [
+      "Imperfective verbs may use a compound future with forms of być.",
+      "Past-tense forms require personal endings; dictionary praet forms are not a complete stand-alone person table.",
+      "Some dictionary tags cover rare forms; curate beginner drills by usage context."
+    ]
+  },
+  {
+    "lemma": "chcieć",
+    "aspectTags": [
+      "imperf"
+    ],
+    "indicativePresentOrPerfectiveFuture": [
+      {
+        "tag": "fin:pl:pri:imperf",
+        "forms": [
+          "chcemy"
+        ]
+      },
+      {
+        "tag": "fin:pl:sec:imperf",
+        "forms": [
+          "chcecie"
+        ]
+      },
+      {
+        "tag": "fin:pl:ter:imperf",
+        "forms": [
+          "chcą"
+        ]
+      },
+      {
+        "tag": "fin:sg:pri:imperf",
+        "forms": [
+          "chcę"
+        ]
+      },
+      {
+        "tag": "fin:sg:sec:imperf",
+        "forms": [
+          "chcesz"
+        ]
+      },
+      {
+        "tag": "fin:sg:ter:imperf",
+        "forms": [
+          "chce"
+        ]
+      }
+    ],
+    "futureOfByc": [],
+    "pastStemsGenderAndNumber": [
+      {
+        "tag": "praet:pl:m1:imperf",
+        "forms": [
+          "chcieli"
+        ]
+      },
+      {
+        "tag": "praet:pl:m1:pri:imperf",
+        "forms": [
+          "chcieliśmy"
+        ]
+      },
+      {
+        "tag": "praet:pl:m1:sec:imperf",
+        "forms": [
+          "chcieliście"
+        ]
+      },
+      {
+        "tag": "praet:pl:m1:ter:imperf",
+        "forms": [
+          "chcieli"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:imperf",
+        "forms": [
+          "chciały"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:pri:imperf",
+        "forms": [
+          "chciałyśmy"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:sec:imperf",
+        "forms": [
+          "chciałyście"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:ter:imperf",
+        "forms": [
+          "chciały"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:imperf",
+        "forms": [
+          "chciała"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:pri:imperf",
+        "forms": [
+          "chciałam"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:sec:imperf",
+        "forms": [
+          "chciałaś"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:ter:imperf",
+        "forms": [
+          "chciała"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:imperf",
+        "forms": [
+          "chciał"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:pri:imperf",
+        "forms": [
+          "chciałem"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:sec:imperf",
+        "forms": [
+          "chciałeś"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:ter:imperf",
+        "forms": [
+          "chciał"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:imperf",
+        "forms": [
+          "chciało"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:pri:imperf",
+        "forms": [
+          "chciałom"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:sec:imperf",
+        "forms": [
+          "chciałoś"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:ter:imperf",
+        "forms": [
+          "chciało"
+        ]
+      }
+    ],
+    "conditional": [
+      {
+        "tag": "cond:pl:m1:pri:imperf",
+        "forms": [
+          "chcielibyśmy"
+        ]
+      },
+      {
+        "tag": "cond:pl:m1:sec:imperf",
+        "forms": [
+          "chcielibyście"
+        ]
+      },
+      {
+        "tag": "cond:pl:m1:ter:imperf",
+        "forms": [
+          "chcieliby"
+        ]
+      },
+      {
+        "tag": "cond:pl:m2.m3.f.n:pri:imperf",
+        "forms": [
+          "chciałybyśmy"
+        ]
+      },
+      {
+        "tag": "cond:pl:m2.m3.f.n:sec:imperf",
+        "forms": [
+          "chciałybyście"
+        ]
+      },
+      {
+        "tag": "cond:pl:m2.m3.f.n:ter:imperf",
+        "forms": [
+          "chciałyby"
+        ]
+      },
+      {
+        "tag": "cond:sg:f:pri:imperf",
+        "forms": [
+          "chciałabym"
+        ]
+      },
+      {
+        "tag": "cond:sg:f:sec:imperf",
+        "forms": [
+          "chciałabyś"
+        ]
+      },
+      {
+        "tag": "cond:sg:f:ter:imperf",
+        "forms": [
+          "chciałaby"
+        ]
+      },
+      {
+        "tag": "cond:sg:m1.m2.m3:pri:imperf",
+        "forms": [
+          "chciałbym"
+        ]
+      },
+      {
+        "tag": "cond:sg:m1.m2.m3:sec:imperf",
+        "forms": [
+          "chciałbyś"
+        ]
+      },
+      {
+        "tag": "cond:sg:m1.m2.m3:ter:imperf",
+        "forms": [
+          "chciałby"
+        ]
+      },
+      {
+        "tag": "cond:sg:n:pri:imperf",
+        "forms": [
+          "chciałobym"
+        ]
+      },
+      {
+        "tag": "cond:sg:n:sec:imperf",
+        "forms": [
+          "chciałobyś"
+        ]
+      },
+      {
+        "tag": "cond:sg:n:ter:imperf",
+        "forms": [
+          "chciałoby"
+        ]
+      }
+    ],
+    "imperative": [
+      {
+        "tag": "impt:pl:pri:imperf",
+        "forms": [
+          "chciejmy"
+        ]
+      },
+      {
+        "tag": "impt:pl:sec:imperf",
+        "forms": [
+          "chciejcie"
+        ]
+      },
+      {
+        "tag": "impt:sg:sec:imperf",
+        "forms": [
+          "chciej"
+        ]
+      }
+    ],
+    "infinitive": [
+      {
+        "tag": "inf:imperf",
+        "forms": [
+          "chcieć"
+        ]
+      }
+    ],
+    "usageNotes": [
+      "Imperfective verbs may use a compound future with forms of być.",
+      "Past-tense forms require personal endings; dictionary praet forms are not a complete stand-alone person table.",
+      "Some dictionary tags cover rare forms; curate beginner drills by usage context."
+    ]
+  },
+  {
+    "lemma": "zostać",
+    "aspectTags": [
+      "perf"
+    ],
+    "indicativePresentOrPerfectiveFuture": [
+      {
+        "tag": "fin:pl:pri:perf",
+        "forms": [
+          "zostaniemy"
+        ]
+      },
+      {
+        "tag": "fin:pl:sec:perf",
+        "forms": [
+          "zostaniecie"
+        ]
+      },
+      {
+        "tag": "fin:pl:ter:perf",
+        "forms": [
+          "zostaną"
+        ]
+      },
+      {
+        "tag": "fin:sg:pri:perf",
+        "forms": [
+          "zostanę"
+        ]
+      },
+      {
+        "tag": "fin:sg:sec:perf",
+        "forms": [
+          "zostaniesz"
+        ]
+      },
+      {
+        "tag": "fin:sg:ter:perf",
+        "forms": [
+          "zostanie"
+        ]
+      }
+    ],
+    "futureOfByc": [],
+    "pastStemsGenderAndNumber": [
+      {
+        "tag": "praet:pl:m1:perf",
+        "forms": [
+          "zostali"
+        ]
+      },
+      {
+        "tag": "praet:pl:m1:pri:perf",
+        "forms": [
+          "zostaliśmy"
+        ]
+      },
+      {
+        "tag": "praet:pl:m1:sec:perf",
+        "forms": [
+          "zostaliście"
+        ]
+      },
+      {
+        "tag": "praet:pl:m1:ter:perf",
+        "forms": [
+          "zostali"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:perf",
+        "forms": [
+          "zostały"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:pri:perf",
+        "forms": [
+          "zostałyśmy"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:sec:perf",
+        "forms": [
+          "zostałyście"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:ter:perf",
+        "forms": [
+          "zostały"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:perf",
+        "forms": [
+          "została"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:pri:perf",
+        "forms": [
+          "zostałam"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:sec:perf",
+        "forms": [
+          "zostałaś"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:ter:perf",
+        "forms": [
+          "została"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:perf",
+        "forms": [
+          "został"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:pri:perf",
+        "forms": [
+          "zostałem"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:sec:perf",
+        "forms": [
+          "zostałeś"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:ter:perf",
+        "forms": [
+          "został"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:perf",
+        "forms": [
+          "zostało"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:pri:perf",
+        "forms": [
+          "zostałom"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:sec:perf",
+        "forms": [
+          "zostałoś"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:ter:perf",
+        "forms": [
+          "zostało"
+        ]
+      }
+    ],
+    "conditional": [
+      {
+        "tag": "cond:pl:m1:pri:perf",
+        "forms": [
+          "zostalibyśmy"
+        ]
+      },
+      {
+        "tag": "cond:pl:m1:sec:perf",
+        "forms": [
+          "zostalibyście"
+        ]
+      },
+      {
+        "tag": "cond:pl:m1:ter:perf",
+        "forms": [
+          "zostaliby"
+        ]
+      },
+      {
+        "tag": "cond:pl:m2.m3.f.n:pri:perf",
+        "forms": [
+          "zostałybyśmy"
+        ]
+      },
+      {
+        "tag": "cond:pl:m2.m3.f.n:sec:perf",
+        "forms": [
+          "zostałybyście"
+        ]
+      },
+      {
+        "tag": "cond:pl:m2.m3.f.n:ter:perf",
+        "forms": [
+          "zostałyby"
+        ]
+      },
+      {
+        "tag": "cond:sg:f:pri:perf",
+        "forms": [
+          "zostałabym"
+        ]
+      },
+      {
+        "tag": "cond:sg:f:sec:perf",
+        "forms": [
+          "zostałabyś"
+        ]
+      },
+      {
+        "tag": "cond:sg:f:ter:perf",
+        "forms": [
+          "zostałaby"
+        ]
+      },
+      {
+        "tag": "cond:sg:m1.m2.m3:pri:perf",
+        "forms": [
+          "zostałbym"
+        ]
+      },
+      {
+        "tag": "cond:sg:m1.m2.m3:sec:perf",
+        "forms": [
+          "zostałbyś"
+        ]
+      },
+      {
+        "tag": "cond:sg:m1.m2.m3:ter:perf",
+        "forms": [
+          "zostałby"
+        ]
+      },
+      {
+        "tag": "cond:sg:n:pri:perf",
+        "forms": [
+          "zostałobym"
+        ]
+      },
+      {
+        "tag": "cond:sg:n:sec:perf",
+        "forms": [
+          "zostałobyś"
+        ]
+      },
+      {
+        "tag": "cond:sg:n:ter:perf",
+        "forms": [
+          "zostałoby"
+        ]
+      }
+    ],
+    "imperative": [
+      {
+        "tag": "impt:pl:pri:perf",
+        "forms": [
+          "zostańmy"
+        ]
+      },
+      {
+        "tag": "impt:pl:sec:perf",
+        "forms": [
+          "zostańcie"
+        ]
+      },
+      {
+        "tag": "impt:sg:sec:perf",
+        "forms": [
+          "zostań"
+        ]
+      }
+    ],
+    "infinitive": [
+      {
+        "tag": "inf:perf",
+        "forms": [
+          "zostać"
+        ]
+      }
+    ],
+    "usageNotes": [
+      "Perfective fin forms denote future, not present.",
+      "Past-tense forms require personal endings; dictionary praet forms are not a complete stand-alone person table.",
+      "Some dictionary tags cover rare forms; curate beginner drills by usage context."
+    ]
+  },
+  {
+    "lemma": "powiedzieć",
+    "aspectTags": [
+      "perf"
+    ],
+    "indicativePresentOrPerfectiveFuture": [
+      {
+        "tag": "fin:pl:pri:perf",
+        "forms": [
+          "powiemy"
+        ]
+      },
+      {
+        "tag": "fin:pl:sec:perf",
+        "forms": [
+          "powiecie"
+        ]
+      },
+      {
+        "tag": "fin:pl:ter:perf",
+        "forms": [
+          "powiedzą"
+        ]
+      },
+      {
+        "tag": "fin:sg:pri:perf",
+        "forms": [
+          "powiem"
+        ]
+      },
+      {
+        "tag": "fin:sg:sec:perf",
+        "forms": [
+          "powiesz"
+        ]
+      },
+      {
+        "tag": "fin:sg:ter:perf",
+        "forms": [
+          "powie"
+        ]
+      }
+    ],
+    "futureOfByc": [],
+    "pastStemsGenderAndNumber": [
+      {
+        "tag": "praet:pl:m1:perf",
+        "forms": [
+          "powiedzieli"
+        ]
+      },
+      {
+        "tag": "praet:pl:m1:pri:perf",
+        "forms": [
+          "powiedzieliśmy"
+        ]
+      },
+      {
+        "tag": "praet:pl:m1:sec:perf",
+        "forms": [
+          "powiedzieliście"
+        ]
+      },
+      {
+        "tag": "praet:pl:m1:ter:perf",
+        "forms": [
+          "powiedzieli"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:perf",
+        "forms": [
+          "powiedziały"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:pri:perf",
+        "forms": [
+          "powiedziałyśmy"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:sec:perf",
+        "forms": [
+          "powiedziałyście"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:ter:perf",
+        "forms": [
+          "powiedziały"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:perf",
+        "forms": [
+          "powiedziała"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:pri:perf",
+        "forms": [
+          "powiedziałam"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:sec:perf",
+        "forms": [
+          "powiedziałaś"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:ter:perf",
+        "forms": [
+          "powiedziała"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:perf",
+        "forms": [
+          "powiedział"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:pri:perf",
+        "forms": [
+          "powiedziałem"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:sec:perf",
+        "forms": [
+          "powiedziałeś"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:ter:perf",
+        "forms": [
+          "powiedział"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:perf",
+        "forms": [
+          "powiedziało"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:pri:perf",
+        "forms": [
+          "powiedziałom"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:sec:perf",
+        "forms": [
+          "powiedziałoś"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:ter:perf",
+        "forms": [
+          "powiedziało"
+        ]
+      }
+    ],
+    "conditional": [
+      {
+        "tag": "cond:pl:m1:pri:perf",
+        "forms": [
+          "powiedzielibyśmy"
+        ]
+      },
+      {
+        "tag": "cond:pl:m1:sec:perf",
+        "forms": [
+          "powiedzielibyście"
+        ]
+      },
+      {
+        "tag": "cond:pl:m1:ter:perf",
+        "forms": [
+          "powiedzieliby"
+        ]
+      },
+      {
+        "tag": "cond:pl:m2.m3.f.n:pri:perf",
+        "forms": [
+          "powiedziałybyśmy"
+        ]
+      },
+      {
+        "tag": "cond:pl:m2.m3.f.n:sec:perf",
+        "forms": [
+          "powiedziałybyście"
+        ]
+      },
+      {
+        "tag": "cond:pl:m2.m3.f.n:ter:perf",
+        "forms": [
+          "powiedziałyby"
+        ]
+      },
+      {
+        "tag": "cond:sg:f:pri:perf",
+        "forms": [
+          "powiedziałabym"
+        ]
+      },
+      {
+        "tag": "cond:sg:f:sec:perf",
+        "forms": [
+          "powiedziałabyś"
+        ]
+      },
+      {
+        "tag": "cond:sg:f:ter:perf",
+        "forms": [
+          "powiedziałaby"
+        ]
+      },
+      {
+        "tag": "cond:sg:m1.m2.m3:pri:perf",
+        "forms": [
+          "powiedziałbym"
+        ]
+      },
+      {
+        "tag": "cond:sg:m1.m2.m3:sec:perf",
+        "forms": [
+          "powiedziałbyś"
+        ]
+      },
+      {
+        "tag": "cond:sg:m1.m2.m3:ter:perf",
+        "forms": [
+          "powiedziałby"
+        ]
+      },
+      {
+        "tag": "cond:sg:n:pri:perf",
+        "forms": [
+          "powiedziałobym"
+        ]
+      },
+      {
+        "tag": "cond:sg:n:sec:perf",
+        "forms": [
+          "powiedziałobyś"
+        ]
+      },
+      {
+        "tag": "cond:sg:n:ter:perf",
+        "forms": [
+          "powiedziałoby"
+        ]
+      }
+    ],
+    "imperative": [
+      {
+        "tag": "impt:pl:pri:perf",
+        "forms": [
+          "powiedzmy"
+        ]
+      },
+      {
+        "tag": "impt:pl:sec:perf",
+        "forms": [
+          "powiedzcie"
+        ]
+      },
+      {
+        "tag": "impt:sg:sec:perf",
+        "forms": [
+          "powiedz"
+        ]
+      }
+    ],
+    "infinitive": [
+      {
+        "tag": "inf:perf",
+        "forms": [
+          "powiedzieć"
+        ]
+      }
+    ],
+    "usageNotes": [
+      "Perfective fin forms denote future, not present.",
+      "Past-tense forms require personal endings; dictionary praet forms are not a complete stand-alone person table.",
+      "Some dictionary tags cover rare forms; curate beginner drills by usage context."
+    ]
+  },
+  {
+    "lemma": "musieć",
+    "aspectTags": [
+      "imperf"
+    ],
+    "indicativePresentOrPerfectiveFuture": [
+      {
+        "tag": "fin:pl:pri:imperf",
+        "forms": [
+          "musimy"
+        ]
+      },
+      {
+        "tag": "fin:pl:sec:imperf",
+        "forms": [
+          "musicie"
+        ]
+      },
+      {
+        "tag": "fin:pl:ter:imperf",
+        "forms": [
+          "muszą"
+        ]
+      },
+      {
+        "tag": "fin:sg:pri:imperf",
+        "forms": [
+          "muszę"
+        ]
+      },
+      {
+        "tag": "fin:sg:sec:imperf",
+        "forms": [
+          "musisz"
+        ]
+      },
+      {
+        "tag": "fin:sg:ter:imperf",
+        "forms": [
+          "musi"
+        ]
+      }
+    ],
+    "futureOfByc": [],
+    "pastStemsGenderAndNumber": [
+      {
+        "tag": "praet:pl:m1:imperf",
+        "forms": [
+          "musieli"
+        ]
+      },
+      {
+        "tag": "praet:pl:m1:pri:imperf",
+        "forms": [
+          "musieliśmy"
+        ]
+      },
+      {
+        "tag": "praet:pl:m1:sec:imperf",
+        "forms": [
+          "musieliście"
+        ]
+      },
+      {
+        "tag": "praet:pl:m1:ter:imperf",
+        "forms": [
+          "musieli"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:imperf",
+        "forms": [
+          "musiały"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:pri:imperf",
+        "forms": [
+          "musiałyśmy"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:sec:imperf",
+        "forms": [
+          "musiałyście"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:ter:imperf",
+        "forms": [
+          "musiały"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:imperf",
+        "forms": [
+          "musiała"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:pri:imperf",
+        "forms": [
+          "musiałam"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:sec:imperf",
+        "forms": [
+          "musiałaś"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:ter:imperf",
+        "forms": [
+          "musiała"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:imperf",
+        "forms": [
+          "musiał"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:pri:imperf",
+        "forms": [
+          "musiałem"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:sec:imperf",
+        "forms": [
+          "musiałeś"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:ter:imperf",
+        "forms": [
+          "musiał"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:imperf",
+        "forms": [
+          "musiało"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:pri:imperf",
+        "forms": [
+          "musiałom"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:sec:imperf",
+        "forms": [
+          "musiałoś"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:ter:imperf",
+        "forms": [
+          "musiało"
+        ]
+      }
+    ],
+    "conditional": [
+      {
+        "tag": "cond:pl:m1:pri:imperf",
+        "forms": [
+          "musielibyśmy"
+        ]
+      },
+      {
+        "tag": "cond:pl:m1:sec:imperf",
+        "forms": [
+          "musielibyście"
+        ]
+      },
+      {
+        "tag": "cond:pl:m1:ter:imperf",
+        "forms": [
+          "musieliby"
+        ]
+      },
+      {
+        "tag": "cond:pl:m2.m3.f.n:pri:imperf",
+        "forms": [
+          "musiałybyśmy"
+        ]
+      },
+      {
+        "tag": "cond:pl:m2.m3.f.n:sec:imperf",
+        "forms": [
+          "musiałybyście"
+        ]
+      },
+      {
+        "tag": "cond:pl:m2.m3.f.n:ter:imperf",
+        "forms": [
+          "musiałyby"
+        ]
+      },
+      {
+        "tag": "cond:sg:f:pri:imperf",
+        "forms": [
+          "musiałabym"
+        ]
+      },
+      {
+        "tag": "cond:sg:f:sec:imperf",
+        "forms": [
+          "musiałabyś"
+        ]
+      },
+      {
+        "tag": "cond:sg:f:ter:imperf",
+        "forms": [
+          "musiałaby"
+        ]
+      },
+      {
+        "tag": "cond:sg:m1.m2.m3:pri:imperf",
+        "forms": [
+          "musiałbym"
+        ]
+      },
+      {
+        "tag": "cond:sg:m1.m2.m3:sec:imperf",
+        "forms": [
+          "musiałbyś"
+        ]
+      },
+      {
+        "tag": "cond:sg:m1.m2.m3:ter:imperf",
+        "forms": [
+          "musiałby"
+        ]
+      },
+      {
+        "tag": "cond:sg:n:pri:imperf",
+        "forms": [
+          "musiałobym"
+        ]
+      },
+      {
+        "tag": "cond:sg:n:sec:imperf",
+        "forms": [
+          "musiałobyś"
+        ]
+      },
+      {
+        "tag": "cond:sg:n:ter:imperf",
+        "forms": [
+          "musiałoby"
+        ]
+      }
+    ],
+    "imperative": [
+      {
+        "tag": "impt:pl:pri:imperf",
+        "forms": [
+          "muśmy"
+        ]
+      },
+      {
+        "tag": "impt:pl:sec:imperf",
+        "forms": [
+          "muście"
+        ]
+      },
+      {
+        "tag": "impt:sg:sec:imperf",
+        "forms": [
+          "muś"
+        ]
+      }
+    ],
+    "infinitive": [
+      {
+        "tag": "inf:imperf",
+        "forms": [
+          "musieć"
+        ]
+      }
+    ],
+    "usageNotes": [
+      "Imperfective verbs may use a compound future with forms of być.",
+      "Past-tense forms require personal endings; dictionary praet forms are not a complete stand-alone person table.",
+      "Some dictionary tags cover rare forms; curate beginner drills by usage context."
+    ]
+  },
+  {
+    "lemma": "stać",
+    "aspectTags": [
+      "imperf",
+      "perf"
+    ],
+    "indicativePresentOrPerfectiveFuture": [
+      {
+        "tag": "fin:pl:pri:imperf",
+        "forms": [
+          "stoimy"
+        ]
+      },
+      {
+        "tag": "fin:pl:pri:perf",
+        "forms": [
+          "staniemy"
+        ]
+      },
+      {
+        "tag": "fin:pl:sec:imperf",
+        "forms": [
+          "stoicie"
+        ]
+      },
+      {
+        "tag": "fin:pl:sec:perf",
+        "forms": [
+          "staniecie"
+        ]
+      },
+      {
+        "tag": "fin:pl:ter:imperf",
+        "forms": [
+          "stoją"
+        ]
+      },
+      {
+        "tag": "fin:pl:ter:perf",
+        "forms": [
+          "staną"
+        ]
+      },
+      {
+        "tag": "fin:sg:pri:imperf",
+        "forms": [
+          "stoję"
+        ]
+      },
+      {
+        "tag": "fin:sg:pri:perf",
+        "forms": [
+          "stanę"
+        ]
+      },
+      {
+        "tag": "fin:sg:sec:imperf",
+        "forms": [
+          "stoisz"
+        ]
+      },
+      {
+        "tag": "fin:sg:sec:perf",
+        "forms": [
+          "staniesz"
+        ]
+      },
+      {
+        "tag": "fin:sg:ter:imperf",
+        "forms": [
+          "stoi"
+        ]
+      },
+      {
+        "tag": "fin:sg:ter:perf",
+        "forms": [
+          "stanie"
+        ]
+      }
+    ],
+    "futureOfByc": [],
+    "pastStemsGenderAndNumber": [
+      {
+        "tag": "praet:pl:m1:imperf",
+        "forms": [
+          "stali"
+        ]
+      },
+      {
+        "tag": "praet:pl:m1:perf",
+        "forms": [
+          "stali"
+        ]
+      },
+      {
+        "tag": "praet:pl:m1:pri:imperf",
+        "forms": [
+          "staliśmy"
+        ]
+      },
+      {
+        "tag": "praet:pl:m1:pri:perf",
+        "forms": [
+          "staliśmy"
+        ]
+      },
+      {
+        "tag": "praet:pl:m1:sec:imperf",
+        "forms": [
+          "staliście"
+        ]
+      },
+      {
+        "tag": "praet:pl:m1:sec:perf",
+        "forms": [
+          "staliście"
+        ]
+      },
+      {
+        "tag": "praet:pl:m1:ter:imperf",
+        "forms": [
+          "stali"
+        ]
+      },
+      {
+        "tag": "praet:pl:m1:ter:perf",
+        "forms": [
+          "stali"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:imperf",
+        "forms": [
+          "stały"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:perf",
+        "forms": [
+          "stały"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:pri:imperf",
+        "forms": [
+          "stałyśmy"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:pri:perf",
+        "forms": [
+          "stałyśmy"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:sec:imperf",
+        "forms": [
+          "stałyście"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:sec:perf",
+        "forms": [
+          "stałyście"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:ter:imperf",
+        "forms": [
+          "stały"
+        ]
+      },
+      {
+        "tag": "praet:pl:m2.m3.f.n:ter:perf",
+        "forms": [
+          "stały"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:imperf",
+        "forms": [
+          "stała"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:perf",
+        "forms": [
+          "stała"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:pri:imperf",
+        "forms": [
+          "stałam"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:pri:perf",
+        "forms": [
+          "stałam"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:sec:imperf",
+        "forms": [
+          "stałaś"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:sec:perf",
+        "forms": [
+          "stałaś"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:ter:imperf",
+        "forms": [
+          "stała"
+        ]
+      },
+      {
+        "tag": "praet:sg:f:ter:perf",
+        "forms": [
+          "stała"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:imperf",
+        "forms": [
+          "stał"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:perf",
+        "forms": [
+          "stał"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:pri:imperf",
+        "forms": [
+          "stałem"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:pri:perf",
+        "forms": [
+          "stałem"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:sec:imperf",
+        "forms": [
+          "stałeś"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:sec:perf",
+        "forms": [
+          "stałeś"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:ter:imperf",
+        "forms": [
+          "stał"
+        ]
+      },
+      {
+        "tag": "praet:sg:m1.m2.m3:ter:perf",
+        "forms": [
+          "stał"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:imperf",
+        "forms": [
+          "stało"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:perf",
+        "forms": [
+          "stało"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:pri:imperf",
+        "forms": [
+          "stałom"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:pri:perf",
+        "forms": [
+          "stałom"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:sec:imperf",
+        "forms": [
+          "stałoś"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:sec:perf",
+        "forms": [
+          "stałoś"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:ter:imperf",
+        "forms": [
+          "stało"
+        ]
+      },
+      {
+        "tag": "praet:sg:n:ter:perf",
+        "forms": [
+          "stało"
+        ]
+      }
+    ],
+    "conditional": [
+      {
+        "tag": "cond:pl:m1:pri:imperf",
+        "forms": [
+          "stalibyśmy"
+        ]
+      },
+      {
+        "tag": "cond:pl:m1:pri:perf",
+        "forms": [
+          "stalibyśmy"
+        ]
+      },
+      {
+        "tag": "cond:pl:m1:sec:imperf",
+        "forms": [
+          "stalibyście"
+        ]
+      },
+      {
+        "tag": "cond:pl:m1:sec:perf",
+        "forms": [
+          "stalibyście"
+        ]
+      },
+      {
+        "tag": "cond:pl:m1:ter:imperf",
+        "forms": [
+          "staliby"
+        ]
+      },
+      {
+        "tag": "cond:pl:m1:ter:perf",
+        "forms": [
+          "staliby"
+        ]
+      },
+      {
+        "tag": "cond:pl:m2.m3.f.n:pri:imperf",
+        "forms": [
+          "stałybyśmy"
+        ]
+      },
+      {
+        "tag": "cond:pl:m2.m3.f.n:pri:perf",
+        "forms": [
+          "stałybyśmy"
+        ]
+      },
+      {
+        "tag": "cond:pl:m2.m3.f.n:sec:imperf",
+        "forms": [
+          "stałybyście"
+        ]
+      },
+      {
+        "tag": "cond:pl:m2.m3.f.n:sec:perf",
+        "forms": [
+          "stałybyście"
+        ]
+      },
+      {
+        "tag": "cond:pl:m2.m3.f.n:ter:imperf",
+        "forms": [
+          "stałyby"
+        ]
+      },
+      {
+        "tag": "cond:pl:m2.m3.f.n:ter:perf",
+        "forms": [
+          "stałyby"
+        ]
+      },
+      {
+        "tag": "cond:sg:f:pri:imperf",
+        "forms": [
+          "stałabym"
+        ]
+      },
+      {
+        "tag": "cond:sg:f:pri:perf",
+        "forms": [
+          "stałabym"
+        ]
+      },
+      {
+        "tag": "cond:sg:f:sec:imperf",
+        "forms": [
+          "stałabyś"
+        ]
+      },
+      {
+        "tag": "cond:sg:f:sec:perf",
+        "forms": [
+          "stałabyś"
+        ]
+      },
+      {
+        "tag": "cond:sg:f:ter:imperf",
+        "forms": [
+          "stałaby"
+        ]
+      },
+      {
+        "tag": "cond:sg:f:ter:perf",
+        "forms": [
+          "stałaby"
+        ]
+      },
+      {
+        "tag": "cond:sg:m1.m2.m3:pri:imperf",
+        "forms": [
+          "stałbym"
+        ]
+      },
+      {
+        "tag": "cond:sg:m1.m2.m3:pri:perf",
+        "forms": [
+          "stałbym"
+        ]
+      },
+      {
+        "tag": "cond:sg:m1.m2.m3:sec:imperf",
+        "forms": [
+          "stałbyś"
+        ]
+      },
+      {
+        "tag": "cond:sg:m1.m2.m3:sec:perf",
+        "forms": [
+          "stałbyś"
+        ]
+      },
+      {
+        "tag": "cond:sg:m1.m2.m3:ter:imperf",
+        "forms": [
+          "stałby"
+        ]
+      },
+      {
+        "tag": "cond:sg:m1.m2.m3:ter:perf",
+        "forms": [
+          "stałby"
+        ]
+      },
+      {
+        "tag": "cond:sg:n:pri:imperf",
+        "forms": [
+          "stałobym"
+        ]
+      },
+      {
+        "tag": "cond:sg:n:pri:perf",
+        "forms": [
+          "stałobym"
+        ]
+      },
+      {
+        "tag": "cond:sg:n:sec:imperf",
+        "forms": [
+          "stałobyś"
+        ]
+      },
+      {
+        "tag": "cond:sg:n:sec:perf",
+        "forms": [
+          "stałobyś"
+        ]
+      },
+      {
+        "tag": "cond:sg:n:ter:imperf",
+        "forms": [
+          "stałoby"
+        ]
+      },
+      {
+        "tag": "cond:sg:n:ter:perf",
+        "forms": [
+          "stałoby"
+        ]
+      }
+    ],
+    "imperative": [
+      {
+        "tag": "impt:pl:pri:imperf",
+        "forms": [
+          "stójmy"
+        ]
+      },
+      {
+        "tag": "impt:pl:pri:perf",
+        "forms": [
+          "stańmy"
+        ]
+      },
+      {
+        "tag": "impt:pl:sec:imperf",
+        "forms": [
+          "stójcie"
+        ]
+      },
+      {
+        "tag": "impt:pl:sec:perf",
+        "forms": [
+          "stańcie"
+        ]
+      },
+      {
+        "tag": "impt:sg:sec:imperf",
+        "forms": [
+          "stój"
+        ]
+      },
+      {
+        "tag": "impt:sg:sec:perf",
+        "forms": [
+          "stań"
+        ]
+      }
+    ],
+    "infinitive": [
+      {
+        "tag": "inf:imperf",
+        "forms": [
+          "stać"
+        ]
+      },
+      {
+        "tag": "inf:perf",
+        "forms": [
+          "stać"
+        ]
+      }
+    ],
+    "usageNotes": [
+      "Perfective fin forms denote future, not present.",
+      "Past-tense forms require personal endings; dictionary praet forms are not a complete stand-alone person table.",
+      "Some dictionary tags cover rare forms; curate beginner drills by usage context."
+    ]
+  }
+]

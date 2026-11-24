@@ -1,0 +1,93 @@
+[
+  {
+    "id": "nominative",
+    "namePl": "Mianownik",
+    "plainEnglishQuestion": "Who or what is doing something, or being described?",
+    "uses": "Subject of a clause; naming form.",
+    "example": {
+      "polish": "Kot śpi.",
+      "english": "The cat is sleeping.",
+      "target": "kot",
+      "why": "The cat performs the action of sleeping. Kot is the subject, so nominative is used."
+    },
+    "caution": "A form's spelling alone may not identify its case; use sentence context."
+  },
+  {
+    "id": "genitive",
+    "namePl": "Dopełniacz",
+    "plainEnglishQuestion": "What is absent, possessed, measured, or governed by a genitive-taking word?",
+    "uses": "Common after nie ma, nie mam, szukać, potrzebować, do, bez, dla.",
+    "example": {
+      "polish": "Nie mam kota.",
+      "english": "I don't have a cat.",
+      "target": "kota",
+      "why": "The negated expression nie mam takes a genitive object. The noun kot therefore appears as kota."
+    },
+    "caution": "A form's spelling alone may not identify its case; use sentence context."
+  },
+  {
+    "id": "dative",
+    "namePl": "Celownik",
+    "plainEnglishQuestion": "To whom or for whom?",
+    "uses": "Recipient/beneficiary and verbs such as pomagać, dziękować, ufać.",
+    "example": {
+      "polish": "Pomagam kotu.",
+      "english": "I help a cat.",
+      "target": "kotu",
+      "why": "The verb pomagać requires the dative. Kot changes to kotu."
+    },
+    "caution": "A form's spelling alone may not identify its case; use sentence context."
+  },
+  {
+    "id": "accusative",
+    "namePl": "Biernik",
+    "plainEnglishQuestion": "Who or what receives the action?",
+    "uses": "Direct object; also used after some prepositions for movement.",
+    "example": {
+      "polish": "Widzę kota.",
+      "english": "I see a cat.",
+      "target": "kota",
+      "why": "The cat is the direct object of widzę. Masculine animate kot has accusative singular kota."
+    },
+    "caution": "A form's spelling alone may not identify its case; use sentence context."
+  },
+  {
+    "id": "instrumental",
+    "namePl": "Narzędnik",
+    "plainEnglishQuestion": "With whom, by what means, or in what role?",
+    "uses": "After z meaning 'with'; instrument; noun predicates with być.",
+    "example": {
+      "polish": "Idę z kotem.",
+      "english": "I walk with a cat.",
+      "target": "kotem",
+      "why": "Z meaning 'with' governs instrumental. Kot becomes kotem."
+    },
+    "caution": "A form's spelling alone may not identify its case; use sentence context."
+  },
+  {
+    "id": "locative",
+    "namePl": "Miejscownik",
+    "plainEnglishQuestion": "Where, or about whom/what, after a governing preposition?",
+    "uses": "Occurs after certain prepositions, such as w, na, o, po.",
+    "example": {
+      "polish": "Myślę o kocie.",
+      "english": "I think about a cat.",
+      "target": "kocie",
+      "why": "O meaning 'about' governs locative. Kot becomes kocie."
+    },
+    "caution": "A form's spelling alone may not identify its case; use sentence context."
+  },
+  {
+    "id": "vocative",
+    "namePl": "Wołacz",
+    "plainEnglishQuestion": "Who is being directly addressed?",
+    "uses": "Direct address, often with a comma.",
+    "example": {
+      "polish": "Kocie, chodź!",
+      "english": "Cat, come here!",
+      "target": "kocie",
+      "why": "The speaker addresses the cat directly, so the vocative form kocie is used."
+    },
+    "caution": "A form's spelling alone may not identify its case; use sentence context."
+  }
+]

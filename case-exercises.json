@@ -1,0 +1,2130 @@
+[
+  {
+    "id": "nominative-01",
+    "case": "nominative",
+    "polish": "Kot śpi.",
+    "english": "The cat is sleeping.",
+    "lemma": "kot",
+    "target": "kot",
+    "acceptedAnswers": [
+      "kot"
+    ],
+    "whyCase": "The cat is doing the sleeping; it is the subject.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 0,
+      "end": 3
+    },
+    "whyForm": "Kot is the nominative singular dictionary form of this masculine noun.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "nominative-02",
+    "case": "nominative",
+    "polish": "Kobieta czyta.",
+    "english": "The woman is reading.",
+    "lemma": "kobieta",
+    "target": "kobieta",
+    "acceptedAnswers": [
+      "kobieta"
+    ],
+    "whyCase": "The woman is the subject of the verb czyta.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 0,
+      "end": 7
+    },
+    "whyForm": "Kobieta is feminine nominative singular; its -a ending stays unchanged.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "nominative-03",
+    "case": "nominative",
+    "polish": "Dziecko je.",
+    "english": "The child is eating.",
+    "lemma": "dziecko",
+    "target": "dziecko",
+    "acceptedAnswers": [
+      "dziecko"
+    ],
+    "whyCase": "The child performs the action; it is the subject.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 0,
+      "end": 7
+    },
+    "whyForm": "Dziecko is neuter nominative singular, ending in -o.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "nominative-04",
+    "case": "nominative",
+    "polish": "Dom jest duży.",
+    "english": "The house is big.",
+    "lemma": "dom",
+    "target": "dom",
+    "acceptedAnswers": [
+      "dom"
+    ],
+    "whyCase": "The house is the thing described; it is the subject.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 0,
+      "end": 3
+    },
+    "whyForm": "Dom is masculine inanimate nominative singular; no ending is added.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "nominative-05",
+    "case": "nominative",
+    "polish": "Książka leży na stole.",
+    "english": "The book is lying on the table.",
+    "lemma": "książka",
+    "target": "książka",
+    "acceptedAnswers": [
+      "książka"
+    ],
+    "whyCase": "The book is the subject; na stole is a separate locative phrase.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 0,
+      "end": 7
+    },
+    "whyForm": "Książka is feminine nominative singular; its -a ending stays unchanged.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "nominative-06",
+    "case": "nominative",
+    "polish": "Pies szczeka.",
+    "english": "The dog is barking.",
+    "lemma": "pies",
+    "target": "pies",
+    "acceptedAnswers": [
+      "pies"
+    ],
+    "whyCase": "The dog performs the action; it is the subject.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 0,
+      "end": 4
+    },
+    "whyForm": "Pies is masculine nominative singular; its stem changes in other cases.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "genitive-01",
+    "case": "genitive",
+    "polish": "Nie mam kota.",
+    "english": "I don't have a cat.",
+    "lemma": "kot",
+    "target": "kota",
+    "acceptedAnswers": [
+      "kota"
+    ],
+    "whyCase": "Nie mam takes a genitive object; kot becomes kota.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 8,
+      "end": 12
+    },
+    "whyForm": "Kot is masculine animate; its genitive singular form is kota, with -a.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "genitive-02",
+    "case": "genitive",
+    "polish": "Idę do domu.",
+    "english": "I'm going home.",
+    "lemma": "dom",
+    "target": "domu",
+    "acceptedAnswers": [
+      "domu"
+    ],
+    "whyCase": "The preposition do governs genitive; dom becomes domu.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 7,
+      "end": 11
+    },
+    "whyForm": "Dom has genitive singular domu; masculine nouns do not all take the same genitive ending.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "genitive-03",
+    "case": "genitive",
+    "polish": "Nie ma wody.",
+    "english": "There is no water.",
+    "lemma": "woda",
+    "target": "wody",
+    "acceptedAnswers": [
+      "wody"
+    ],
+    "whyCase": "The absence expression nie ma requires genitive.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 7,
+      "end": 11
+    },
+    "whyForm": "Woda is feminine; genitive singular changes -a to -y: wody.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "genitive-04",
+    "case": "genitive",
+    "polish": "Szukam książki.",
+    "english": "I'm looking for a book.",
+    "lemma": "książka",
+    "target": "książki",
+    "acceptedAnswers": [
+      "książki"
+    ],
+    "whyCase": "Szukać governs genitive, unlike English 'look for'.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 7,
+      "end": 14
+    },
+    "whyForm": "Książka has genitive singular książki; the -ka ending changes to -ki.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "genitive-05",
+    "case": "genitive",
+    "polish": "Wracam ze szkoły.",
+    "english": "I'm returning from school.",
+    "lemma": "szkoła",
+    "target": "szkoły",
+    "acceptedAnswers": [
+      "szkoły"
+    ],
+    "whyCase": "Z/ze meaning 'from' governs genitive.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 10,
+      "end": 16
+    },
+    "whyForm": "Szkoła is feminine; genitive singular changes -a to -y: szkoły.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "genitive-06",
+    "case": "genitive",
+    "polish": "Potrzebuję czasu.",
+    "english": "I need time.",
+    "lemma": "czas",
+    "target": "czasu",
+    "acceptedAnswers": [
+      "czasu"
+    ],
+    "whyCase": "Potrzebować governs genitive.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 11,
+      "end": 16
+    },
+    "whyForm": "Czas has genitive singular czasu, ending in -u.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "dative-01",
+    "case": "dative",
+    "polish": "Daję kotu wodę.",
+    "english": "I give the cat water.",
+    "lemma": "kot",
+    "target": "kotu",
+    "acceptedAnswers": [
+      "kotu"
+    ],
+    "whyCase": "The cat receives the water, so dative is used.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 5,
+      "end": 9
+    },
+    "whyForm": "Kot takes dative singular kotu, ending in -u.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "dative-02",
+    "case": "dative",
+    "polish": "Pomagam kobiecie.",
+    "english": "I'm helping a woman.",
+    "lemma": "kobieta",
+    "target": "kobiecie",
+    "acceptedAnswers": [
+      "kobiecie"
+    ],
+    "whyCase": "Pomagać requires dative, regardless of the English structure.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 8,
+      "end": 16
+    },
+    "whyForm": "Kobieta takes dative singular kobiecie; the stem consonant changes as -a becomes -ie.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "dative-03",
+    "case": "dative",
+    "polish": "Daję dziecku książkę.",
+    "english": "I give a child a book.",
+    "lemma": "dziecko",
+    "target": "dziecku",
+    "acceptedAnswers": [
+      "dziecku"
+    ],
+    "whyCase": "The child is the recipient, so dative is used.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 5,
+      "end": 12
+    },
+    "whyForm": "Dziecko takes dative singular dziecku, replacing final -o with -u.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "dative-04",
+    "case": "dative",
+    "polish": "Dziękuję mamie.",
+    "english": "I'm thanking Mum.",
+    "lemma": "mama",
+    "target": "mamie",
+    "acceptedAnswers": [
+      "mamie"
+    ],
+    "whyCase": "Dziękować governs dative.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 9,
+      "end": 14
+    },
+    "whyForm": "Mama takes dative singular mamie, replacing -a with -ie.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "dative-05",
+    "case": "dative",
+    "polish": "Przyglądam się psu.",
+    "english": "I'm looking closely at a dog.",
+    "lemma": "pies",
+    "target": "psu",
+    "acceptedAnswers": [
+      "psu"
+    ],
+    "whyCase": "Przyglądać się governs dative.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 15,
+      "end": 18
+    },
+    "whyForm": "Pies has irregular dative singular psu, with the stem vowel removed.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "dative-06",
+    "case": "dative",
+    "polish": "Ufam przyjacielowi.",
+    "english": "I trust a friend.",
+    "lemma": "przyjaciel",
+    "target": "przyjacielowi",
+    "acceptedAnswers": [
+      "przyjacielowi"
+    ],
+    "whyCase": "Ufać governs dative.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 5,
+      "end": 18
+    },
+    "whyForm": "Przyjaciel takes dative singular przyjacielowi, with -owi.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "accusative-01",
+    "case": "accusative",
+    "polish": "Widzę kota.",
+    "english": "I see a cat.",
+    "lemma": "kot",
+    "target": "kota",
+    "acceptedAnswers": [
+      "kota"
+    ],
+    "whyCase": "The cat is the direct object; masculine animate accusative is kota.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 6,
+      "end": 10
+    },
+    "whyForm": "Kot is masculine animate; accusative singular equals genitive singular: kota.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "accusative-02",
+    "case": "accusative",
+    "polish": "Czytam książkę.",
+    "english": "I'm reading a book.",
+    "lemma": "książka",
+    "target": "książkę",
+    "acceptedAnswers": [
+      "książkę"
+    ],
+    "whyCase": "The book is the direct object; feminine -a changes to -ę.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 7,
+      "end": 14
+    },
+    "whyForm": "Książka is feminine ending in -a; accusative singular is książkę.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "accusative-03",
+    "case": "accusative",
+    "polish": "Piję wodę.",
+    "english": "I'm drinking water.",
+    "lemma": "woda",
+    "target": "wodę",
+    "acceptedAnswers": [
+      "wodę"
+    ],
+    "whyCase": "Water is the direct object; feminine -a changes to -ę.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 5,
+      "end": 9
+    },
+    "whyForm": "Woda is feminine ending in -a; accusative singular is wodę.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "accusative-04",
+    "case": "accusative",
+    "polish": "Mam dom.",
+    "english": "I have a house.",
+    "lemma": "dom",
+    "target": "dom",
+    "acceptedAnswers": [
+      "dom"
+    ],
+    "whyCase": "The house is the direct object; masculine inanimate accusative equals nominative.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 4,
+      "end": 7
+    },
+    "whyForm": "Dom is masculine inanimate; accusative singular equals nominative: dom.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "accusative-05",
+    "case": "accusative",
+    "polish": "Widzę dziecko.",
+    "english": "I see a child.",
+    "lemma": "dziecko",
+    "target": "dziecko",
+    "acceptedAnswers": [
+      "dziecko"
+    ],
+    "whyCase": "The child is the direct object; neuter accusative equals nominative.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 6,
+      "end": 13
+    },
+    "whyForm": "Dziecko is neuter; accusative singular equals nominative: dziecko.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "accusative-06",
+    "case": "accusative",
+    "polish": "Znam kobietę.",
+    "english": "I know a woman.",
+    "lemma": "kobieta",
+    "target": "kobietę",
+    "acceptedAnswers": [
+      "kobietę"
+    ],
+    "whyCase": "The woman is the direct object; feminine accusative singular is kobietę.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 5,
+      "end": 12
+    },
+    "whyForm": "Kobieta is feminine ending in -a; accusative singular is kobietę.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "instrumental-01",
+    "case": "instrumental",
+    "polish": "Idę z kotem.",
+    "english": "I'm walking with a cat.",
+    "lemma": "kot",
+    "target": "kotem",
+    "acceptedAnswers": [
+      "kotem"
+    ],
+    "whyCase": "Z meaning 'with' governs instrumental.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 6,
+      "end": 11
+    },
+    "whyForm": "Kot takes instrumental singular kotem, ending in -em.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "instrumental-02",
+    "case": "instrumental",
+    "polish": "Piszę długopisem.",
+    "english": "I'm writing with a pen.",
+    "lemma": "długopis",
+    "target": "długopisem",
+    "acceptedAnswers": [
+      "długopisem"
+    ],
+    "whyCase": "The pen is the instrument used to write.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 6,
+      "end": 16
+    },
+    "whyForm": "Długopis takes instrumental singular długopisem, ending in -em.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "instrumental-03",
+    "case": "instrumental",
+    "polish": "Jestem nauczycielem.",
+    "english": "I'm a teacher.",
+    "lemma": "nauczyciel",
+    "target": "nauczycielem",
+    "acceptedAnswers": [
+      "nauczycielem"
+    ],
+    "whyCase": "A profession noun after jestem takes instrumental.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 7,
+      "end": 19
+    },
+    "whyForm": "Nauczyciel takes instrumental singular nauczycielem, ending in -em.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "instrumental-04",
+    "case": "instrumental",
+    "polish": "Idę z kobietą.",
+    "english": "I'm walking with a woman.",
+    "lemma": "kobieta",
+    "target": "kobietą",
+    "acceptedAnswers": [
+      "kobietą"
+    ],
+    "whyCase": "Z meaning 'with' governs instrumental.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 6,
+      "end": 13
+    },
+    "whyForm": "Kobieta is feminine; instrumental singular replaces -a with -ą: kobietą.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "instrumental-05",
+    "case": "instrumental",
+    "polish": "Bawię się z dzieckiem.",
+    "english": "I'm playing with a child.",
+    "lemma": "dziecko",
+    "target": "dzieckiem",
+    "acceptedAnswers": [
+      "dzieckiem"
+    ],
+    "whyCase": "Z meaning 'with' governs instrumental.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 12,
+      "end": 21
+    },
+    "whyForm": "Dziecko is neuter; instrumental singular is dzieckiem, ending in -iem.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "instrumental-06",
+    "case": "instrumental",
+    "polish": "Jadę samochodem.",
+    "english": "I'm travelling by car.",
+    "lemma": "samochód",
+    "target": "samochodem",
+    "acceptedAnswers": [
+      "samochodem"
+    ],
+    "whyCase": "The car is the means of transport, expressed in instrumental.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 5,
+      "end": 15
+    },
+    "whyForm": "Samochód has instrumental singular samochodem; its stem vowel changes from ó to o.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "locative-01",
+    "case": "locative",
+    "polish": "Myślę o kocie.",
+    "english": "I'm thinking about a cat.",
+    "lemma": "kot",
+    "target": "kocie",
+    "acceptedAnswers": [
+      "kocie"
+    ],
+    "whyCase": "O meaning 'about' governs locative.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 8,
+      "end": 13
+    },
+    "whyForm": "Kot has locative singular kocie, with a consonant change from t to c.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "locative-02",
+    "case": "locative",
+    "polish": "Mieszkam w domu.",
+    "english": "I live in a house.",
+    "lemma": "dom",
+    "target": "domu",
+    "acceptedAnswers": [
+      "domu"
+    ],
+    "whyCase": "W for static location governs locative.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 11,
+      "end": 15
+    },
+    "whyForm": "Dom has locative singular domu, ending in -u.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "locative-03",
+    "case": "locative",
+    "polish": "Rozmawiam o książce.",
+    "english": "I'm talking about a book.",
+    "lemma": "książka",
+    "target": "książce",
+    "acceptedAnswers": [
+      "książce"
+    ],
+    "whyCase": "O meaning 'about' governs locative.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 12,
+      "end": 19
+    },
+    "whyForm": "Książka has locative singular książce, with k changing to c.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "locative-04",
+    "case": "locative",
+    "polish": "Jestem w szkole.",
+    "english": "I'm at school.",
+    "lemma": "szkoła",
+    "target": "szkole",
+    "acceptedAnswers": [
+      "szkole"
+    ],
+    "whyCase": "W for static location governs locative.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 9,
+      "end": 15
+    },
+    "whyForm": "Szkoła has locative singular szkole, replacing -a with -e.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "locative-05",
+    "case": "locative",
+    "polish": "Mówię o dziecku.",
+    "english": "I'm talking about a child.",
+    "lemma": "dziecko",
+    "target": "dziecku",
+    "acceptedAnswers": [
+      "dziecku"
+    ],
+    "whyCase": "O meaning 'about' governs locative.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 8,
+      "end": 15
+    },
+    "whyForm": "Dziecko has locative singular dziecku, ending in -u.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "locative-06",
+    "case": "locative",
+    "polish": "Siedzę na krześle.",
+    "english": "I'm sitting on a chair.",
+    "lemma": "krzesło",
+    "target": "krześle",
+    "acceptedAnswers": [
+      "krześle"
+    ],
+    "whyCase": "Na for static location governs locative.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 10,
+      "end": 17
+    },
+    "whyForm": "Krzesło has locative singular krześle, with a consonant change in the stem.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "vocative-01",
+    "case": "vocative",
+    "polish": "Kocie, chodź tutaj!",
+    "english": "Cat, come here!",
+    "lemma": "kot",
+    "target": "kocie",
+    "acceptedAnswers": [
+      "kocie"
+    ],
+    "whyCase": "The cat is addressed directly.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 0,
+      "end": 5
+    },
+    "whyForm": "Kot has vocative singular kocie, with a consonant change from t to c.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "vocative-02",
+    "case": "vocative",
+    "polish": "Mamo, pomóż mi!",
+    "english": "Mum, help me!",
+    "lemma": "mama",
+    "target": "mamo",
+    "acceptedAnswers": [
+      "mamo"
+    ],
+    "whyCase": "Mum is addressed directly.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 0,
+      "end": 4
+    },
+    "whyForm": "Mama has vocative singular mamo, replacing -a with -o.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "vocative-03",
+    "case": "vocative",
+    "polish": "Tato, chodź!",
+    "english": "Dad, come!",
+    "lemma": "tata",
+    "target": "tato",
+    "acceptedAnswers": [
+      "tato"
+    ],
+    "whyCase": "Dad is addressed directly.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 0,
+      "end": 4
+    },
+    "whyForm": "Tata has vocative singular tato, replacing -a with -o.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "vocative-04",
+    "case": "vocative",
+    "polish": "Anno, słuchaj!",
+    "english": "Anna, listen!",
+    "lemma": "Anna",
+    "target": "Anno",
+    "acceptedAnswers": [
+      "Anno"
+    ],
+    "whyCase": "Anna is addressed directly.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 0,
+      "end": 4
+    },
+    "whyForm": "Anna has vocative singular Anno, replacing -a with -o.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "vocative-05",
+    "case": "vocative",
+    "polish": "Przyjacielu, dziękuję!",
+    "english": "My friend, thank you!",
+    "lemma": "przyjaciel",
+    "target": "przyjacielu",
+    "acceptedAnswers": [
+      "przyjacielu"
+    ],
+    "whyCase": "The friend is addressed directly.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 0,
+      "end": 11
+    },
+    "whyForm": "Przyjaciel has vocative singular przyjacielu, ending in -u.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "vocative-06",
+    "case": "vocative",
+    "polish": "Panie, proszę poczekać!",
+    "english": "Sir, please wait!",
+    "lemma": "pan",
+    "target": "panie",
+    "acceptedAnswers": [
+      "panie"
+    ],
+    "whyCase": "Pan is addressed directly.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 0,
+      "end": 5
+    },
+    "whyForm": "Pan has vocative singular panie, ending in -ie.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "nominative-07",
+    "case": "nominative",
+    "polish": "Student pisze list.",
+    "english": "The student is writing a letter.",
+    "lemma": "student",
+    "target": "student",
+    "acceptedAnswers": [
+      "student"
+    ],
+    "whyCase": "Student is the subject doing the writing.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 0,
+      "end": 7
+    },
+    "whyForm": "Student is masculine nominative singular, the dictionary form.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "nominative-08",
+    "case": "nominative",
+    "polish": "Mama gotuje obiad.",
+    "english": "Mum is cooking dinner.",
+    "lemma": "mama",
+    "target": "mama",
+    "acceptedAnswers": [
+      "mama"
+    ],
+    "whyCase": "Mama performs the action, so it is nominative.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 0,
+      "end": 4
+    },
+    "whyForm": "Mama is feminine nominative singular; the final -a is retained.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "nominative-09",
+    "case": "nominative",
+    "polish": "Pociąg przyjeżdża.",
+    "english": "The train is arriving.",
+    "lemma": "pociąg",
+    "target": "pociąg",
+    "acceptedAnswers": [
+      "pociąg"
+    ],
+    "whyCase": "The train is the subject of przyjeżdża.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 0,
+      "end": 6
+    },
+    "whyForm": "Pociąg is masculine nominative singular, the dictionary form.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "nominative-10",
+    "case": "nominative",
+    "polish": "Dzieci biegają.",
+    "english": "The children are running.",
+    "lemma": "dziecko",
+    "target": "dzieci",
+    "acceptedAnswers": [
+      "dzieci"
+    ],
+    "whyCase": "Dzieci is the plural nominative subject.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 0,
+      "end": 6
+    },
+    "whyForm": "Dzieci is the irregular nominative plural of dziecko; it is not formed by adding a regular plural ending.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "nominative-11",
+    "case": "nominative",
+    "polish": "To jest moja siostra.",
+    "english": "This is my sister.",
+    "lemma": "siostra",
+    "target": "siostra",
+    "acceptedAnswers": [
+      "siostra"
+    ],
+    "whyCase": "Siostra names the person being identified in the nominative.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 13,
+      "end": 20
+    },
+    "whyForm": "Siostra is feminine nominative singular, the dictionary form.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "nominative-12",
+    "case": "nominative",
+    "polish": "Nowe książki są drogie.",
+    "english": "New books are expensive.",
+    "lemma": "książka",
+    "target": "książki",
+    "acceptedAnswers": [
+      "książki"
+    ],
+    "whyCase": "Książki is the plural nominative subject being described.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 5,
+      "end": 12
+    },
+    "whyForm": "Książki is the nominative plural of książka; the singular -a changes to -i here.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "genitive-07",
+    "case": "genitive",
+    "polish": "Nie piję kawy.",
+    "english": "I'm not drinking coffee.",
+    "lemma": "kawa",
+    "target": "kawy",
+    "acceptedAnswers": [
+      "kawy"
+    ],
+    "whyCase": "Negation of the transitive verb pić normally changes its direct object to genitive.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 9,
+      "end": 13
+    },
+    "whyForm": "Kawa is feminine; genitive singular changes -a to -y: kawy.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "genitive-08",
+    "case": "genitive",
+    "polish": "Bez cukru, proszę.",
+    "english": "Without sugar, please.",
+    "lemma": "cukier",
+    "target": "cukru",
+    "acceptedAnswers": [
+      "cukru"
+    ],
+    "whyCase": "Bez always governs genitive.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 4,
+      "end": 9
+    },
+    "whyForm": "Cukier has genitive singular cukru, with a stem change and -u.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "genitive-09",
+    "case": "genitive",
+    "polish": "To jest samochód mojego brata.",
+    "english": "This is my brother's car.",
+    "lemma": "brat",
+    "target": "brata",
+    "acceptedAnswers": [
+      "brata"
+    ],
+    "whyCase": "The brother is the possessor, expressed in genitive.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 24,
+      "end": 29
+    },
+    "whyForm": "Brat is masculine animate; genitive singular is brata.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "genitive-10",
+    "case": "genitive",
+    "polish": "Mam dużo pracy.",
+    "english": "I have a lot of work.",
+    "lemma": "praca",
+    "target": "pracy",
+    "acceptedAnswers": [
+      "pracy"
+    ],
+    "whyCase": "Dużo governs genitive for the quantity being described.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 9,
+      "end": 14
+    },
+    "whyForm": "Praca has genitive singular pracy; the -ca ending changes to -cy.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "genitive-11",
+    "case": "genitive",
+    "polish": "Nie widzę psa.",
+    "english": "I don't see a dog.",
+    "lemma": "pies",
+    "target": "psa",
+    "acceptedAnswers": [
+      "psa"
+    ],
+    "whyCase": "Negated widzieć takes a genitive object.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 10,
+      "end": 13
+    },
+    "whyForm": "Pies has irregular genitive singular psa, losing the vowel -ie-.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "genitive-12",
+    "case": "genitive",
+    "polish": "To prezent dla mamy.",
+    "english": "It's a present for Mum.",
+    "lemma": "mama",
+    "target": "mamy",
+    "acceptedAnswers": [
+      "mamy"
+    ],
+    "whyCase": "Dla governs genitive.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 15,
+      "end": 19
+    },
+    "whyForm": "Mama has genitive singular mamy, replacing -a with -y.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "dative-07",
+    "case": "dative",
+    "polish": "Daję bratu telefon.",
+    "english": "I'm giving my brother a phone.",
+    "lemma": "brat",
+    "target": "bratu",
+    "acceptedAnswers": [
+      "bratu"
+    ],
+    "whyCase": "The brother receives the phone; he is the dative recipient.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 5,
+      "end": 10
+    },
+    "whyForm": "Brat has dative singular bratu; the ending is -u.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "dative-08",
+    "case": "dative",
+    "polish": "Pomagam siostrze.",
+    "english": "I'm helping my sister.",
+    "lemma": "siostra",
+    "target": "siostrze",
+    "acceptedAnswers": [
+      "siostrze"
+    ],
+    "whyCase": "Pomagać governs dative.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 8,
+      "end": 16
+    },
+    "whyForm": "Siostra takes dative singular siostrze; the consonant changes before -e.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "dative-09",
+    "case": "dative",
+    "polish": "Dziecku jest zimno.",
+    "english": "The child is cold.",
+    "lemma": "dziecko",
+    "target": "dziecku",
+    "acceptedAnswers": [
+      "dziecku"
+    ],
+    "whyCase": "The person experiencing the cold is expressed in dative.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 0,
+      "end": 7
+    },
+    "whyForm": "Dziecko takes dative singular dziecku; neuter -o changes to -u.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "dative-10",
+    "case": "dative",
+    "polish": "Wysyłam mamie wiadomość.",
+    "english": "I'm sending Mum a message.",
+    "lemma": "mama",
+    "target": "mamie",
+    "acceptedAnswers": [
+      "mamie"
+    ],
+    "whyCase": "Mum receives the message, so dative is used.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 8,
+      "end": 13
+    },
+    "whyForm": "Mama takes dative singular mamie, with -ie.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "dative-11",
+    "case": "dative",
+    "polish": "Dziękuję nauczycielowi.",
+    "english": "I'm thanking the teacher.",
+    "lemma": "nauczyciel",
+    "target": "nauczycielowi",
+    "acceptedAnswers": [
+      "nauczycielowi"
+    ],
+    "whyCase": "Dziękować governs dative.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 9,
+      "end": 22
+    },
+    "whyForm": "Nauczyciel takes dative singular nauczycielowi, with -owi.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "dative-12",
+    "case": "dative",
+    "polish": "Podaję koledze wodę.",
+    "english": "I'm handing my colleague water.",
+    "lemma": "kolega",
+    "target": "koledze",
+    "acceptedAnswers": [
+      "koledze"
+    ],
+    "whyCase": "The colleague is the recipient of the water.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 7,
+      "end": 14
+    },
+    "whyForm": "Kolega takes dative singular koledze, with a stem consonant change.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "accusative-07",
+    "case": "accusative",
+    "polish": "Kupuję chleb.",
+    "english": "I'm buying bread.",
+    "lemma": "chleb",
+    "target": "chleb",
+    "acceptedAnswers": [
+      "chleb"
+    ],
+    "whyCase": "Bread is the direct object; masculine inanimate accusative equals nominative.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 7,
+      "end": 12
+    },
+    "whyForm": "Chleb is masculine inanimate; accusative singular is unchanged: chleb.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "accusative-08",
+    "case": "accusative",
+    "polish": "Oglądam film.",
+    "english": "I'm watching a film.",
+    "lemma": "film",
+    "target": "film",
+    "acceptedAnswers": [
+      "film"
+    ],
+    "whyCase": "Film is the direct object; masculine inanimate accusative equals nominative.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 8,
+      "end": 12
+    },
+    "whyForm": "Film is masculine inanimate; accusative singular is unchanged: film.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "accusative-09",
+    "case": "accusative",
+    "polish": "Widzę psy.",
+    "english": "I see dogs.",
+    "lemma": "pies",
+    "target": "psy",
+    "acceptedAnswers": [
+      "psy"
+    ],
+    "whyCase": "Dogs are the direct object; non-masculine-personal plural accusative equals nominative.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 6,
+      "end": 9
+    },
+    "whyForm": "Psy is the non-masculine-personal plural accusative of pies; it matches nominative plural.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "accusative-10",
+    "case": "accusative",
+    "polish": "Czytam gazetę.",
+    "english": "I'm reading a newspaper.",
+    "lemma": "gazeta",
+    "target": "gazetę",
+    "acceptedAnswers": [
+      "gazetę"
+    ],
+    "whyCase": "The newspaper is the direct object; feminine singular -a becomes -ę.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 7,
+      "end": 13
+    },
+    "whyForm": "Gazeta is feminine; accusative singular replaces -a with -ę: gazetę.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "accusative-11",
+    "case": "accusative",
+    "polish": "Znam tego człowieka.",
+    "english": "I know that person.",
+    "lemma": "człowiek",
+    "target": "człowieka",
+    "acceptedAnswers": [
+      "człowieka"
+    ],
+    "whyCase": "The person is the direct object; masculine animate accusative equals genitive.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 10,
+      "end": 19
+    },
+    "whyForm": "Człowiek is masculine animate; accusative singular equals genitive: człowieka.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "accusative-12",
+    "case": "accusative",
+    "polish": "Mam nową pracę.",
+    "english": "I have a new job.",
+    "lemma": "praca",
+    "target": "pracę",
+    "acceptedAnswers": [
+      "pracę"
+    ],
+    "whyCase": "The job is the direct object; feminine singular accusative is pracę.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 9,
+      "end": 14
+    },
+    "whyForm": "Praca is feminine; accusative singular replaces -a with -ę: pracę.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "instrumental-07",
+    "case": "instrumental",
+    "polish": "Jem zupę łyżką.",
+    "english": "I'm eating soup with a spoon.",
+    "lemma": "łyżka",
+    "target": "łyżką",
+    "acceptedAnswers": [
+      "łyżką"
+    ],
+    "whyCase": "The spoon is the instrument used to eat.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 9,
+      "end": 14
+    },
+    "whyForm": "Łyżka is feminine; instrumental singular replaces -a with -ą: łyżką.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "instrumental-08",
+    "case": "instrumental",
+    "polish": "Rozmawiam z bratem.",
+    "english": "I'm talking with my brother.",
+    "lemma": "brat",
+    "target": "bratem",
+    "acceptedAnswers": [
+      "bratem"
+    ],
+    "whyCase": "Z meaning 'with' governs instrumental.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 12,
+      "end": 18
+    },
+    "whyForm": "Brat takes instrumental singular bratem, ending in -em.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "instrumental-09",
+    "case": "instrumental",
+    "polish": "Jestem studentem.",
+    "english": "I'm a student.",
+    "lemma": "student",
+    "target": "studentem",
+    "acceptedAnswers": [
+      "studentem"
+    ],
+    "whyCase": "A noun describing a role after jestem takes instrumental.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 7,
+      "end": 16
+    },
+    "whyForm": "Student takes instrumental singular studentem, ending in -em.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "instrumental-10",
+    "case": "instrumental",
+    "polish": "Podróżuję pociągiem.",
+    "english": "I'm travelling by train.",
+    "lemma": "pociąg",
+    "target": "pociągiem",
+    "acceptedAnswers": [
+      "pociągiem"
+    ],
+    "whyCase": "The train is the means of travel, expressed in instrumental.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 10,
+      "end": 19
+    },
+    "whyForm": "Pociąg takes instrumental singular pociągiem, ending in -iem.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "instrumental-11",
+    "case": "instrumental",
+    "polish": "Spaceruję z psem.",
+    "english": "I'm walking with a dog.",
+    "lemma": "pies",
+    "target": "psem",
+    "acceptedAnswers": [
+      "psem"
+    ],
+    "whyCase": "Z meaning 'with' governs instrumental.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 12,
+      "end": 16
+    },
+    "whyForm": "Pies has instrumental singular psem, with a stem vowel removed.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "instrumental-12",
+    "case": "instrumental",
+    "polish": "Interesuję się muzyką.",
+    "english": "I'm interested in music.",
+    "lemma": "muzyka",
+    "target": "muzyką",
+    "acceptedAnswers": [
+      "muzyką"
+    ],
+    "whyCase": "Interesować się governs instrumental.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 15,
+      "end": 21
+    },
+    "whyForm": "Muzyka is feminine; instrumental singular replaces -a with -ą: muzyką.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "locative-07",
+    "case": "locative",
+    "polish": "Mieszkam w mieście.",
+    "english": "I live in a city.",
+    "lemma": "miasto",
+    "target": "mieście",
+    "acceptedAnswers": [
+      "mieście"
+    ],
+    "whyCase": "W indicating static location governs locative.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 11,
+      "end": 18
+    },
+    "whyForm": "Miasto has locative singular mieście, with a stem alternation.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "locative-08",
+    "case": "locative",
+    "polish": "Książka leży na stole.",
+    "english": "The book is lying on the table.",
+    "lemma": "stół",
+    "target": "stole",
+    "acceptedAnswers": [
+      "stole"
+    ],
+    "whyCase": "Na describing a static location governs locative.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 16,
+      "end": 21
+    },
+    "whyForm": "Stół has locative singular stole; the stem vowel changes from ó to o.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "locative-09",
+    "case": "locative",
+    "polish": "Mówimy o pracy.",
+    "english": "We're talking about work.",
+    "lemma": "praca",
+    "target": "pracy",
+    "acceptedAnswers": [
+      "pracy"
+    ],
+    "whyCase": "O meaning 'about' governs locative.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 9,
+      "end": 14
+    },
+    "whyForm": "Praca has locative singular pracy, ending in -y.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "locative-10",
+    "case": "locative",
+    "polish": "Spotkamy się w parku.",
+    "english": "We'll meet in the park.",
+    "lemma": "park",
+    "target": "parku",
+    "acceptedAnswers": [
+      "parku"
+    ],
+    "whyCase": "W indicating static location governs locative.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 15,
+      "end": 20
+    },
+    "whyForm": "Park has locative singular parku, ending in -u.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "locative-11",
+    "case": "locative",
+    "polish": "Myślę o mamie.",
+    "english": "I'm thinking about Mum.",
+    "lemma": "mama",
+    "target": "mamie",
+    "acceptedAnswers": [
+      "mamie"
+    ],
+    "whyCase": "O meaning 'about' governs locative.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 8,
+      "end": 13
+    },
+    "whyForm": "Mama has locative singular mamie, ending in -ie.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "locative-12",
+    "case": "locative",
+    "polish": "Jestem na poczcie.",
+    "english": "I'm at the post office.",
+    "lemma": "poczta",
+    "target": "poczcie",
+    "acceptedAnswers": [
+      "poczcie"
+    ],
+    "whyCase": "Na in this location expression governs locative.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 10,
+      "end": 17
+    },
+    "whyForm": "Poczta has locative singular poczcie, with a consonant change in the stem.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "vocative-07",
+    "case": "vocative",
+    "polish": "Kasiu, poczekaj!",
+    "english": "Kasia, wait!",
+    "lemma": "Kasia",
+    "target": "Kasiu",
+    "acceptedAnswers": [
+      "Kasiu"
+    ],
+    "whyCase": "Kasia is being addressed directly.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 0,
+      "end": 5
+    },
+    "whyForm": "Kasia has vocative singular Kasiu, ending in -u.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "vocative-08",
+    "case": "vocative",
+    "polish": "Piotrze, pomóż mi!",
+    "english": "Piotr, help me!",
+    "lemma": "Piotr",
+    "target": "Piotrze",
+    "acceptedAnswers": [
+      "Piotrze"
+    ],
+    "whyCase": "Piotr is being addressed directly.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 0,
+      "end": 7
+    },
+    "whyForm": "Piotr has vocative singular Piotrze, with a consonant change.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "vocative-09",
+    "case": "vocative",
+    "polish": "Synu, chodź tutaj!",
+    "english": "Son, come here!",
+    "lemma": "syn",
+    "target": "synu",
+    "acceptedAnswers": [
+      "synu"
+    ],
+    "whyCase": "The son is being addressed directly.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 0,
+      "end": 4
+    },
+    "whyForm": "Syn has vocative singular synu, ending in -u.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "vocative-10",
+    "case": "vocative",
+    "polish": "Córeczko, posłuchaj!",
+    "english": "Sweetheart, listen!",
+    "lemma": "córeczka",
+    "target": "córeczko",
+    "acceptedAnswers": [
+      "córeczko"
+    ],
+    "whyCase": "The daughter is being addressed directly.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 0,
+      "end": 8
+    },
+    "whyForm": "Córeczka has vocative singular córeczko, replacing -a with -o.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "vocative-11",
+    "case": "vocative",
+    "polish": "Kolego, zaczekaj!",
+    "english": "Mate, wait!",
+    "lemma": "kolega",
+    "target": "kolego",
+    "acceptedAnswers": [
+      "kolego"
+    ],
+    "whyCase": "The colleague or friend is being addressed directly.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 0,
+      "end": 6
+    },
+    "whyForm": "Kolega has vocative singular kolego, replacing -a with -o.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "vocative-12",
+    "case": "vocative",
+    "polish": "Pani Anno, zapraszam!",
+    "english": "Ms Anna, please come in!",
+    "lemma": "Anna",
+    "target": "Anno",
+    "acceptedAnswers": [
+      "Anno"
+    ],
+    "whyCase": "Anna is addressed directly after the honorific Pani.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 5,
+      "end": 9
+    },
+    "whyForm": "Anna has vocative singular Anno, replacing -a with -o.",
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "nominative-13",
+    "case": "nominative",
+    "polish": "Lekarz pracuje.",
+    "english": "The doctor is working.",
+    "lemma": "lekarz",
+    "target": "Lekarz",
+    "acceptedAnswers": [
+      "Lekarz"
+    ],
+    "whyCase": "Lekarz is the subject of pracuje.",
+    "whyForm": "Lekarz is the nominative singular dictionary form.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 0,
+      "end": 6
+    },
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "nominative-14",
+    "case": "nominative",
+    "polish": "Moje okno jest otwarte.",
+    "english": "My window is open.",
+    "lemma": "okno",
+    "target": "okno",
+    "acceptedAnswers": [
+      "okno"
+    ],
+    "whyCase": "Okno is the subject being described.",
+    "whyForm": "Neuter nominative singular retains okno.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 5,
+      "end": 9
+    },
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "nominative-15",
+    "case": "nominative",
+    "polish": "Uczniowie słuchają.",
+    "english": "The pupils are listening.",
+    "lemma": "uczeń",
+    "target": "Uczniowie",
+    "acceptedAnswers": [
+      "Uczniowie"
+    ],
+    "whyCase": "Uczniowie is the plural subject.",
+    "whyForm": "Uczeń has the masculine-personal nominative plural uczniowie.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 0,
+      "end": 9
+    },
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "nominative-16",
+    "case": "nominative",
+    "polish": "Ta dziewczyna śpiewa.",
+    "english": "That girl is singing.",
+    "lemma": "dziewczyna",
+    "target": "dziewczyna",
+    "acceptedAnswers": [
+      "dziewczyna"
+    ],
+    "whyCase": "Dziewczyna is the subject performing the singing.",
+    "whyForm": "The feminine noun keeps its nominative singular -a ending.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 3,
+      "end": 13
+    },
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "genitive-13",
+    "case": "genitive",
+    "polish": "Nie znam tego miasta.",
+    "english": "I don't know that city.",
+    "lemma": "miasto",
+    "target": "miasta",
+    "acceptedAnswers": [
+      "miasta"
+    ],
+    "whyCase": "Negated znać takes a genitive object here.",
+    "whyForm": "The genitive singular of miasto is miasta.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 14,
+      "end": 20
+    },
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "genitive-14",
+    "case": "genitive",
+    "polish": "Wracam z pracy.",
+    "english": "I'm coming back from work.",
+    "lemma": "praca",
+    "target": "pracy",
+    "acceptedAnswers": [
+      "pracy"
+    ],
+    "whyCase": "Z meaning 'from' requires genitive.",
+    "whyForm": "Praca has genitive singular pracy.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 9,
+      "end": 14
+    },
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "genitive-15",
+    "case": "genitive",
+    "polish": "Nie mamy chleba.",
+    "english": "We don't have bread.",
+    "lemma": "chleb",
+    "target": "chleba",
+    "acceptedAnswers": [
+      "chleba"
+    ],
+    "whyCase": "The negated verb nie mamy requires genitive.",
+    "whyForm": "The masculine noun chleb takes genitive singular chleba.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 9,
+      "end": 15
+    },
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "genitive-16",
+    "case": "genitive",
+    "polish": "Potrzebuję pomocy.",
+    "english": "I need help.",
+    "lemma": "pomoc",
+    "target": "pomocy",
+    "acceptedAnswers": [
+      "pomocy"
+    ],
+    "whyCase": "Potrzebować governs genitive.",
+    "whyForm": "Pomoc takes genitive singular pomocy.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 11,
+      "end": 17
+    },
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "dative-13",
+    "case": "dative",
+    "polish": "Daję psu jedzenie.",
+    "english": "I give the dog food.",
+    "lemma": "pies",
+    "target": "psu",
+    "acceptedAnswers": [
+      "psu"
+    ],
+    "whyCase": "The dog receives the food, so dative is used.",
+    "whyForm": "Pies has the irregular dative singular psu.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 5,
+      "end": 8
+    },
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "dative-14",
+    "case": "dative",
+    "polish": "Pomagam ojcu.",
+    "english": "I'm helping Dad.",
+    "lemma": "ojciec",
+    "target": "ojcu",
+    "acceptedAnswers": [
+      "ojcu"
+    ],
+    "whyCase": "Pomagać governs dative.",
+    "whyForm": "Ojciec has dative singular ojcu.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 8,
+      "end": 12
+    },
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "dative-15",
+    "case": "dative",
+    "polish": "Przyglądam się miastu.",
+    "english": "I'm looking closely at the city.",
+    "lemma": "miasto",
+    "target": "miastu",
+    "acceptedAnswers": [
+      "miastu"
+    ],
+    "whyCase": "Przyglądać się governs dative.",
+    "whyForm": "The neuter noun miasto takes dative singular miastu.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 15,
+      "end": 21
+    },
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "dative-16",
+    "case": "dative",
+    "polish": "Życzę siostrze szczęścia.",
+    "english": "I wish my sister happiness.",
+    "lemma": "siostra",
+    "target": "siostrze",
+    "acceptedAnswers": [
+      "siostrze"
+    ],
+    "whyCase": "Życzyć takes the recipient in dative.",
+    "whyForm": "Siostra has dative singular siostrze.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 6,
+      "end": 14
+    },
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "accusative-13",
+    "case": "accusative",
+    "polish": "Kupuję kawę.",
+    "english": "I'm buying coffee.",
+    "lemma": "kawa",
+    "target": "kawę",
+    "acceptedAnswers": [
+      "kawę"
+    ],
+    "whyCase": "Coffee is the direct object of kupuję.",
+    "whyForm": "Feminine -a nouns typically take -ę in accusative singular.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 7,
+      "end": 11
+    },
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "accusative-14",
+    "case": "accusative",
+    "polish": "Widzę nauczyciela.",
+    "english": "I see the teacher.",
+    "lemma": "nauczyciel",
+    "target": "nauczyciela",
+    "acceptedAnswers": [
+      "nauczyciela"
+    ],
+    "whyCase": "The teacher is the direct object.",
+    "whyForm": "Masculine animate accusative singular equals genitive: nauczyciela.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 6,
+      "end": 17
+    },
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "accusative-15",
+    "case": "accusative",
+    "polish": "Otwieram okno.",
+    "english": "I'm opening a window.",
+    "lemma": "okno",
+    "target": "okno",
+    "acceptedAnswers": [
+      "okno"
+    ],
+    "whyCase": "The window is the direct object.",
+    "whyForm": "Neuter accusative singular matches nominative: okno.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 9,
+      "end": 13
+    },
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "accusative-16",
+    "case": "accusative",
+    "polish": "Czytam list.",
+    "english": "I'm reading a letter.",
+    "lemma": "list",
+    "target": "list",
+    "acceptedAnswers": [
+      "list"
+    ],
+    "whyCase": "The letter is the direct object.",
+    "whyForm": "Masculine inanimate accusative singular matches nominative: list.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 7,
+      "end": 11
+    },
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "instrumental-13",
+    "case": "instrumental",
+    "polish": "Piszę ołówkiem.",
+    "english": "I'm writing with a pencil.",
+    "lemma": "ołówek",
+    "target": "ołówkiem",
+    "acceptedAnswers": [
+      "ołówkiem"
+    ],
+    "whyCase": "The pencil is the instrument used for writing.",
+    "whyForm": "Ołówek takes instrumental singular ołówkiem.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 6,
+      "end": 14
+    },
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "instrumental-14",
+    "case": "instrumental",
+    "polish": "Idę z siostrą.",
+    "english": "I'm walking with my sister.",
+    "lemma": "siostra",
+    "target": "siostrą",
+    "acceptedAnswers": [
+      "siostrą"
+    ],
+    "whyCase": "Z meaning 'with' requires instrumental.",
+    "whyForm": "Feminine -a nouns typically take -ą in instrumental singular.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 6,
+      "end": 13
+    },
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "instrumental-15",
+    "case": "instrumental",
+    "polish": "Jestem lekarzem.",
+    "english": "I'm a doctor.",
+    "lemma": "lekarz",
+    "target": "lekarzem",
+    "acceptedAnswers": [
+      "lekarzem"
+    ],
+    "whyCase": "A profession noun after jestem takes instrumental.",
+    "whyForm": "Lekarz takes instrumental singular lekarzem.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 7,
+      "end": 15
+    },
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "instrumental-16",
+    "case": "instrumental",
+    "polish": "Podróżujemy autobusem.",
+    "english": "We're travelling by bus.",
+    "lemma": "autobus",
+    "target": "autobusem",
+    "acceptedAnswers": [
+      "autobusem"
+    ],
+    "whyCase": "The bus is the means of transport.",
+    "whyForm": "Autobus takes instrumental singular autobusem.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 12,
+      "end": 21
+    },
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "locative-13",
+    "case": "locative",
+    "polish": "Rozmawiamy o filmie.",
+    "english": "We're talking about a film.",
+    "lemma": "film",
+    "target": "filmie",
+    "acceptedAnswers": [
+      "filmie"
+    ],
+    "whyCase": "O meaning 'about' governs locative.",
+    "whyForm": "Film has locative singular filmie.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 13,
+      "end": 19
+    },
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "locative-14",
+    "case": "locative",
+    "polish": "Jestem w Warszawie.",
+    "english": "I'm in Warsaw.",
+    "lemma": "Warszawa",
+    "target": "Warszawie",
+    "acceptedAnswers": [
+      "Warszawie"
+    ],
+    "whyCase": "W for a static location governs locative.",
+    "whyForm": "Warszawa has locative singular Warszawie.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 9,
+      "end": 18
+    },
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "locative-15",
+    "case": "locative",
+    "polish": "Siedzę na ławce.",
+    "english": "I'm sitting on a bench.",
+    "lemma": "ławka",
+    "target": "ławce",
+    "acceptedAnswers": [
+      "ławce"
+    ],
+    "whyCase": "Na indicating a static location governs locative.",
+    "whyForm": "Ławka has locative singular ławce.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 10,
+      "end": 15
+    },
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "locative-16",
+    "case": "locative",
+    "polish": "Czytam o języku polskim.",
+    "english": "I'm reading about the Polish language.",
+    "lemma": "język",
+    "target": "języku",
+    "acceptedAnswers": [
+      "języku"
+    ],
+    "whyCase": "O meaning 'about' governs locative.",
+    "whyForm": "Język has locative singular języku.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 9,
+      "end": 15
+    },
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "vocative-13",
+    "case": "vocative",
+    "polish": "Bracie, zaczekaj!",
+    "english": "Brother, wait!",
+    "lemma": "brat",
+    "target": "Bracie",
+    "acceptedAnswers": [
+      "Bracie"
+    ],
+    "whyCase": "The brother is addressed directly.",
+    "whyForm": "Brat has vocative singular bracie.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 0,
+      "end": 6
+    },
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "vocative-14",
+    "case": "vocative",
+    "polish": "Doktorze, proszę pomóc!",
+    "english": "Doctor, please help!",
+    "lemma": "doktor",
+    "target": "Doktorze",
+    "acceptedAnswers": [
+      "Doktorze"
+    ],
+    "whyCase": "The doctor is addressed directly.",
+    "whyForm": "Doktor has vocative singular doktorze.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 0,
+      "end": 8
+    },
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "vocative-15",
+    "case": "vocative",
+    "polish": "Dzieci, chodźcie tutaj!",
+    "english": "Children, come here!",
+    "lemma": "dziecko",
+    "target": "Dzieci",
+    "acceptedAnswers": [
+      "Dzieci"
+    ],
+    "whyCase": "The children are addressed directly.",
+    "whyForm": "Plural vocative of dziecko is dzieci, identical to nominative plural.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 0,
+      "end": 6
+    },
+    "formExplanationStatus": "specific-draft"
+  },
+  {
+    "id": "vocative-16",
+    "case": "vocative",
+    "polish": "Koleżanko, posłuchaj!",
+    "english": "Friend, listen!",
+    "lemma": "koleżanka",
+    "target": "Koleżanko",
+    "acceptedAnswers": [
+      "Koleżanko"
+    ],
+    "whyCase": "The female friend is addressed directly.",
+    "whyForm": "Koleżanka takes vocative singular koleżanko.",
+    "reviewStatus": "author-drafted-not-independently-reviewed",
+    "targetSpan": {
+      "start": 0,
+      "end": 9
+    },
+    "formExplanationStatus": "specific-draft"
+  }
+]

@@ -1,0 +1,115 @@
+{
+  "nominative": {
+    "summary": "The naming form is usually the dictionary form in the singular. The plural is a separate form to learn, especially for male-person nouns.",
+    "singular": ["Most masculine nouns here end in a consonant (kot, dom). Many feminine nouns end in -a (książka), and many neuter nouns end in -o or -e (dziecko, miejsce). These are common shapes, not a gender test that works for every noun.", "A masculine person can also have singular -a, as in kolega. Its gender still matters elsewhere in the paradigm."],
+    "plural": ["Non-masculine-personal plurals often use -y, -i or -e; książka → książki has -i after k. Many neuter nouns have -a (miasto → miasta).", "Masculine-personal plurals use several patterns, including -i, -e and -owie, often with a changed stem: student → studenci. The exact plural should be learned with the noun."],
+    "stem": "A plural may soften or reshape a stem: student → studenci. Do not make every plural by adding one ending to the dictionary form.",
+    "remember": "Dziecko → dzieci is a high-frequency irregular plural. Pies → psy loses the vowel in its stem. Learn these as whole forms.",
+    "comparisons": [
+      {"lemma":"kot","form":"kot","number":"singular","note":"masculine animate: dictionary form"},
+      {"lemma":"książka","form":"książka","number":"singular","note":"feminine: -a"},
+      {"lemma":"dziecko","form":"dziecko","number":"singular","note":"neuter: -o"},
+      {"lemma":"student","form":"studenci","number":"plural","note":"masculine personal: changed stem and -i"},
+      {"lemma":"książka","form":"książki","number":"plural","note":"feminine: -i after k"},
+      {"lemma":"dziecko","form":"dzieci","number":"plural","note":"irregular neuter plural"}
+    ]
+  },
+  "genitive": {
+    "summary": "Gender narrows the choice of ending, but masculine singular -a versus -u and many plural forms must be learned noun by noun.",
+    "singular": ["Masculine animate nouns often take -a: kot → kota. Masculine inanimate nouns may take -u (dom → domu, czas → czasu) or -a; do not infer the ending from inanimacy alone.", "Many feminine -a nouns take -y (szkoła → szkoły) or -i after k/g (książka → książki). Common neuter -o nouns take -a (dziecko → dziecka)."],
+    "plural": ["Many masculine nouns use -ów (kot → kotów), while others use -i or another form. Masculine-personal brat → braci is not made with -ów.", "Many feminine and neuter nouns have no added ending, but the stem can change: książka → książek inserts e; dziecko → dzieci is irregular."],
+    "stem": "The stem can change as well as the ending: pies → psa loses ie; cukier → cukru loses e. In książka → książki, k is followed by written i rather than y.",
+    "remember": "Learn masculine inanimate genitives with the noun: dom → domu, czas → czasu, but chleb → chleba. This is a lexical choice, not a universal ending rule.",
+    "comparisons": [
+      {"lemma":"kot","form":"kota","number":"singular","note":"masculine animate: -a"},
+      {"lemma":"szkoła","form":"szkoły","number":"singular","note":"feminine: -y"},
+      {"lemma":"książka","form":"książki","number":"singular","note":"feminine after k: -i"},
+      {"lemma":"czas","form":"czasu","number":"singular","note":"masculine inanimate: lexical -u"},
+      {"lemma":"dziecko","form":"dziecka","number":"singular","note":"neuter: -a"},
+      {"lemma":"kot","form":"kotów","number":"plural","note":"masculine: -ów"},
+      {"lemma":"książka","form":"książek","number":"plural","note":"feminine: no added ending, inserted e"},
+      {"lemma":"dziecko","form":"dzieci","number":"plural","note":"irregular neuter plural"}
+    ]
+  },
+  "dative": {
+    "summary": "A recipient or a dative-taking verb calls for dative; the noun's gender and stem determine its form.",
+    "singular": ["Masculine nouns often take -owi (przyjaciel → przyjacielowi), but a common smaller group takes -u (kot → kotu, brat → bratu).", "Feminine -a nouns often take -e/-ie with a softened stem (kobieta → kobiecie); some take -y/-i. Neuter -o nouns commonly take -u (dziecko → dziecku)."],
+    "plural": ["The broad plural ending is -om across genders: kot → kotom, książka → książkom, dziecko → dzieciom. The plural stem can still be irregular."],
+    "stem": "Before -e, consonants may change: kobieta → kobiecie (t → ci), książka → książce (k → c), siostra → siostrze (r → rz).",
+    "remember": "Pies → psu loses ie; ojciec → ojcu also changes its stem. Do not derive these by simply attaching -u.",
+    "comparisons": [
+      {"lemma":"kot","form":"kotu","number":"singular","note":"masculine animate: -u"},
+      {"lemma":"przyjaciel","form":"przyjacielowi","number":"singular","note":"masculine personal: -owi"},
+      {"lemma":"kobieta","form":"kobiecie","number":"singular","note":"feminine: softened stem + -e"},
+      {"lemma":"dziecko","form":"dziecku","number":"singular","note":"neuter: -u"},
+      {"lemma":"kot","form":"kotom","number":"plural","note":"masculine: -om"},
+      {"lemma":"książka","form":"książkom","number":"plural","note":"feminine: -om"},
+      {"lemma":"dziecko","form":"dzieciom","number":"plural","note":"irregular stem + -om"}
+    ]
+  },
+  "accusative": {
+    "summary": "In the accusative, animacy matters in the singular and masculine-personal status matters in the plural.",
+    "singular": ["Masculine animate nouns normally match their genitive: kot → kota. Masculine inanimate nouns normally match nominative: dom → dom. Feminine -a nouns commonly use -ę: książka → książkę. Neuter nouns normally match nominative: dziecko → dziecko.", "Masculine nouns ending in -a, such as kolega, follow a feminine-looking singular ending pattern; do not classify gender from the last letter alone."],
+    "plural": ["Masculine-personal nouns match genitive plural: student → studentów. Other plurals match nominative plural, including animals: kot → koty, and feminine nouns: książka → książki."],
+    "stem": "When the accusative matches another case, it also shares that case's stem: pies → psa in the singular, but pies → psy in the non-masculine-personal plural.",
+    "remember": "Knowing a noun's gender and whether it is animate or masculine personal is essential. A form equal to the dictionary form, such as dom or dziecko, is still a real accusative form.",
+    "comparisons": [
+      {"lemma":"kot","form":"kota","number":"singular","note":"masculine animate: matches genitive"},
+      {"lemma":"dom","form":"dom","number":"singular","note":"masculine inanimate: matches nominative"},
+      {"lemma":"książka","form":"książkę","number":"singular","note":"feminine -a: -ę"},
+      {"lemma":"dziecko","form":"dziecko","number":"singular","note":"neuter: matches nominative"},
+      {"lemma":"student","form":"studentów","number":"plural","note":"masculine personal: matches genitive"},
+      {"lemma":"kot","form":"koty","number":"plural","note":"animal plural: matches nominative"},
+      {"lemma":"książka","form":"książki","number":"plural","note":"feminine plural: matches nominative"}
+    ]
+  },
+  "instrumental": {
+    "summary": "Instrumental has clear common endings, with stem and spelling changes to watch for.",
+    "singular": ["Masculine and neuter nouns commonly take -em or -iem: kot → kotem, dziecko → dzieckiem. Feminine -a nouns commonly replace -a with -ą: książka → książką.", "The written -i in dzieckiem keeps the pronunciation after k. Compare kotem without it."],
+    "plural": ["Most nouns use -ami: kot → kotami, książka → książkami. Some frequent nouns use -mi and a changed stem: dziecko → dziećmi."],
+    "stem": "A stem can change independently of the ending: samochód → samochodem has ó → o; pies → psem drops ie.",
+    "remember": "Learn irregular instrumental plurals as complete forms. Dziećmi is not made by adding regular -ami to dziecko.",
+    "comparisons": [
+      {"lemma":"kot","form":"kotem","number":"singular","note":"masculine: -em"},
+      {"lemma":"książka","form":"książką","number":"singular","note":"feminine: -ą"},
+      {"lemma":"dziecko","form":"dzieckiem","number":"singular","note":"neuter after k: -iem"},
+      {"lemma":"pies","form":"psem","number":"singular","note":"masculine: vowel drops"},
+      {"lemma":"kot","form":"kotami","number":"plural","note":"regular -ami"},
+      {"lemma":"książka","form":"książkami","number":"plural","note":"feminine: -ami"},
+      {"lemma":"dziecko","form":"dziećmi","number":"plural","note":"irregular stem and -mi"}
+    ]
+  },
+  "locative": {
+    "summary": "Locative occurs after a preposition. Singular -e/-ie often changes the stem; -u and feminine -y/-i also occur.",
+    "singular": ["Many masculine and neuter nouns use -e/-ie with a softened stem: kot → kocie, miasto → mieście. Others use -u: dom → domu, dziecko → dziecku.", "Many feminine -a nouns use -e/-ie with a stem change: książka → książce. Some use -y/-i instead, such as praca → pracy."],
+    "plural": ["-ach is a common plural ending across genders: kot → kotach, książka → książkach, dziecko → dzieciach. The stem may still change."],
+    "stem": "Before -e, consonants can soften: kot → kocie (t → c), książka → książce (k → c). Miasto → mieście changes more than the final vowel.",
+    "remember": "There is no single locative singular ending for every noun. Learn domu and dziecku as individual -u forms, alongside -e/-ie examples.",
+    "comparisons": [
+      {"lemma":"kot","form":"kocie","number":"singular","note":"masculine: t → c + -ie"},
+      {"lemma":"dom","form":"domu","number":"singular","note":"masculine: -u"},
+      {"lemma":"książka","form":"książce","number":"singular","note":"feminine: k → c + -e"},
+      {"lemma":"dziecko","form":"dziecku","number":"singular","note":"neuter: -u"},
+      {"lemma":"miasto","form":"mieście","number":"singular","note":"neuter: changed stem + -e"},
+      {"lemma":"kot","form":"kotach","number":"plural","note":"common -ach"},
+      {"lemma":"książka","form":"książkach","number":"plural","note":"feminine: -ach"},
+      {"lemma":"dziecko","form":"dzieciach","number":"plural","note":"irregular stem + -ach"}
+    ]
+  },
+  "vocative": {
+    "summary": "Vocative addresses someone directly. Singular forms vary; plural vocative normally matches nominative plural.",
+    "singular": ["Masculine nouns often use -e/-ie or -u: kot → kocie, przyjaciel → przyjacielu. Feminine -a nouns often use -o: mama → mamo.", "Some familiar feminine names use -u instead: Kasia → Kasiu. A person's name or title may have a form worth memorising."],
+    "plural": ["The plural vocative normally matches nominative plural: student → studenci, dziecko → dzieci. Masculine-personal plural forms can have their own stem changes."],
+    "stem": "The ending may soften the stem: kot → kocie (t → c). Other nouns select -u without this change, such as przyjaciel → przyjacielu.",
+    "remember": "Kasia → Kasiu and pan → panie are useful forms to learn whole. Neuter nouns are rarely addressed directly; their vocative generally matches nominative when used.",
+    "comparisons": [
+      {"lemma":"kot","form":"kocie","number":"singular","note":"masculine: softened stem + -ie"},
+      {"lemma":"mama","form":"mamo","number":"singular","note":"feminine -a: -o"},
+      {"lemma":"przyjaciel","form":"przyjacielu","number":"singular","note":"masculine: -u"},
+      {"lemma":"Kasia","form":"Kasiu","number":"singular","note":"familiar name: -u"},
+      {"lemma":"student","form":"studenci","number":"plural","note":"matches nominative plural"},
+      {"lemma":"brat","form":"bracia","number":"plural","note":"irregular masculine-personal plural"},
+      {"lemma":"dziecko","form":"dzieci","number":"plural","note":"irregular plural, matches nominative"}
+    ]
+  }
+}

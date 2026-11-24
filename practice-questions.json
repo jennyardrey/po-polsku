@@ -1,0 +1,2466 @@
+[
+  {
+    "id": "nominative-01",
+    "case": "nominative",
+    "polish": "Kot śpi.",
+    "english": "The cat is sleeping.",
+    "lemma": "kot",
+    "target": "kot",
+    "targetSpan": {
+      "start": 0,
+      "end": 3
+    },
+    "acceptedAnswers": [
+      "kot"
+    ],
+    "whyCase": "The cat is doing the sleeping; it is the subject.",
+    "whyForm": "Kot is the nominative singular dictionary form of this masculine noun.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The cat is doing the sleeping; it is the subject. Kot is the nominative singular dictionary form of this masculine noun.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "nominative-02",
+    "case": "nominative",
+    "polish": "Kobieta czyta.",
+    "english": "The woman is reading.",
+    "lemma": "kobieta",
+    "target": "kobieta",
+    "targetSpan": {
+      "start": 0,
+      "end": 7
+    },
+    "acceptedAnswers": [
+      "kobieta"
+    ],
+    "whyCase": "The woman is the subject of the verb czyta.",
+    "whyForm": "Kobieta is feminine nominative singular; its -a ending stays unchanged.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The woman is the subject of the verb czyta. Kobieta is feminine nominative singular; its -a ending stays unchanged.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "nominative-03",
+    "case": "nominative",
+    "polish": "Dziecko je.",
+    "english": "The child is eating.",
+    "lemma": "dziecko",
+    "target": "dziecko",
+    "targetSpan": {
+      "start": 0,
+      "end": 7
+    },
+    "acceptedAnswers": [
+      "dziecko"
+    ],
+    "whyCase": "The child performs the action; it is the subject.",
+    "whyForm": "Dziecko is neuter nominative singular, ending in -o.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The child performs the action; it is the subject. Dziecko is neuter nominative singular, ending in -o.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "nominative-04",
+    "case": "nominative",
+    "polish": "Dom jest duży.",
+    "english": "The house is big.",
+    "lemma": "dom",
+    "target": "dom",
+    "targetSpan": {
+      "start": 0,
+      "end": 3
+    },
+    "acceptedAnswers": [
+      "dom"
+    ],
+    "whyCase": "The house is the thing described; it is the subject.",
+    "whyForm": "Dom is masculine inanimate nominative singular; no ending is added.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The house is the thing described; it is the subject. Dom is masculine inanimate nominative singular; no ending is added.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "nominative-05",
+    "case": "nominative",
+    "polish": "Książka leży na stole.",
+    "english": "The book is lying on the table.",
+    "lemma": "książka",
+    "target": "książka",
+    "targetSpan": {
+      "start": 0,
+      "end": 7
+    },
+    "acceptedAnswers": [
+      "książka"
+    ],
+    "whyCase": "The book is the subject; na stole is a separate locative phrase.",
+    "whyForm": "Książka is feminine nominative singular; its -a ending stays unchanged.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The book is the subject; na stole is a separate locative phrase. Książka is feminine nominative singular; its -a ending stays unchanged.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "nominative-06",
+    "case": "nominative",
+    "polish": "Pies szczeka.",
+    "english": "The dog is barking.",
+    "lemma": "pies",
+    "target": "pies",
+    "targetSpan": {
+      "start": 0,
+      "end": 4
+    },
+    "acceptedAnswers": [
+      "pies"
+    ],
+    "whyCase": "The dog performs the action; it is the subject.",
+    "whyForm": "Pies is masculine nominative singular; its stem changes in other cases.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The dog performs the action; it is the subject. Pies is masculine nominative singular; its stem changes in other cases.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "genitive-01",
+    "case": "genitive",
+    "polish": "Nie mam kota.",
+    "english": "I don't have a cat.",
+    "lemma": "kot",
+    "target": "kota",
+    "targetSpan": {
+      "start": 8,
+      "end": 12
+    },
+    "acceptedAnswers": [
+      "kota"
+    ],
+    "whyCase": "Nie mam takes a genitive object; kot becomes kota.",
+    "whyForm": "Kot is masculine animate; its genitive singular form is kota, with -a.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Nie mam takes a genitive object; kot becomes kota. Kot is masculine animate; its genitive singular form is kota, with -a.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "genitive-02",
+    "case": "genitive",
+    "polish": "Idę do domu.",
+    "english": "I'm going home.",
+    "lemma": "dom",
+    "target": "domu",
+    "targetSpan": {
+      "start": 7,
+      "end": 11
+    },
+    "acceptedAnswers": [
+      "domu"
+    ],
+    "whyCase": "The preposition do governs genitive; dom becomes domu.",
+    "whyForm": "Dom has genitive singular domu; masculine nouns do not all take the same genitive ending.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The preposition do governs genitive; dom becomes domu. Dom has genitive singular domu; masculine nouns do not all take the same genitive ending.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "genitive-03",
+    "case": "genitive",
+    "polish": "Nie ma wody.",
+    "english": "There is no water.",
+    "lemma": "woda",
+    "target": "wody",
+    "targetSpan": {
+      "start": 7,
+      "end": 11
+    },
+    "acceptedAnswers": [
+      "wody"
+    ],
+    "whyCase": "The absence expression nie ma requires genitive.",
+    "whyForm": "Woda is feminine; genitive singular changes -a to -y: wody.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The absence expression nie ma requires genitive. Woda is feminine; genitive singular changes -a to -y: wody.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "genitive-04",
+    "case": "genitive",
+    "polish": "Szukam książki.",
+    "english": "I'm looking for a book.",
+    "lemma": "książka",
+    "target": "książki",
+    "targetSpan": {
+      "start": 7,
+      "end": 14
+    },
+    "acceptedAnswers": [
+      "książki"
+    ],
+    "whyCase": "Szukać governs genitive, unlike English 'look for'.",
+    "whyForm": "Książka has genitive singular książki; the -ka ending changes to -ki.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Szukać governs genitive, unlike English 'look for'. Książka has genitive singular książki; the -ka ending changes to -ki.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "genitive-05",
+    "case": "genitive",
+    "polish": "Wracam ze szkoły.",
+    "english": "I'm returning from school.",
+    "lemma": "szkoła",
+    "target": "szkoły",
+    "targetSpan": {
+      "start": 10,
+      "end": 16
+    },
+    "acceptedAnswers": [
+      "szkoły"
+    ],
+    "whyCase": "Z/ze meaning 'from' governs genitive.",
+    "whyForm": "Szkoła is feminine; genitive singular changes -a to -y: szkoły.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Z/ze meaning 'from' governs genitive. Szkoła is feminine; genitive singular changes -a to -y: szkoły.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "genitive-06",
+    "case": "genitive",
+    "polish": "Potrzebuję czasu.",
+    "english": "I need time.",
+    "lemma": "czas",
+    "target": "czasu",
+    "targetSpan": {
+      "start": 11,
+      "end": 16
+    },
+    "acceptedAnswers": [
+      "czasu"
+    ],
+    "whyCase": "Potrzebować governs genitive.",
+    "whyForm": "Czas has genitive singular czasu, ending in -u.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Potrzebować governs genitive. Czas has genitive singular czasu, ending in -u.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "dative-01",
+    "case": "dative",
+    "polish": "Daję kotu wodę.",
+    "english": "I give the cat water.",
+    "lemma": "kot",
+    "target": "kotu",
+    "targetSpan": {
+      "start": 5,
+      "end": 9
+    },
+    "acceptedAnswers": [
+      "kotu"
+    ],
+    "whyCase": "The cat receives the water, so dative is used.",
+    "whyForm": "Kot takes dative singular kotu, ending in -u.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The cat receives the water, so dative is used. Kot takes dative singular kotu, ending in -u.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "dative-02",
+    "case": "dative",
+    "polish": "Pomagam kobiecie.",
+    "english": "I'm helping a woman.",
+    "lemma": "kobieta",
+    "target": "kobiecie",
+    "targetSpan": {
+      "start": 8,
+      "end": 16
+    },
+    "acceptedAnswers": [
+      "kobiecie"
+    ],
+    "whyCase": "Pomagać requires dative, regardless of the English structure.",
+    "whyForm": "Kobieta takes dative singular kobiecie; the stem consonant changes as -a becomes -ie.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Pomagać requires dative, regardless of the English structure. Kobieta takes dative singular kobiecie; the stem consonant changes as -a becomes -ie.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "dative-03",
+    "case": "dative",
+    "polish": "Daję dziecku książkę.",
+    "english": "I give a child a book.",
+    "lemma": "dziecko",
+    "target": "dziecku",
+    "targetSpan": {
+      "start": 5,
+      "end": 12
+    },
+    "acceptedAnswers": [
+      "dziecku"
+    ],
+    "whyCase": "The child is the recipient, so dative is used.",
+    "whyForm": "Dziecko takes dative singular dziecku, replacing final -o with -u.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The child is the recipient, so dative is used. Dziecko takes dative singular dziecku, replacing final -o with -u.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "dative-04",
+    "case": "dative",
+    "polish": "Dziękuję mamie.",
+    "english": "I'm thanking Mum.",
+    "lemma": "mama",
+    "target": "mamie",
+    "targetSpan": {
+      "start": 9,
+      "end": 14
+    },
+    "acceptedAnswers": [
+      "mamie"
+    ],
+    "whyCase": "Dziękować governs dative.",
+    "whyForm": "Mama takes dative singular mamie, replacing -a with -ie.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Dziękować governs dative. Mama takes dative singular mamie, replacing -a with -ie.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "dative-05",
+    "case": "dative",
+    "polish": "Przyglądam się psu.",
+    "english": "I'm looking closely at a dog.",
+    "lemma": "pies",
+    "target": "psu",
+    "targetSpan": {
+      "start": 15,
+      "end": 18
+    },
+    "acceptedAnswers": [
+      "psu"
+    ],
+    "whyCase": "Przyglądać się governs dative.",
+    "whyForm": "Pies has irregular dative singular psu, with the stem vowel removed.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Przyglądać się governs dative. Pies has irregular dative singular psu, with the stem vowel removed.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "dative-06",
+    "case": "dative",
+    "polish": "Ufam przyjacielowi.",
+    "english": "I trust a friend.",
+    "lemma": "przyjaciel",
+    "target": "przyjacielowi",
+    "targetSpan": {
+      "start": 5,
+      "end": 18
+    },
+    "acceptedAnswers": [
+      "przyjacielowi"
+    ],
+    "whyCase": "Ufać governs dative.",
+    "whyForm": "Przyjaciel takes dative singular przyjacielowi, with -owi.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Ufać governs dative. Przyjaciel takes dative singular przyjacielowi, with -owi.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "accusative-01",
+    "case": "accusative",
+    "polish": "Widzę kota.",
+    "english": "I see a cat.",
+    "lemma": "kot",
+    "target": "kota",
+    "targetSpan": {
+      "start": 6,
+      "end": 10
+    },
+    "acceptedAnswers": [
+      "kota"
+    ],
+    "whyCase": "The cat is the direct object; masculine animate accusative is kota.",
+    "whyForm": "Kot is masculine animate; accusative singular equals genitive singular: kota.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The cat is the direct object; masculine animate accusative is kota. Kot is masculine animate; accusative singular equals genitive singular: kota.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "accusative-02",
+    "case": "accusative",
+    "polish": "Czytam książkę.",
+    "english": "I'm reading a book.",
+    "lemma": "książka",
+    "target": "książkę",
+    "targetSpan": {
+      "start": 7,
+      "end": 14
+    },
+    "acceptedAnswers": [
+      "książkę"
+    ],
+    "whyCase": "The book is the direct object; feminine -a changes to -ę.",
+    "whyForm": "Książka is feminine ending in -a; accusative singular is książkę.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The book is the direct object; feminine -a changes to -ę. Książka is feminine ending in -a; accusative singular is książkę.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "accusative-03",
+    "case": "accusative",
+    "polish": "Piję wodę.",
+    "english": "I'm drinking water.",
+    "lemma": "woda",
+    "target": "wodę",
+    "targetSpan": {
+      "start": 5,
+      "end": 9
+    },
+    "acceptedAnswers": [
+      "wodę"
+    ],
+    "whyCase": "Water is the direct object; feminine -a changes to -ę.",
+    "whyForm": "Woda is feminine ending in -a; accusative singular is wodę.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Water is the direct object; feminine -a changes to -ę. Woda is feminine ending in -a; accusative singular is wodę.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "accusative-04",
+    "case": "accusative",
+    "polish": "Mam dom.",
+    "english": "I have a house.",
+    "lemma": "dom",
+    "target": "dom",
+    "targetSpan": {
+      "start": 4,
+      "end": 7
+    },
+    "acceptedAnswers": [
+      "dom"
+    ],
+    "whyCase": "The house is the direct object; masculine inanimate accusative equals nominative.",
+    "whyForm": "Dom is masculine inanimate; accusative singular equals nominative: dom.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The house is the direct object; masculine inanimate accusative equals nominative. Dom is masculine inanimate; accusative singular equals nominative: dom.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "accusative-05",
+    "case": "accusative",
+    "polish": "Widzę dziecko.",
+    "english": "I see a child.",
+    "lemma": "dziecko",
+    "target": "dziecko",
+    "targetSpan": {
+      "start": 6,
+      "end": 13
+    },
+    "acceptedAnswers": [
+      "dziecko"
+    ],
+    "whyCase": "The child is the direct object; neuter accusative equals nominative.",
+    "whyForm": "Dziecko is neuter; accusative singular equals nominative: dziecko.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The child is the direct object; neuter accusative equals nominative. Dziecko is neuter; accusative singular equals nominative: dziecko.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "accusative-06",
+    "case": "accusative",
+    "polish": "Znam kobietę.",
+    "english": "I know a woman.",
+    "lemma": "kobieta",
+    "target": "kobietę",
+    "targetSpan": {
+      "start": 5,
+      "end": 12
+    },
+    "acceptedAnswers": [
+      "kobietę"
+    ],
+    "whyCase": "The woman is the direct object; feminine accusative singular is kobietę.",
+    "whyForm": "Kobieta is feminine ending in -a; accusative singular is kobietę.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The woman is the direct object; feminine accusative singular is kobietę. Kobieta is feminine ending in -a; accusative singular is kobietę.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "instrumental-01",
+    "case": "instrumental",
+    "polish": "Idę z kotem.",
+    "english": "I'm walking with a cat.",
+    "lemma": "kot",
+    "target": "kotem",
+    "targetSpan": {
+      "start": 6,
+      "end": 11
+    },
+    "acceptedAnswers": [
+      "kotem"
+    ],
+    "whyCase": "Z meaning 'with' governs instrumental.",
+    "whyForm": "Kot takes instrumental singular kotem, ending in -em.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Z meaning 'with' governs instrumental. Kot takes instrumental singular kotem, ending in -em.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "instrumental-02",
+    "case": "instrumental",
+    "polish": "Piszę długopisem.",
+    "english": "I'm writing with a pen.",
+    "lemma": "długopis",
+    "target": "długopisem",
+    "targetSpan": {
+      "start": 6,
+      "end": 16
+    },
+    "acceptedAnswers": [
+      "długopisem"
+    ],
+    "whyCase": "The pen is the instrument used to write.",
+    "whyForm": "Długopis takes instrumental singular długopisem, ending in -em.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The pen is the instrument used to write. Długopis takes instrumental singular długopisem, ending in -em.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "instrumental-03",
+    "case": "instrumental",
+    "polish": "Jestem nauczycielem.",
+    "english": "I'm a teacher.",
+    "lemma": "nauczyciel",
+    "target": "nauczycielem",
+    "targetSpan": {
+      "start": 7,
+      "end": 19
+    },
+    "acceptedAnswers": [
+      "nauczycielem"
+    ],
+    "whyCase": "A profession noun after jestem takes instrumental.",
+    "whyForm": "Nauczyciel takes instrumental singular nauczycielem, ending in -em.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "A profession noun after jestem takes instrumental. Nauczyciel takes instrumental singular nauczycielem, ending in -em.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "instrumental-04",
+    "case": "instrumental",
+    "polish": "Idę z kobietą.",
+    "english": "I'm walking with a woman.",
+    "lemma": "kobieta",
+    "target": "kobietą",
+    "targetSpan": {
+      "start": 6,
+      "end": 13
+    },
+    "acceptedAnswers": [
+      "kobietą"
+    ],
+    "whyCase": "Z meaning 'with' governs instrumental.",
+    "whyForm": "Kobieta is feminine; instrumental singular replaces -a with -ą: kobietą.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Z meaning 'with' governs instrumental. Kobieta is feminine; instrumental singular replaces -a with -ą: kobietą.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "instrumental-05",
+    "case": "instrumental",
+    "polish": "Bawię się z dzieckiem.",
+    "english": "I'm playing with a child.",
+    "lemma": "dziecko",
+    "target": "dzieckiem",
+    "targetSpan": {
+      "start": 12,
+      "end": 21
+    },
+    "acceptedAnswers": [
+      "dzieckiem"
+    ],
+    "whyCase": "Z meaning 'with' governs instrumental.",
+    "whyForm": "Dziecko is neuter; instrumental singular is dzieckiem, ending in -iem.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Z meaning 'with' governs instrumental. Dziecko is neuter; instrumental singular is dzieckiem, ending in -iem.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "instrumental-06",
+    "case": "instrumental",
+    "polish": "Jadę samochodem.",
+    "english": "I'm travelling by car.",
+    "lemma": "samochód",
+    "target": "samochodem",
+    "targetSpan": {
+      "start": 5,
+      "end": 15
+    },
+    "acceptedAnswers": [
+      "samochodem"
+    ],
+    "whyCase": "The car is the means of transport, expressed in instrumental.",
+    "whyForm": "Samochód has instrumental singular samochodem; its stem vowel changes from ó to o.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The car is the means of transport, expressed in instrumental. Samochód has instrumental singular samochodem; its stem vowel changes from ó to o.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "locative-01",
+    "case": "locative",
+    "polish": "Myślę o kocie.",
+    "english": "I'm thinking about a cat.",
+    "lemma": "kot",
+    "target": "kocie",
+    "targetSpan": {
+      "start": 8,
+      "end": 13
+    },
+    "acceptedAnswers": [
+      "kocie"
+    ],
+    "whyCase": "O meaning 'about' governs locative.",
+    "whyForm": "Kot has locative singular kocie, with a consonant change from t to c.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "O meaning 'about' governs locative. Kot has locative singular kocie, with a consonant change from t to c.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "locative-02",
+    "case": "locative",
+    "polish": "Mieszkam w domu.",
+    "english": "I live in a house.",
+    "lemma": "dom",
+    "target": "domu",
+    "targetSpan": {
+      "start": 11,
+      "end": 15
+    },
+    "acceptedAnswers": [
+      "domu"
+    ],
+    "whyCase": "W for static location governs locative.",
+    "whyForm": "Dom has locative singular domu, ending in -u.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "W for static location governs locative. Dom has locative singular domu, ending in -u.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "locative-03",
+    "case": "locative",
+    "polish": "Rozmawiam o książce.",
+    "english": "I'm talking about a book.",
+    "lemma": "książka",
+    "target": "książce",
+    "targetSpan": {
+      "start": 12,
+      "end": 19
+    },
+    "acceptedAnswers": [
+      "książce"
+    ],
+    "whyCase": "O meaning 'about' governs locative.",
+    "whyForm": "Książka has locative singular książce, with k changing to c.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "O meaning 'about' governs locative. Książka has locative singular książce, with k changing to c.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "locative-04",
+    "case": "locative",
+    "polish": "Jestem w szkole.",
+    "english": "I'm at school.",
+    "lemma": "szkoła",
+    "target": "szkole",
+    "targetSpan": {
+      "start": 9,
+      "end": 15
+    },
+    "acceptedAnswers": [
+      "szkole"
+    ],
+    "whyCase": "W for static location governs locative.",
+    "whyForm": "Szkoła has locative singular szkole, replacing -a with -e.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "W for static location governs locative. Szkoła has locative singular szkole, replacing -a with -e.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "locative-05",
+    "case": "locative",
+    "polish": "Mówię o dziecku.",
+    "english": "I'm talking about a child.",
+    "lemma": "dziecko",
+    "target": "dziecku",
+    "targetSpan": {
+      "start": 8,
+      "end": 15
+    },
+    "acceptedAnswers": [
+      "dziecku"
+    ],
+    "whyCase": "O meaning 'about' governs locative.",
+    "whyForm": "Dziecko has locative singular dziecku, ending in -u.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "O meaning 'about' governs locative. Dziecko has locative singular dziecku, ending in -u.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "locative-06",
+    "case": "locative",
+    "polish": "Siedzę na krześle.",
+    "english": "I'm sitting on a chair.",
+    "lemma": "krzesło",
+    "target": "krześle",
+    "targetSpan": {
+      "start": 10,
+      "end": 17
+    },
+    "acceptedAnswers": [
+      "krześle"
+    ],
+    "whyCase": "Na for static location governs locative.",
+    "whyForm": "Krzesło has locative singular krześle, with a consonant change in the stem.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Na for static location governs locative. Krzesło has locative singular krześle, with a consonant change in the stem.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "vocative-01",
+    "case": "vocative",
+    "polish": "Kocie, chodź tutaj!",
+    "english": "Cat, come here!",
+    "lemma": "kot",
+    "target": "kocie",
+    "targetSpan": {
+      "start": 0,
+      "end": 5
+    },
+    "acceptedAnswers": [
+      "kocie"
+    ],
+    "whyCase": "The cat is addressed directly.",
+    "whyForm": "Kot has vocative singular kocie, with a consonant change from t to c.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The cat is addressed directly. Kot has vocative singular kocie, with a consonant change from t to c.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "vocative-02",
+    "case": "vocative",
+    "polish": "Mamo, pomóż mi!",
+    "english": "Mum, help me!",
+    "lemma": "mama",
+    "target": "mamo",
+    "targetSpan": {
+      "start": 0,
+      "end": 4
+    },
+    "acceptedAnswers": [
+      "mamo"
+    ],
+    "whyCase": "Mum is addressed directly.",
+    "whyForm": "Mama has vocative singular mamo, replacing -a with -o.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Mum is addressed directly. Mama has vocative singular mamo, replacing -a with -o.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "vocative-03",
+    "case": "vocative",
+    "polish": "Tato, chodź!",
+    "english": "Dad, come!",
+    "lemma": "tata",
+    "target": "tato",
+    "targetSpan": {
+      "start": 0,
+      "end": 4
+    },
+    "acceptedAnswers": [
+      "tato"
+    ],
+    "whyCase": "Dad is addressed directly.",
+    "whyForm": "Tata has vocative singular tato, replacing -a with -o.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Dad is addressed directly. Tata has vocative singular tato, replacing -a with -o.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "vocative-04",
+    "case": "vocative",
+    "polish": "Anno, słuchaj!",
+    "english": "Anna, listen!",
+    "lemma": "Anna",
+    "target": "Anno",
+    "targetSpan": {
+      "start": 0,
+      "end": 4
+    },
+    "acceptedAnswers": [
+      "Anno"
+    ],
+    "whyCase": "Anna is addressed directly.",
+    "whyForm": "Anna has vocative singular Anno, replacing -a with -o.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Anna is addressed directly. Anna has vocative singular Anno, replacing -a with -o.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "vocative-05",
+    "case": "vocative",
+    "polish": "Przyjacielu, dziękuję!",
+    "english": "My friend, thank you!",
+    "lemma": "przyjaciel",
+    "target": "przyjacielu",
+    "targetSpan": {
+      "start": 0,
+      "end": 11
+    },
+    "acceptedAnswers": [
+      "przyjacielu"
+    ],
+    "whyCase": "The friend is addressed directly.",
+    "whyForm": "Przyjaciel has vocative singular przyjacielu, ending in -u.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The friend is addressed directly. Przyjaciel has vocative singular przyjacielu, ending in -u.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "vocative-06",
+    "case": "vocative",
+    "polish": "Panie, proszę poczekać!",
+    "english": "Sir, please wait!",
+    "lemma": "pan",
+    "target": "panie",
+    "targetSpan": {
+      "start": 0,
+      "end": 5
+    },
+    "acceptedAnswers": [
+      "panie"
+    ],
+    "whyCase": "Pan is addressed directly.",
+    "whyForm": "Pan has vocative singular panie, ending in -ie.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Pan is addressed directly. Pan has vocative singular panie, ending in -ie.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "nominative-07",
+    "case": "nominative",
+    "polish": "Student pisze list.",
+    "english": "The student is writing a letter.",
+    "lemma": "student",
+    "target": "student",
+    "targetSpan": {
+      "start": 0,
+      "end": 7
+    },
+    "acceptedAnswers": [
+      "student"
+    ],
+    "whyCase": "Student is the subject doing the writing.",
+    "whyForm": "Student is masculine nominative singular, the dictionary form.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Student is the subject doing the writing. Student is masculine nominative singular, the dictionary form.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "nominative-08",
+    "case": "nominative",
+    "polish": "Mama gotuje obiad.",
+    "english": "Mum is cooking dinner.",
+    "lemma": "mama",
+    "target": "mama",
+    "targetSpan": {
+      "start": 0,
+      "end": 4
+    },
+    "acceptedAnswers": [
+      "mama"
+    ],
+    "whyCase": "Mama performs the action, so it is nominative.",
+    "whyForm": "Mama is feminine nominative singular; the final -a is retained.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Mama performs the action, so it is nominative. Mama is feminine nominative singular; the final -a is retained.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "nominative-09",
+    "case": "nominative",
+    "polish": "Pociąg przyjeżdża.",
+    "english": "The train is arriving.",
+    "lemma": "pociąg",
+    "target": "pociąg",
+    "targetSpan": {
+      "start": 0,
+      "end": 6
+    },
+    "acceptedAnswers": [
+      "pociąg"
+    ],
+    "whyCase": "The train is the subject of przyjeżdża.",
+    "whyForm": "Pociąg is masculine nominative singular, the dictionary form.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The train is the subject of przyjeżdża. Pociąg is masculine nominative singular, the dictionary form.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "nominative-10",
+    "case": "nominative",
+    "polish": "Dzieci biegają.",
+    "english": "The children are running.",
+    "lemma": "dziecko",
+    "target": "dzieci",
+    "targetSpan": {
+      "start": 0,
+      "end": 6
+    },
+    "acceptedAnswers": [
+      "dzieci"
+    ],
+    "whyCase": "Dzieci is the plural nominative subject.",
+    "whyForm": "Dzieci is the irregular nominative plural of dziecko; it is not formed by adding a regular plural ending.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Dzieci is the plural nominative subject. Dzieci is the irregular nominative plural of dziecko; it is not formed by adding a regular plural ending.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "nominative-11",
+    "case": "nominative",
+    "polish": "To jest moja siostra.",
+    "english": "This is my sister.",
+    "lemma": "siostra",
+    "target": "siostra",
+    "targetSpan": {
+      "start": 13,
+      "end": 20
+    },
+    "acceptedAnswers": [
+      "siostra"
+    ],
+    "whyCase": "Siostra names the person being identified in the nominative.",
+    "whyForm": "Siostra is feminine nominative singular, the dictionary form.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Siostra names the person being identified in the nominative. Siostra is feminine nominative singular, the dictionary form.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "nominative-12",
+    "case": "nominative",
+    "polish": "Nowe książki są drogie.",
+    "english": "New books are expensive.",
+    "lemma": "książka",
+    "target": "książki",
+    "targetSpan": {
+      "start": 5,
+      "end": 12
+    },
+    "acceptedAnswers": [
+      "książki"
+    ],
+    "whyCase": "Książki is the plural nominative subject being described.",
+    "whyForm": "Książki is the nominative plural of książka; the singular -a changes to -i here.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Książki is the plural nominative subject being described. Książki is the nominative plural of książka; the singular -a changes to -i here.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "genitive-07",
+    "case": "genitive",
+    "polish": "Nie piję kawy.",
+    "english": "I'm not drinking coffee.",
+    "lemma": "kawa",
+    "target": "kawy",
+    "targetSpan": {
+      "start": 9,
+      "end": 13
+    },
+    "acceptedAnswers": [
+      "kawy"
+    ],
+    "whyCase": "Negation of the transitive verb pić normally changes its direct object to genitive.",
+    "whyForm": "Kawa is feminine; genitive singular changes -a to -y: kawy.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Negation of the transitive verb pić normally changes its direct object to genitive. Kawa is feminine; genitive singular changes -a to -y: kawy.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "genitive-08",
+    "case": "genitive",
+    "polish": "Bez cukru, proszę.",
+    "english": "Without sugar, please.",
+    "lemma": "cukier",
+    "target": "cukru",
+    "targetSpan": {
+      "start": 4,
+      "end": 9
+    },
+    "acceptedAnswers": [
+      "cukru"
+    ],
+    "whyCase": "Bez always governs genitive.",
+    "whyForm": "Cukier has genitive singular cukru, with a stem change and -u.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Bez always governs genitive. Cukier has genitive singular cukru, with a stem change and -u.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "genitive-09",
+    "case": "genitive",
+    "polish": "To jest samochód mojego brata.",
+    "english": "This is my brother's car.",
+    "lemma": "brat",
+    "target": "brata",
+    "targetSpan": {
+      "start": 24,
+      "end": 29
+    },
+    "acceptedAnswers": [
+      "brata"
+    ],
+    "whyCase": "The brother is the possessor, expressed in genitive.",
+    "whyForm": "Brat is masculine animate; genitive singular is brata.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The brother is the possessor, expressed in genitive. Brat is masculine animate; genitive singular is brata.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "genitive-10",
+    "case": "genitive",
+    "polish": "Mam dużo pracy.",
+    "english": "I have a lot of work.",
+    "lemma": "praca",
+    "target": "pracy",
+    "targetSpan": {
+      "start": 9,
+      "end": 14
+    },
+    "acceptedAnswers": [
+      "pracy"
+    ],
+    "whyCase": "Dużo governs genitive for the quantity being described.",
+    "whyForm": "Praca has genitive singular pracy; the -ca ending changes to -cy.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Dużo governs genitive for the quantity being described. Praca has genitive singular pracy; the -ca ending changes to -cy.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "genitive-11",
+    "case": "genitive",
+    "polish": "Nie widzę psa.",
+    "english": "I don't see a dog.",
+    "lemma": "pies",
+    "target": "psa",
+    "targetSpan": {
+      "start": 10,
+      "end": 13
+    },
+    "acceptedAnswers": [
+      "psa"
+    ],
+    "whyCase": "Negated widzieć takes a genitive object.",
+    "whyForm": "Pies has irregular genitive singular psa, losing the vowel -ie-.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Negated widzieć takes a genitive object. Pies has irregular genitive singular psa, losing the vowel -ie-.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "genitive-12",
+    "case": "genitive",
+    "polish": "To prezent dla mamy.",
+    "english": "It's a present for Mum.",
+    "lemma": "mama",
+    "target": "mamy",
+    "targetSpan": {
+      "start": 15,
+      "end": 19
+    },
+    "acceptedAnswers": [
+      "mamy"
+    ],
+    "whyCase": "Dla governs genitive.",
+    "whyForm": "Mama has genitive singular mamy, replacing -a with -y.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Dla governs genitive. Mama has genitive singular mamy, replacing -a with -y.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "dative-07",
+    "case": "dative",
+    "polish": "Daję bratu telefon.",
+    "english": "I'm giving my brother a phone.",
+    "lemma": "brat",
+    "target": "bratu",
+    "targetSpan": {
+      "start": 5,
+      "end": 10
+    },
+    "acceptedAnswers": [
+      "bratu"
+    ],
+    "whyCase": "The brother receives the phone; he is the dative recipient.",
+    "whyForm": "Brat has dative singular bratu; the ending is -u.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The brother receives the phone; he is the dative recipient. Brat has dative singular bratu; the ending is -u.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "dative-08",
+    "case": "dative",
+    "polish": "Pomagam siostrze.",
+    "english": "I'm helping my sister.",
+    "lemma": "siostra",
+    "target": "siostrze",
+    "targetSpan": {
+      "start": 8,
+      "end": 16
+    },
+    "acceptedAnswers": [
+      "siostrze"
+    ],
+    "whyCase": "Pomagać governs dative.",
+    "whyForm": "Siostra takes dative singular siostrze; the consonant changes before -e.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Pomagać governs dative. Siostra takes dative singular siostrze; the consonant changes before -e.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "dative-09",
+    "case": "dative",
+    "polish": "Dziecku jest zimno.",
+    "english": "The child is cold.",
+    "lemma": "dziecko",
+    "target": "dziecku",
+    "targetSpan": {
+      "start": 0,
+      "end": 7
+    },
+    "acceptedAnswers": [
+      "dziecku"
+    ],
+    "whyCase": "The person experiencing the cold is expressed in dative.",
+    "whyForm": "Dziecko takes dative singular dziecku; neuter -o changes to -u.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The person experiencing the cold is expressed in dative. Dziecko takes dative singular dziecku; neuter -o changes to -u.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "dative-10",
+    "case": "dative",
+    "polish": "Wysyłam mamie wiadomość.",
+    "english": "I'm sending Mum a message.",
+    "lemma": "mama",
+    "target": "mamie",
+    "targetSpan": {
+      "start": 8,
+      "end": 13
+    },
+    "acceptedAnswers": [
+      "mamie"
+    ],
+    "whyCase": "Mum receives the message, so dative is used.",
+    "whyForm": "Mama takes dative singular mamie, with -ie.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Mum receives the message, so dative is used. Mama takes dative singular mamie, with -ie.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "dative-11",
+    "case": "dative",
+    "polish": "Dziękuję nauczycielowi.",
+    "english": "I'm thanking the teacher.",
+    "lemma": "nauczyciel",
+    "target": "nauczycielowi",
+    "targetSpan": {
+      "start": 9,
+      "end": 22
+    },
+    "acceptedAnswers": [
+      "nauczycielowi"
+    ],
+    "whyCase": "Dziękować governs dative.",
+    "whyForm": "Nauczyciel takes dative singular nauczycielowi, with -owi.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Dziękować governs dative. Nauczyciel takes dative singular nauczycielowi, with -owi.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "dative-12",
+    "case": "dative",
+    "polish": "Podaję koledze wodę.",
+    "english": "I'm handing my colleague water.",
+    "lemma": "kolega",
+    "target": "koledze",
+    "targetSpan": {
+      "start": 7,
+      "end": 14
+    },
+    "acceptedAnswers": [
+      "koledze"
+    ],
+    "whyCase": "The colleague is the recipient of the water.",
+    "whyForm": "Kolega takes dative singular koledze, with a stem consonant change.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The colleague is the recipient of the water. Kolega takes dative singular koledze, with a stem consonant change.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "accusative-07",
+    "case": "accusative",
+    "polish": "Kupuję chleb.",
+    "english": "I'm buying bread.",
+    "lemma": "chleb",
+    "target": "chleb",
+    "targetSpan": {
+      "start": 7,
+      "end": 12
+    },
+    "acceptedAnswers": [
+      "chleb"
+    ],
+    "whyCase": "Bread is the direct object; masculine inanimate accusative equals nominative.",
+    "whyForm": "Chleb is masculine inanimate; accusative singular is unchanged: chleb.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Bread is the direct object; masculine inanimate accusative equals nominative. Chleb is masculine inanimate; accusative singular is unchanged: chleb.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "accusative-08",
+    "case": "accusative",
+    "polish": "Oglądam film.",
+    "english": "I'm watching a film.",
+    "lemma": "film",
+    "target": "film",
+    "targetSpan": {
+      "start": 8,
+      "end": 12
+    },
+    "acceptedAnswers": [
+      "film"
+    ],
+    "whyCase": "Film is the direct object; masculine inanimate accusative equals nominative.",
+    "whyForm": "Film is masculine inanimate; accusative singular is unchanged: film.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Film is the direct object; masculine inanimate accusative equals nominative. Film is masculine inanimate; accusative singular is unchanged: film.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "accusative-09",
+    "case": "accusative",
+    "polish": "Widzę psy.",
+    "english": "I see dogs.",
+    "lemma": "pies",
+    "target": "psy",
+    "targetSpan": {
+      "start": 6,
+      "end": 9
+    },
+    "acceptedAnswers": [
+      "psy"
+    ],
+    "whyCase": "Dogs are the direct object; non-masculine-personal plural accusative equals nominative.",
+    "whyForm": "Psy is the non-masculine-personal plural accusative of pies; it matches nominative plural.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Dogs are the direct object; non-masculine-personal plural accusative equals nominative. Psy is the non-masculine-personal plural accusative of pies; it matches nominative plural.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "accusative-10",
+    "case": "accusative",
+    "polish": "Czytam gazetę.",
+    "english": "I'm reading a newspaper.",
+    "lemma": "gazeta",
+    "target": "gazetę",
+    "targetSpan": {
+      "start": 7,
+      "end": 13
+    },
+    "acceptedAnswers": [
+      "gazetę"
+    ],
+    "whyCase": "The newspaper is the direct object; feminine singular -a becomes -ę.",
+    "whyForm": "Gazeta is feminine; accusative singular replaces -a with -ę: gazetę.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The newspaper is the direct object; feminine singular -a becomes -ę. Gazeta is feminine; accusative singular replaces -a with -ę: gazetę.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "accusative-11",
+    "case": "accusative",
+    "polish": "Znam tego człowieka.",
+    "english": "I know that person.",
+    "lemma": "człowiek",
+    "target": "człowieka",
+    "targetSpan": {
+      "start": 10,
+      "end": 19
+    },
+    "acceptedAnswers": [
+      "człowieka"
+    ],
+    "whyCase": "The person is the direct object; masculine animate accusative equals genitive.",
+    "whyForm": "Człowiek is masculine animate; accusative singular equals genitive: człowieka.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The person is the direct object; masculine animate accusative equals genitive. Człowiek is masculine animate; accusative singular equals genitive: człowieka.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "accusative-12",
+    "case": "accusative",
+    "polish": "Mam nową pracę.",
+    "english": "I have a new job.",
+    "lemma": "praca",
+    "target": "pracę",
+    "targetSpan": {
+      "start": 9,
+      "end": 14
+    },
+    "acceptedAnswers": [
+      "pracę"
+    ],
+    "whyCase": "The job is the direct object; feminine singular accusative is pracę.",
+    "whyForm": "Praca is feminine; accusative singular replaces -a with -ę: pracę.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The job is the direct object; feminine singular accusative is pracę. Praca is feminine; accusative singular replaces -a with -ę: pracę.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "instrumental-07",
+    "case": "instrumental",
+    "polish": "Jem zupę łyżką.",
+    "english": "I'm eating soup with a spoon.",
+    "lemma": "łyżka",
+    "target": "łyżką",
+    "targetSpan": {
+      "start": 9,
+      "end": 14
+    },
+    "acceptedAnswers": [
+      "łyżką"
+    ],
+    "whyCase": "The spoon is the instrument used to eat.",
+    "whyForm": "Łyżka is feminine; instrumental singular replaces -a with -ą: łyżką.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The spoon is the instrument used to eat. Łyżka is feminine; instrumental singular replaces -a with -ą: łyżką.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "instrumental-08",
+    "case": "instrumental",
+    "polish": "Rozmawiam z bratem.",
+    "english": "I'm talking with my brother.",
+    "lemma": "brat",
+    "target": "bratem",
+    "targetSpan": {
+      "start": 12,
+      "end": 18
+    },
+    "acceptedAnswers": [
+      "bratem"
+    ],
+    "whyCase": "Z meaning 'with' governs instrumental.",
+    "whyForm": "Brat takes instrumental singular bratem, ending in -em.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Z meaning 'with' governs instrumental. Brat takes instrumental singular bratem, ending in -em.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "instrumental-09",
+    "case": "instrumental",
+    "polish": "Jestem studentem.",
+    "english": "I'm a student.",
+    "lemma": "student",
+    "target": "studentem",
+    "targetSpan": {
+      "start": 7,
+      "end": 16
+    },
+    "acceptedAnswers": [
+      "studentem"
+    ],
+    "whyCase": "A noun describing a role after jestem takes instrumental.",
+    "whyForm": "Student takes instrumental singular studentem, ending in -em.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "A noun describing a role after jestem takes instrumental. Student takes instrumental singular studentem, ending in -em.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "instrumental-10",
+    "case": "instrumental",
+    "polish": "Podróżuję pociągiem.",
+    "english": "I'm travelling by train.",
+    "lemma": "pociąg",
+    "target": "pociągiem",
+    "targetSpan": {
+      "start": 10,
+      "end": 19
+    },
+    "acceptedAnswers": [
+      "pociągiem"
+    ],
+    "whyCase": "The train is the means of travel, expressed in instrumental.",
+    "whyForm": "Pociąg takes instrumental singular pociągiem, ending in -iem.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The train is the means of travel, expressed in instrumental. Pociąg takes instrumental singular pociągiem, ending in -iem.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "instrumental-11",
+    "case": "instrumental",
+    "polish": "Spaceruję z psem.",
+    "english": "I'm walking with a dog.",
+    "lemma": "pies",
+    "target": "psem",
+    "targetSpan": {
+      "start": 12,
+      "end": 16
+    },
+    "acceptedAnswers": [
+      "psem"
+    ],
+    "whyCase": "Z meaning 'with' governs instrumental.",
+    "whyForm": "Pies has instrumental singular psem, with a stem vowel removed.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Z meaning 'with' governs instrumental. Pies has instrumental singular psem, with a stem vowel removed.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "instrumental-12",
+    "case": "instrumental",
+    "polish": "Interesuję się muzyką.",
+    "english": "I'm interested in music.",
+    "lemma": "muzyka",
+    "target": "muzyką",
+    "targetSpan": {
+      "start": 15,
+      "end": 21
+    },
+    "acceptedAnswers": [
+      "muzyką"
+    ],
+    "whyCase": "Interesować się governs instrumental.",
+    "whyForm": "Muzyka is feminine; instrumental singular replaces -a with -ą: muzyką.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Interesować się governs instrumental. Muzyka is feminine; instrumental singular replaces -a with -ą: muzyką.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "locative-07",
+    "case": "locative",
+    "polish": "Mieszkam w mieście.",
+    "english": "I live in a city.",
+    "lemma": "miasto",
+    "target": "mieście",
+    "targetSpan": {
+      "start": 11,
+      "end": 18
+    },
+    "acceptedAnswers": [
+      "mieście"
+    ],
+    "whyCase": "W indicating static location governs locative.",
+    "whyForm": "Miasto has locative singular mieście, with a stem alternation.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "W indicating static location governs locative. Miasto has locative singular mieście, with a stem alternation.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "locative-08",
+    "case": "locative",
+    "polish": "Książka leży na stole.",
+    "english": "The book is lying on the table.",
+    "lemma": "stół",
+    "target": "stole",
+    "targetSpan": {
+      "start": 16,
+      "end": 21
+    },
+    "acceptedAnswers": [
+      "stole"
+    ],
+    "whyCase": "Na describing a static location governs locative.",
+    "whyForm": "Stół has locative singular stole; the stem vowel changes from ó to o.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Na describing a static location governs locative. Stół has locative singular stole; the stem vowel changes from ó to o.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "locative-09",
+    "case": "locative",
+    "polish": "Mówimy o pracy.",
+    "english": "We're talking about work.",
+    "lemma": "praca",
+    "target": "pracy",
+    "targetSpan": {
+      "start": 9,
+      "end": 14
+    },
+    "acceptedAnswers": [
+      "pracy"
+    ],
+    "whyCase": "O meaning 'about' governs locative.",
+    "whyForm": "Praca has locative singular pracy, ending in -y.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "O meaning 'about' governs locative. Praca has locative singular pracy, ending in -y.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "locative-10",
+    "case": "locative",
+    "polish": "Spotkamy się w parku.",
+    "english": "We'll meet in the park.",
+    "lemma": "park",
+    "target": "parku",
+    "targetSpan": {
+      "start": 15,
+      "end": 20
+    },
+    "acceptedAnswers": [
+      "parku"
+    ],
+    "whyCase": "W indicating static location governs locative.",
+    "whyForm": "Park has locative singular parku, ending in -u.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "W indicating static location governs locative. Park has locative singular parku, ending in -u.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "locative-11",
+    "case": "locative",
+    "polish": "Myślę o mamie.",
+    "english": "I'm thinking about Mum.",
+    "lemma": "mama",
+    "target": "mamie",
+    "targetSpan": {
+      "start": 8,
+      "end": 13
+    },
+    "acceptedAnswers": [
+      "mamie"
+    ],
+    "whyCase": "O meaning 'about' governs locative.",
+    "whyForm": "Mama has locative singular mamie, ending in -ie.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "O meaning 'about' governs locative. Mama has locative singular mamie, ending in -ie.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "locative-12",
+    "case": "locative",
+    "polish": "Jestem na poczcie.",
+    "english": "I'm at the post office.",
+    "lemma": "poczta",
+    "target": "poczcie",
+    "targetSpan": {
+      "start": 10,
+      "end": 17
+    },
+    "acceptedAnswers": [
+      "poczcie"
+    ],
+    "whyCase": "Na in this location expression governs locative.",
+    "whyForm": "Poczta has locative singular poczcie, with a consonant change in the stem.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Na in this location expression governs locative. Poczta has locative singular poczcie, with a consonant change in the stem.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "vocative-07",
+    "case": "vocative",
+    "polish": "Kasiu, poczekaj!",
+    "english": "Kasia, wait!",
+    "lemma": "Kasia",
+    "target": "Kasiu",
+    "targetSpan": {
+      "start": 0,
+      "end": 5
+    },
+    "acceptedAnswers": [
+      "Kasiu"
+    ],
+    "whyCase": "Kasia is being addressed directly.",
+    "whyForm": "Kasia has vocative singular Kasiu, ending in -u.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Kasia is being addressed directly. Kasia has vocative singular Kasiu, ending in -u.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "vocative-08",
+    "case": "vocative",
+    "polish": "Piotrze, pomóż mi!",
+    "english": "Piotr, help me!",
+    "lemma": "Piotr",
+    "target": "Piotrze",
+    "targetSpan": {
+      "start": 0,
+      "end": 7
+    },
+    "acceptedAnswers": [
+      "Piotrze"
+    ],
+    "whyCase": "Piotr is being addressed directly.",
+    "whyForm": "Piotr has vocative singular Piotrze, with a consonant change.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Piotr is being addressed directly. Piotr has vocative singular Piotrze, with a consonant change.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "vocative-09",
+    "case": "vocative",
+    "polish": "Synu, chodź tutaj!",
+    "english": "Son, come here!",
+    "lemma": "syn",
+    "target": "synu",
+    "targetSpan": {
+      "start": 0,
+      "end": 4
+    },
+    "acceptedAnswers": [
+      "synu"
+    ],
+    "whyCase": "The son is being addressed directly.",
+    "whyForm": "Syn has vocative singular synu, ending in -u.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The son is being addressed directly. Syn has vocative singular synu, ending in -u.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "vocative-10",
+    "case": "vocative",
+    "polish": "Córeczko, posłuchaj!",
+    "english": "Sweetheart, listen!",
+    "lemma": "córeczka",
+    "target": "córeczko",
+    "targetSpan": {
+      "start": 0,
+      "end": 8
+    },
+    "acceptedAnswers": [
+      "córeczko"
+    ],
+    "whyCase": "The daughter is being addressed directly.",
+    "whyForm": "Córeczka has vocative singular córeczko, replacing -a with -o.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The daughter is being addressed directly. Córeczka has vocative singular córeczko, replacing -a with -o.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "vocative-11",
+    "case": "vocative",
+    "polish": "Kolego, zaczekaj!",
+    "english": "Mate, wait!",
+    "lemma": "kolega",
+    "target": "kolego",
+    "targetSpan": {
+      "start": 0,
+      "end": 6
+    },
+    "acceptedAnswers": [
+      "kolego"
+    ],
+    "whyCase": "The colleague or friend is being addressed directly.",
+    "whyForm": "Kolega has vocative singular kolego, replacing -a with -o.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The colleague or friend is being addressed directly. Kolega has vocative singular kolego, replacing -a with -o.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "vocative-12",
+    "case": "vocative",
+    "polish": "Pani Anno, zapraszam!",
+    "english": "Ms Anna, please come in!",
+    "lemma": "Anna",
+    "target": "Anno",
+    "targetSpan": {
+      "start": 5,
+      "end": 9
+    },
+    "acceptedAnswers": [
+      "Anno"
+    ],
+    "whyCase": "Anna is addressed directly after the honorific Pani.",
+    "whyForm": "Anna has vocative singular Anno, replacing -a with -o.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Anna is addressed directly after the honorific Pani. Anna has vocative singular Anno, replacing -a with -o.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "nominative-13",
+    "case": "nominative",
+    "polish": "Lekarz pracuje.",
+    "english": "The doctor is working.",
+    "lemma": "lekarz",
+    "target": "Lekarz",
+    "targetSpan": {
+      "start": 0,
+      "end": 6
+    },
+    "acceptedAnswers": [
+      "Lekarz"
+    ],
+    "whyCase": "Lekarz is the subject of pracuje.",
+    "whyForm": "Lekarz is the nominative singular dictionary form.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Lekarz is the subject of pracuje. Lekarz is the nominative singular dictionary form.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "nominative-14",
+    "case": "nominative",
+    "polish": "Moje okno jest otwarte.",
+    "english": "My window is open.",
+    "lemma": "okno",
+    "target": "okno",
+    "targetSpan": {
+      "start": 5,
+      "end": 9
+    },
+    "acceptedAnswers": [
+      "okno"
+    ],
+    "whyCase": "Okno is the subject being described.",
+    "whyForm": "Neuter nominative singular retains okno.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Okno is the subject being described. Neuter nominative singular retains okno.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "nominative-15",
+    "case": "nominative",
+    "polish": "Uczniowie słuchają.",
+    "english": "The pupils are listening.",
+    "lemma": "uczeń",
+    "target": "Uczniowie",
+    "targetSpan": {
+      "start": 0,
+      "end": 9
+    },
+    "acceptedAnswers": [
+      "Uczniowie"
+    ],
+    "whyCase": "Uczniowie is the plural subject.",
+    "whyForm": "Uczeń has the masculine-personal nominative plural uczniowie.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Uczniowie is the plural subject. Uczeń has the masculine-personal nominative plural uczniowie.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "nominative-16",
+    "case": "nominative",
+    "polish": "Ta dziewczyna śpiewa.",
+    "english": "That girl is singing.",
+    "lemma": "dziewczyna",
+    "target": "dziewczyna",
+    "targetSpan": {
+      "start": 3,
+      "end": 13
+    },
+    "acceptedAnswers": [
+      "dziewczyna"
+    ],
+    "whyCase": "Dziewczyna is the subject performing the singing.",
+    "whyForm": "The feminine noun keeps its nominative singular -a ending.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Dziewczyna is the subject performing the singing. The feminine noun keeps its nominative singular -a ending.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "genitive-13",
+    "case": "genitive",
+    "polish": "Nie znam tego miasta.",
+    "english": "I don't know that city.",
+    "lemma": "miasto",
+    "target": "miasta",
+    "targetSpan": {
+      "start": 14,
+      "end": 20
+    },
+    "acceptedAnswers": [
+      "miasta"
+    ],
+    "whyCase": "Negated znać takes a genitive object here.",
+    "whyForm": "The genitive singular of miasto is miasta.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Negated znać takes a genitive object here. The genitive singular of miasto is miasta.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "genitive-14",
+    "case": "genitive",
+    "polish": "Wracam z pracy.",
+    "english": "I'm coming back from work.",
+    "lemma": "praca",
+    "target": "pracy",
+    "targetSpan": {
+      "start": 9,
+      "end": 14
+    },
+    "acceptedAnswers": [
+      "pracy"
+    ],
+    "whyCase": "Z meaning 'from' requires genitive.",
+    "whyForm": "Praca has genitive singular pracy.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Z meaning 'from' requires genitive. Praca has genitive singular pracy.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "genitive-15",
+    "case": "genitive",
+    "polish": "Nie mamy chleba.",
+    "english": "We don't have bread.",
+    "lemma": "chleb",
+    "target": "chleba",
+    "targetSpan": {
+      "start": 9,
+      "end": 15
+    },
+    "acceptedAnswers": [
+      "chleba"
+    ],
+    "whyCase": "The negated verb nie mamy requires genitive.",
+    "whyForm": "The masculine noun chleb takes genitive singular chleba.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The negated verb nie mamy requires genitive. The masculine noun chleb takes genitive singular chleba.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "genitive-16",
+    "case": "genitive",
+    "polish": "Potrzebuję pomocy.",
+    "english": "I need help.",
+    "lemma": "pomoc",
+    "target": "pomocy",
+    "targetSpan": {
+      "start": 11,
+      "end": 17
+    },
+    "acceptedAnswers": [
+      "pomocy"
+    ],
+    "whyCase": "Potrzebować governs genitive.",
+    "whyForm": "Pomoc takes genitive singular pomocy.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Potrzebować governs genitive. Pomoc takes genitive singular pomocy.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "dative-13",
+    "case": "dative",
+    "polish": "Daję psu jedzenie.",
+    "english": "I give the dog food.",
+    "lemma": "pies",
+    "target": "psu",
+    "targetSpan": {
+      "start": 5,
+      "end": 8
+    },
+    "acceptedAnswers": [
+      "psu"
+    ],
+    "whyCase": "The dog receives the food, so dative is used.",
+    "whyForm": "Pies has the irregular dative singular psu.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The dog receives the food, so dative is used. Pies has the irregular dative singular psu.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "dative-14",
+    "case": "dative",
+    "polish": "Pomagam ojcu.",
+    "english": "I'm helping Dad.",
+    "lemma": "ojciec",
+    "target": "ojcu",
+    "targetSpan": {
+      "start": 8,
+      "end": 12
+    },
+    "acceptedAnswers": [
+      "ojcu"
+    ],
+    "whyCase": "Pomagać governs dative.",
+    "whyForm": "Ojciec has dative singular ojcu.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Pomagać governs dative. Ojciec has dative singular ojcu.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "dative-15",
+    "case": "dative",
+    "polish": "Przyglądam się miastu.",
+    "english": "I'm looking closely at the city.",
+    "lemma": "miasto",
+    "target": "miastu",
+    "targetSpan": {
+      "start": 15,
+      "end": 21
+    },
+    "acceptedAnswers": [
+      "miastu"
+    ],
+    "whyCase": "Przyglądać się governs dative.",
+    "whyForm": "The neuter noun miasto takes dative singular miastu.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Przyglądać się governs dative. The neuter noun miasto takes dative singular miastu.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "dative-16",
+    "case": "dative",
+    "polish": "Życzę siostrze szczęścia.",
+    "english": "I wish my sister happiness.",
+    "lemma": "siostra",
+    "target": "siostrze",
+    "targetSpan": {
+      "start": 6,
+      "end": 14
+    },
+    "acceptedAnswers": [
+      "siostrze"
+    ],
+    "whyCase": "Życzyć takes the recipient in dative.",
+    "whyForm": "Siostra has dative singular siostrze.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Życzyć takes the recipient in dative. Siostra has dative singular siostrze.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "accusative-13",
+    "case": "accusative",
+    "polish": "Kupuję kawę.",
+    "english": "I'm buying coffee.",
+    "lemma": "kawa",
+    "target": "kawę",
+    "targetSpan": {
+      "start": 7,
+      "end": 11
+    },
+    "acceptedAnswers": [
+      "kawę"
+    ],
+    "whyCase": "Coffee is the direct object of kupuję.",
+    "whyForm": "Feminine -a nouns typically take -ę in accusative singular.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Coffee is the direct object of kupuję. Feminine -a nouns typically take -ę in accusative singular.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "accusative-14",
+    "case": "accusative",
+    "polish": "Widzę nauczyciela.",
+    "english": "I see the teacher.",
+    "lemma": "nauczyciel",
+    "target": "nauczyciela",
+    "targetSpan": {
+      "start": 6,
+      "end": 17
+    },
+    "acceptedAnswers": [
+      "nauczyciela"
+    ],
+    "whyCase": "The teacher is the direct object.",
+    "whyForm": "Masculine animate accusative singular equals genitive: nauczyciela.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The teacher is the direct object. Masculine animate accusative singular equals genitive: nauczyciela.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "accusative-15",
+    "case": "accusative",
+    "polish": "Otwieram okno.",
+    "english": "I'm opening a window.",
+    "lemma": "okno",
+    "target": "okno",
+    "targetSpan": {
+      "start": 9,
+      "end": 13
+    },
+    "acceptedAnswers": [
+      "okno"
+    ],
+    "whyCase": "The window is the direct object.",
+    "whyForm": "Neuter accusative singular matches nominative: okno.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The window is the direct object. Neuter accusative singular matches nominative: okno.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "accusative-16",
+    "case": "accusative",
+    "polish": "Czytam list.",
+    "english": "I'm reading a letter.",
+    "lemma": "list",
+    "target": "list",
+    "targetSpan": {
+      "start": 7,
+      "end": 11
+    },
+    "acceptedAnswers": [
+      "list"
+    ],
+    "whyCase": "The letter is the direct object.",
+    "whyForm": "Masculine inanimate accusative singular matches nominative: list.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The letter is the direct object. Masculine inanimate accusative singular matches nominative: list.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "instrumental-13",
+    "case": "instrumental",
+    "polish": "Piszę ołówkiem.",
+    "english": "I'm writing with a pencil.",
+    "lemma": "ołówek",
+    "target": "ołówkiem",
+    "targetSpan": {
+      "start": 6,
+      "end": 14
+    },
+    "acceptedAnswers": [
+      "ołówkiem"
+    ],
+    "whyCase": "The pencil is the instrument used for writing.",
+    "whyForm": "Ołówek takes instrumental singular ołówkiem.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The pencil is the instrument used for writing. Ołówek takes instrumental singular ołówkiem.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "instrumental-14",
+    "case": "instrumental",
+    "polish": "Idę z siostrą.",
+    "english": "I'm walking with my sister.",
+    "lemma": "siostra",
+    "target": "siostrą",
+    "targetSpan": {
+      "start": 6,
+      "end": 13
+    },
+    "acceptedAnswers": [
+      "siostrą"
+    ],
+    "whyCase": "Z meaning 'with' requires instrumental.",
+    "whyForm": "Feminine -a nouns typically take -ą in instrumental singular.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Z meaning 'with' requires instrumental. Feminine -a nouns typically take -ą in instrumental singular.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "instrumental-15",
+    "case": "instrumental",
+    "polish": "Jestem lekarzem.",
+    "english": "I'm a doctor.",
+    "lemma": "lekarz",
+    "target": "lekarzem",
+    "targetSpan": {
+      "start": 7,
+      "end": 15
+    },
+    "acceptedAnswers": [
+      "lekarzem"
+    ],
+    "whyCase": "A profession noun after jestem takes instrumental.",
+    "whyForm": "Lekarz takes instrumental singular lekarzem.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "A profession noun after jestem takes instrumental. Lekarz takes instrumental singular lekarzem.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "instrumental-16",
+    "case": "instrumental",
+    "polish": "Podróżujemy autobusem.",
+    "english": "We're travelling by bus.",
+    "lemma": "autobus",
+    "target": "autobusem",
+    "targetSpan": {
+      "start": 12,
+      "end": 21
+    },
+    "acceptedAnswers": [
+      "autobusem"
+    ],
+    "whyCase": "The bus is the means of transport.",
+    "whyForm": "Autobus takes instrumental singular autobusem.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The bus is the means of transport. Autobus takes instrumental singular autobusem.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "locative-13",
+    "case": "locative",
+    "polish": "Rozmawiamy o filmie.",
+    "english": "We're talking about a film.",
+    "lemma": "film",
+    "target": "filmie",
+    "targetSpan": {
+      "start": 13,
+      "end": 19
+    },
+    "acceptedAnswers": [
+      "filmie"
+    ],
+    "whyCase": "O meaning 'about' governs locative.",
+    "whyForm": "Film has locative singular filmie.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "O meaning 'about' governs locative. Film has locative singular filmie.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "locative-14",
+    "case": "locative",
+    "polish": "Jestem w Warszawie.",
+    "english": "I'm in Warsaw.",
+    "lemma": "Warszawa",
+    "target": "Warszawie",
+    "targetSpan": {
+      "start": 9,
+      "end": 18
+    },
+    "acceptedAnswers": [
+      "Warszawie"
+    ],
+    "whyCase": "W for a static location governs locative.",
+    "whyForm": "Warszawa has locative singular Warszawie.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "W for a static location governs locative. Warszawa has locative singular Warszawie.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "locative-15",
+    "case": "locative",
+    "polish": "Siedzę na ławce.",
+    "english": "I'm sitting on a bench.",
+    "lemma": "ławka",
+    "target": "ławce",
+    "targetSpan": {
+      "start": 10,
+      "end": 15
+    },
+    "acceptedAnswers": [
+      "ławce"
+    ],
+    "whyCase": "Na indicating a static location governs locative.",
+    "whyForm": "Ławka has locative singular ławce.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "Na indicating a static location governs locative. Ławka has locative singular ławce.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "locative-16",
+    "case": "locative",
+    "polish": "Czytam o języku polskim.",
+    "english": "I'm reading about the Polish language.",
+    "lemma": "język",
+    "target": "języku",
+    "targetSpan": {
+      "start": 9,
+      "end": 15
+    },
+    "acceptedAnswers": [
+      "języku"
+    ],
+    "whyCase": "O meaning 'about' governs locative.",
+    "whyForm": "Język has locative singular języku.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "O meaning 'about' governs locative. Język has locative singular języku.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "vocative-13",
+    "case": "vocative",
+    "polish": "Bracie, zaczekaj!",
+    "english": "Brother, wait!",
+    "lemma": "brat",
+    "target": "Bracie",
+    "targetSpan": {
+      "start": 0,
+      "end": 6
+    },
+    "acceptedAnswers": [
+      "Bracie"
+    ],
+    "whyCase": "The brother is addressed directly.",
+    "whyForm": "Brat has vocative singular bracie.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The brother is addressed directly. Brat has vocative singular bracie.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "vocative-14",
+    "case": "vocative",
+    "polish": "Doktorze, proszę pomóc!",
+    "english": "Doctor, please help!",
+    "lemma": "doktor",
+    "target": "Doktorze",
+    "targetSpan": {
+      "start": 0,
+      "end": 8
+    },
+    "acceptedAnswers": [
+      "Doktorze"
+    ],
+    "whyCase": "The doctor is addressed directly.",
+    "whyForm": "Doktor has vocative singular doktorze.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The doctor is addressed directly. Doktor has vocative singular doktorze.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "vocative-15",
+    "case": "vocative",
+    "polish": "Dzieci, chodźcie tutaj!",
+    "english": "Children, come here!",
+    "lemma": "dziecko",
+    "target": "Dzieci",
+    "targetSpan": {
+      "start": 0,
+      "end": 6
+    },
+    "acceptedAnswers": [
+      "Dzieci"
+    ],
+    "whyCase": "The children are addressed directly.",
+    "whyForm": "Plural vocative of dziecko is dzieci, identical to nominative plural.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The children are addressed directly. Plural vocative of dziecko is dzieci, identical to nominative plural.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  },
+  {
+    "id": "vocative-16",
+    "case": "vocative",
+    "polish": "Koleżanko, posłuchaj!",
+    "english": "Friend, listen!",
+    "lemma": "koleżanka",
+    "target": "Koleżanko",
+    "targetSpan": {
+      "start": 0,
+      "end": 9
+    },
+    "acceptedAnswers": [
+      "Koleżanko"
+    ],
+    "whyCase": "The female friend is addressed directly.",
+    "whyForm": "Koleżanka takes vocative singular koleżanko.",
+    "promptType": "fill-form",
+    "question": "Complete the missing word with the correct Polish form.",
+    "explanation": "The female friend is addressed directly. Koleżanka takes vocative singular koleżanko.",
+    "answerPolicy": "exact-listed-answers-case-insensitive-trim-whitespace",
+    "reviewStatus": "draft-dictionary-tag-checked-not-native-reviewed"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "siebie": {
+    "lemma": "siebie",
+    "type": "reflexive-pronoun",
+    "nominative": null,
+    "genitive": [
+      "siebie"
+    ],
+    "dative": [
+      "sobie"
+    ],
+    "accusative": [
+      "siebie"
+    ],
+    "instrumental": [
+      "sobą"
+    ],
+    "locative": [
+      "sobie"
+    ],
+    "vocative": null,
+    "note": "No nominative; same reflexive referent as the subject. Unstressed się is a distinct clitic used in many reflexive constructions. Do not mix the two in automatic drills without explicit context.",
+    "status": "manual-draft-needs-native-review"
+  }
+}

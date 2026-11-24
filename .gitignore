@@ -1,0 +1,19 @@
+node_modules/
+dist/
+coverage/
+.vite/
+*.tsbuildinfo
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.env
+.env.*
+!.env.example
+
+# Local source archives and handoff package; the app uses the derived JSON.
+polimorf-*.tab.gz
+morfeusz-src-*.tar.gz
+polish-drills-CODEX-READY.zip
+nkjp-frekwencja.csv

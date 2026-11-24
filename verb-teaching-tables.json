@@ -1,0 +1,1382 @@
+[
+  {
+    "lemma": "być",
+    "aspect": [
+      "imperf"
+    ],
+    "simpleFinite": {
+      "1pl": [
+        "jesteśmy"
+      ],
+      "2pl": [
+        "jesteście"
+      ],
+      "3pl": [
+        "są"
+      ],
+      "1sg": [
+        "jestem"
+      ],
+      "2sg": [
+        "jesteś"
+      ],
+      "3sg": [
+        "jest"
+      ]
+    },
+    "simpleFiniteMeaning": "present if imperfective; future if perfective",
+    "futureByc": {
+      "1pl": [
+        "będziemy"
+      ],
+      "2pl": [
+        "będziecie"
+      ],
+      "3pl": [
+        "będą"
+      ],
+      "1sg": [
+        "będę"
+      ],
+      "2sg": [
+        "będziesz"
+      ],
+      "3sg": [
+        "będzie"
+      ]
+    },
+    "pastByGenderNumberPerson": {
+      "pl:m1:pri": [
+        "byliśmy"
+      ],
+      "pl:m1:sec": [
+        "byliście"
+      ],
+      "pl:m1:ter": [
+        "byli"
+      ],
+      "pl:m2.m3.f.n:pri": [
+        "byłyśmy"
+      ],
+      "pl:m2.m3.f.n:sec": [
+        "byłyście"
+      ],
+      "pl:m2.m3.f.n:ter": [
+        "były"
+      ],
+      "sg:f:pri": [
+        "byłam"
+      ],
+      "sg:f:sec": [
+        "byłaś"
+      ],
+      "sg:f:ter": [
+        "była"
+      ],
+      "sg:m1.m2.m3:pri": [
+        "byłem"
+      ],
+      "sg:m1.m2.m3:sec": [
+        "byłeś"
+      ],
+      "sg:m1.m2.m3:ter": [
+        "był"
+      ],
+      "sg:n:pri": [
+        "byłom"
+      ],
+      "sg:n:sec": [
+        "byłoś"
+      ],
+      "sg:n:ter": [
+        "było"
+      ]
+    },
+    "conditionalByGenderNumberPerson": {
+      "pl:m1:pri": [
+        "bylibyśmy"
+      ],
+      "pl:m1:sec": [
+        "bylibyście"
+      ],
+      "pl:m1:ter": [
+        "byliby"
+      ],
+      "pl:m2.m3.f.n:pri": [
+        "byłybyśmy"
+      ],
+      "pl:m2.m3.f.n:sec": [
+        "byłybyście"
+      ],
+      "pl:m2.m3.f.n:ter": [
+        "byłyby"
+      ],
+      "sg:f:pri": [
+        "byłabym"
+      ],
+      "sg:f:sec": [
+        "byłabyś"
+      ],
+      "sg:f:ter": [
+        "byłaby"
+      ],
+      "sg:m1.m2.m3:pri": [
+        "byłbym"
+      ],
+      "sg:m1.m2.m3:sec": [
+        "byłbyś"
+      ],
+      "sg:m1.m2.m3:ter": [
+        "byłby"
+      ],
+      "sg:n:pri": [
+        "byłobym"
+      ],
+      "sg:n:sec": [
+        "byłobyś"
+      ],
+      "sg:n:ter": [
+        "byłoby"
+      ]
+    },
+    "imperative": {
+      "pl:pri": [
+        "bądźmy"
+      ],
+      "pl:sec": [
+        "bądźcie"
+      ],
+      "sg:sec": [
+        "bądź"
+      ]
+    },
+    "compoundFutureNote": "For imperfective verbs, compound future is built with a future form of być plus infinitive or appropriate past form; do not generate automatically without grammatical review.",
+    "drillEnabled": false,
+    "source": "PoliMorf dictionary tags; forms not usage-curated"
+  },
+  {
+    "lemma": "mieć",
+    "aspect": [
+      "imperf"
+    ],
+    "simpleFinite": {
+      "1pl": [
+        "mamy"
+      ],
+      "2pl": [
+        "macie"
+      ],
+      "3pl": [
+        "mają"
+      ],
+      "1sg": [
+        "mam"
+      ],
+      "2sg": [
+        "masz"
+      ],
+      "3sg": [
+        "ma"
+      ]
+    },
+    "simpleFiniteMeaning": "present if imperfective; future if perfective",
+    "futureByc": {},
+    "pastByGenderNumberPerson": {
+      "pl:m1:pri": [
+        "mieliśmy"
+      ],
+      "pl:m1:sec": [
+        "mieliście"
+      ],
+      "pl:m1:ter": [
+        "mieli"
+      ],
+      "pl:m2.m3.f.n:pri": [
+        "miałyśmy"
+      ],
+      "pl:m2.m3.f.n:sec": [
+        "miałyście"
+      ],
+      "pl:m2.m3.f.n:ter": [
+        "miały"
+      ],
+      "sg:f:pri": [
+        "miałam"
+      ],
+      "sg:f:sec": [
+        "miałaś"
+      ],
+      "sg:f:ter": [
+        "miała"
+      ],
+      "sg:m1.m2.m3:pri": [
+        "miałem"
+      ],
+      "sg:m1.m2.m3:sec": [
+        "miałeś"
+      ],
+      "sg:m1.m2.m3:ter": [
+        "miał"
+      ],
+      "sg:n:pri": [
+        "miałom"
+      ],
+      "sg:n:sec": [
+        "miałoś"
+      ],
+      "sg:n:ter": [
+        "miało"
+      ]
+    },
+    "conditionalByGenderNumberPerson": {
+      "pl:m1:pri": [
+        "mielibyśmy"
+      ],
+      "pl:m1:sec": [
+        "mielibyście"
+      ],
+      "pl:m1:ter": [
+        "mieliby"
+      ],
+      "pl:m2.m3.f.n:pri": [
+        "miałybyśmy"
+      ],
+      "pl:m2.m3.f.n:sec": [
+        "miałybyście"
+      ],
+      "pl:m2.m3.f.n:ter": [
+        "miałyby"
+      ],
+      "sg:f:pri": [
+        "miałabym"
+      ],
+      "sg:f:sec": [
+        "miałabyś"
+      ],
+      "sg:f:ter": [
+        "miałaby"
+      ],
+      "sg:m1.m2.m3:pri": [
+        "miałbym"
+      ],
+      "sg:m1.m2.m3:sec": [
+        "miałbyś"
+      ],
+      "sg:m1.m2.m3:ter": [
+        "miałby"
+      ],
+      "sg:n:pri": [
+        "miałobym"
+      ],
+      "sg:n:sec": [
+        "miałobyś"
+      ],
+      "sg:n:ter": [
+        "miałoby"
+      ]
+    },
+    "imperative": {
+      "pl:pri": [
+        "miejmy"
+      ],
+      "pl:sec": [
+        "miejcie"
+      ],
+      "sg:sec": [
+        "miej"
+      ]
+    },
+    "compoundFutureNote": "For imperfective verbs, compound future is built with a future form of być plus infinitive or appropriate past form; do not generate automatically without grammatical review.",
+    "drillEnabled": false,
+    "source": "PoliMorf dictionary tags; forms not usage-curated"
+  },
+  {
+    "lemma": "móc",
+    "aspect": [
+      "imperf"
+    ],
+    "simpleFinite": {
+      "1pl": [
+        "możemy"
+      ],
+      "2pl": [
+        "możecie"
+      ],
+      "3pl": [
+        "mogą"
+      ],
+      "1sg": [
+        "mogę"
+      ],
+      "2sg": [
+        "możesz"
+      ],
+      "3sg": [
+        "może"
+      ]
+    },
+    "simpleFiniteMeaning": "present if imperfective; future if perfective",
+    "futureByc": {},
+    "pastByGenderNumberPerson": {
+      "pl:m1:pri": [
+        "mogliśmy"
+      ],
+      "pl:m1:sec": [
+        "mogliście"
+      ],
+      "pl:m1:ter": [
+        "mogli"
+      ],
+      "pl:m2.m3.f.n:pri": [
+        "mogłyśmy"
+      ],
+      "pl:m2.m3.f.n:sec": [
+        "mogłyście"
+      ],
+      "pl:m2.m3.f.n:ter": [
+        "mogły"
+      ],
+      "sg:f:pri": [
+        "mogłam"
+      ],
+      "sg:f:sec": [
+        "mogłaś"
+      ],
+      "sg:f:ter": [
+        "mogła"
+      ],
+      "sg:m1.m2.m3:pri": [
+        "mogłem"
+      ],
+      "sg:m1.m2.m3:sec": [
+        "mogłeś"
+      ],
+      "sg:m1.m2.m3:ter": [
+        "mógł"
+      ],
+      "sg:n:pri": [
+        "mogłom"
+      ],
+      "sg:n:sec": [
+        "mogłoś"
+      ],
+      "sg:n:ter": [
+        "mogło"
+      ]
+    },
+    "conditionalByGenderNumberPerson": {
+      "pl:m1:pri": [
+        "moglibyśmy"
+      ],
+      "pl:m1:sec": [
+        "moglibyście"
+      ],
+      "pl:m1:ter": [
+        "mogliby"
+      ],
+      "pl:m2.m3.f.n:pri": [
+        "mogłybyśmy"
+      ],
+      "pl:m2.m3.f.n:sec": [
+        "mogłybyście"
+      ],
+      "pl:m2.m3.f.n:ter": [
+        "mogłyby"
+      ],
+      "sg:f:pri": [
+        "mogłabym"
+      ],
+      "sg:f:sec": [
+        "mogłabyś"
+      ],
+      "sg:f:ter": [
+        "mogłaby"
+      ],
+      "sg:m1.m2.m3:pri": [
+        "mógłbym"
+      ],
+      "sg:m1.m2.m3:sec": [
+        "mógłbyś"
+      ],
+      "sg:m1.m2.m3:ter": [
+        "mógłby"
+      ],
+      "sg:n:pri": [
+        "mogłobym"
+      ],
+      "sg:n:sec": [
+        "mogłobyś"
+      ],
+      "sg:n:ter": [
+        "mogłoby"
+      ]
+    },
+    "imperative": {
+      "pl:pri": [
+        "móżmy"
+      ],
+      "pl:sec": [
+        "móżcie"
+      ],
+      "sg:sec": [
+        "móż"
+      ]
+    },
+    "compoundFutureNote": "For imperfective verbs, compound future is built with a future form of być plus infinitive or appropriate past form; do not generate automatically without grammatical review.",
+    "drillEnabled": false,
+    "source": "PoliMorf dictionary tags; forms not usage-curated"
+  },
+  {
+    "lemma": "wiedzieć",
+    "aspect": [
+      "imperf"
+    ],
+    "simpleFinite": {
+      "1pl": [
+        "wiemy"
+      ],
+      "2pl": [
+        "wiecie"
+      ],
+      "3pl": [
+        "wiedzą"
+      ],
+      "1sg": [
+        "wiem"
+      ],
+      "2sg": [
+        "wiesz"
+      ],
+      "3sg": [
+        "wie"
+      ]
+    },
+    "simpleFiniteMeaning": "present if imperfective; future if perfective",
+    "futureByc": {},
+    "pastByGenderNumberPerson": {
+      "pl:m1:pri": [
+        "wiedzieliśmy"
+      ],
+      "pl:m1:sec": [
+        "wiedzieliście"
+      ],
+      "pl:m1:ter": [
+        "wiedzieli"
+      ],
+      "pl:m2.m3.f.n:pri": [
+        "wiedziałyśmy"
+      ],
+      "pl:m2.m3.f.n:sec": [
+        "wiedziałyście"
+      ],
+      "pl:m2.m3.f.n:ter": [
+        "wiedziały"
+      ],
+      "sg:f:pri": [
+        "wiedziałam"
+      ],
+      "sg:f:sec": [
+        "wiedziałaś"
+      ],
+      "sg:f:ter": [
+        "wiedziała"
+      ],
+      "sg:m1.m2.m3:pri": [
+        "wiedziałem"
+      ],
+      "sg:m1.m2.m3:sec": [
+        "wiedziałeś"
+      ],
+      "sg:m1.m2.m3:ter": [
+        "wiedział"
+      ],
+      "sg:n:pri": [
+        "wiedziałom"
+      ],
+      "sg:n:sec": [
+        "wiedziałoś"
+      ],
+      "sg:n:ter": [
+        "wiedziało"
+      ]
+    },
+    "conditionalByGenderNumberPerson": {
+      "pl:m1:pri": [
+        "wiedzielibyśmy"
+      ],
+      "pl:m1:sec": [
+        "wiedzielibyście"
+      ],
+      "pl:m1:ter": [
+        "wiedzieliby"
+      ],
+      "pl:m2.m3.f.n:pri": [
+        "wiedziałybyśmy"
+      ],
+      "pl:m2.m3.f.n:sec": [
+        "wiedziałybyście"
+      ],
+      "pl:m2.m3.f.n:ter": [
+        "wiedziałyby"
+      ],
+      "sg:f:pri": [
+        "wiedziałabym"
+      ],
+      "sg:f:sec": [
+        "wiedziałabyś"
+      ],
+      "sg:f:ter": [
+        "wiedziałaby"
+      ],
+      "sg:m1.m2.m3:pri": [
+        "wiedziałbym"
+      ],
+      "sg:m1.m2.m3:sec": [
+        "wiedziałbyś"
+      ],
+      "sg:m1.m2.m3:ter": [
+        "wiedziałby"
+      ],
+      "sg:n:pri": [
+        "wiedziałobym"
+      ],
+      "sg:n:sec": [
+        "wiedziałobyś"
+      ],
+      "sg:n:ter": [
+        "wiedziałoby"
+      ]
+    },
+    "imperative": {
+      "pl:pri": [
+        "wiedzmy"
+      ],
+      "pl:sec": [
+        "wiedzcie"
+      ],
+      "sg:sec": [
+        "wiedz"
+      ]
+    },
+    "compoundFutureNote": "For imperfective verbs, compound future is built with a future form of być plus infinitive or appropriate past form; do not generate automatically without grammatical review.",
+    "drillEnabled": false,
+    "source": "PoliMorf dictionary tags; forms not usage-curated"
+  },
+  {
+    "lemma": "mówić",
+    "aspect": [
+      "imperf"
+    ],
+    "simpleFinite": {
+      "1pl": [
+        "mówimy"
+      ],
+      "2pl": [
+        "mówicie"
+      ],
+      "3pl": [
+        "mówią"
+      ],
+      "1sg": [
+        "mówię"
+      ],
+      "2sg": [
+        "mówisz"
+      ],
+      "3sg": [
+        "mówi"
+      ]
+    },
+    "simpleFiniteMeaning": "present if imperfective; future if perfective",
+    "futureByc": {},
+    "pastByGenderNumberPerson": {
+      "pl:m1:pri": [
+        "mówiliśmy"
+      ],
+      "pl:m1:sec": [
+        "mówiliście"
+      ],
+      "pl:m1:ter": [
+        "mówili"
+      ],
+      "pl:m2.m3.f.n:pri": [
+        "mówiłyśmy"
+      ],
+      "pl:m2.m3.f.n:sec": [
+        "mówiłyście"
+      ],
+      "pl:m2.m3.f.n:ter": [
+        "mówiły"
+      ],
+      "sg:f:pri": [
+        "mówiłam"
+      ],
+      "sg:f:sec": [
+        "mówiłaś"
+      ],
+      "sg:f:ter": [
+        "mówiła"
+      ],
+      "sg:m1.m2.m3:pri": [
+        "mówiłem"
+      ],
+      "sg:m1.m2.m3:sec": [
+        "mówiłeś"
+      ],
+      "sg:m1.m2.m3:ter": [
+        "mówił"
+      ],
+      "sg:n:pri": [
+        "mówiłom"
+      ],
+      "sg:n:sec": [
+        "mówiłoś"
+      ],
+      "sg:n:ter": [
+        "mówiło"
+      ]
+    },
+    "conditionalByGenderNumberPerson": {
+      "pl:m1:pri": [
+        "mówilibyśmy"
+      ],
+      "pl:m1:sec": [
+        "mówilibyście"
+      ],
+      "pl:m1:ter": [
+        "mówiliby"
+      ],
+      "pl:m2.m3.f.n:pri": [
+        "mówiłybyśmy"
+      ],
+      "pl:m2.m3.f.n:sec": [
+        "mówiłybyście"
+      ],
+      "pl:m2.m3.f.n:ter": [
+        "mówiłyby"
+      ],
+      "sg:f:pri": [
+        "mówiłabym"
+      ],
+      "sg:f:sec": [
+        "mówiłabyś"
+      ],
+      "sg:f:ter": [
+        "mówiłaby"
+      ],
+      "sg:m1.m2.m3:pri": [
+        "mówiłbym"
+      ],
+      "sg:m1.m2.m3:sec": [
+        "mówiłbyś"
+      ],
+      "sg:m1.m2.m3:ter": [
+        "mówiłby"
+      ],
+      "sg:n:pri": [
+        "mówiłobym"
+      ],
+      "sg:n:sec": [
+        "mówiłobyś"
+      ],
+      "sg:n:ter": [
+        "mówiłoby"
+      ]
+    },
+    "imperative": {
+      "pl:pri": [
+        "mówmy"
+      ],
+      "pl:sec": [
+        "mówcie"
+      ],
+      "sg:sec": [
+        "mów"
+      ]
+    },
+    "compoundFutureNote": "For imperfective verbs, compound future is built with a future form of być plus infinitive or appropriate past form; do not generate automatically without grammatical review.",
+    "drillEnabled": false,
+    "source": "PoliMorf dictionary tags; forms not usage-curated"
+  },
+  {
+    "lemma": "chcieć",
+    "aspect": [
+      "imperf"
+    ],
+    "simpleFinite": {
+      "1pl": [
+        "chcemy"
+      ],
+      "2pl": [
+        "chcecie"
+      ],
+      "3pl": [
+        "chcą"
+      ],
+      "1sg": [
+        "chcę"
+      ],
+      "2sg": [
+        "chcesz"
+      ],
+      "3sg": [
+        "chce"
+      ]
+    },
+    "simpleFiniteMeaning": "present if imperfective; future if perfective",
+    "futureByc": {},
+    "pastByGenderNumberPerson": {
+      "pl:m1:pri": [
+        "chcieliśmy"
+      ],
+      "pl:m1:sec": [
+        "chcieliście"
+      ],
+      "pl:m1:ter": [
+        "chcieli"
+      ],
+      "pl:m2.m3.f.n:pri": [
+        "chciałyśmy"
+      ],
+      "pl:m2.m3.f.n:sec": [
+        "chciałyście"
+      ],
+      "pl:m2.m3.f.n:ter": [
+        "chciały"
+      ],
+      "sg:f:pri": [
+        "chciałam"
+      ],
+      "sg:f:sec": [
+        "chciałaś"
+      ],
+      "sg:f:ter": [
+        "chciała"
+      ],
+      "sg:m1.m2.m3:pri": [
+        "chciałem"
+      ],
+      "sg:m1.m2.m3:sec": [
+        "chciałeś"
+      ],
+      "sg:m1.m2.m3:ter": [
+        "chciał"
+      ],
+      "sg:n:pri": [
+        "chciałom"
+      ],
+      "sg:n:sec": [
+        "chciałoś"
+      ],
+      "sg:n:ter": [
+        "chciało"
+      ]
+    },
+    "conditionalByGenderNumberPerson": {
+      "pl:m1:pri": [
+        "chcielibyśmy"
+      ],
+      "pl:m1:sec": [
+        "chcielibyście"
+      ],
+      "pl:m1:ter": [
+        "chcieliby"
+      ],
+      "pl:m2.m3.f.n:pri": [
+        "chciałybyśmy"
+      ],
+      "pl:m2.m3.f.n:sec": [
+        "chciałybyście"
+      ],
+      "pl:m2.m3.f.n:ter": [
+        "chciałyby"
+      ],
+      "sg:f:pri": [
+        "chciałabym"
+      ],
+      "sg:f:sec": [
+        "chciałabyś"
+      ],
+      "sg:f:ter": [
+        "chciałaby"
+      ],
+      "sg:m1.m2.m3:pri": [
+        "chciałbym"
+      ],
+      "sg:m1.m2.m3:sec": [
+        "chciałbyś"
+      ],
+      "sg:m1.m2.m3:ter": [
+        "chciałby"
+      ],
+      "sg:n:pri": [
+        "chciałobym"
+      ],
+      "sg:n:sec": [
+        "chciałobyś"
+      ],
+      "sg:n:ter": [
+        "chciałoby"
+      ]
+    },
+    "imperative": {
+      "pl:pri": [
+        "chciejmy"
+      ],
+      "pl:sec": [
+        "chciejcie"
+      ],
+      "sg:sec": [
+        "chciej"
+      ]
+    },
+    "compoundFutureNote": "For imperfective verbs, compound future is built with a future form of być plus infinitive or appropriate past form; do not generate automatically without grammatical review.",
+    "drillEnabled": false,
+    "source": "PoliMorf dictionary tags; forms not usage-curated"
+  },
+  {
+    "lemma": "zostać",
+    "aspect": [
+      "perf"
+    ],
+    "simpleFinite": {
+      "1pl": [
+        "zostaniemy"
+      ],
+      "2pl": [
+        "zostaniecie"
+      ],
+      "3pl": [
+        "zostaną"
+      ],
+      "1sg": [
+        "zostanę"
+      ],
+      "2sg": [
+        "zostaniesz"
+      ],
+      "3sg": [
+        "zostanie"
+      ]
+    },
+    "simpleFiniteMeaning": "present if imperfective; future if perfective",
+    "futureByc": {},
+    "pastByGenderNumberPerson": {
+      "pl:m1:pri": [
+        "zostaliśmy"
+      ],
+      "pl:m1:sec": [
+        "zostaliście"
+      ],
+      "pl:m1:ter": [
+        "zostali"
+      ],
+      "pl:m2.m3.f.n:pri": [
+        "zostałyśmy"
+      ],
+      "pl:m2.m3.f.n:sec": [
+        "zostałyście"
+      ],
+      "pl:m2.m3.f.n:ter": [
+        "zostały"
+      ],
+      "sg:f:pri": [
+        "zostałam"
+      ],
+      "sg:f:sec": [
+        "zostałaś"
+      ],
+      "sg:f:ter": [
+        "została"
+      ],
+      "sg:m1.m2.m3:pri": [
+        "zostałem"
+      ],
+      "sg:m1.m2.m3:sec": [
+        "zostałeś"
+      ],
+      "sg:m1.m2.m3:ter": [
+        "został"
+      ],
+      "sg:n:pri": [
+        "zostałom"
+      ],
+      "sg:n:sec": [
+        "zostałoś"
+      ],
+      "sg:n:ter": [
+        "zostało"
+      ]
+    },
+    "conditionalByGenderNumberPerson": {
+      "pl:m1:pri": [
+        "zostalibyśmy"
+      ],
+      "pl:m1:sec": [
+        "zostalibyście"
+      ],
+      "pl:m1:ter": [
+        "zostaliby"
+      ],
+      "pl:m2.m3.f.n:pri": [
+        "zostałybyśmy"
+      ],
+      "pl:m2.m3.f.n:sec": [
+        "zostałybyście"
+      ],
+      "pl:m2.m3.f.n:ter": [
+        "zostałyby"
+      ],
+      "sg:f:pri": [
+        "zostałabym"
+      ],
+      "sg:f:sec": [
+        "zostałabyś"
+      ],
+      "sg:f:ter": [
+        "zostałaby"
+      ],
+      "sg:m1.m2.m3:pri": [
+        "zostałbym"
+      ],
+      "sg:m1.m2.m3:sec": [
+        "zostałbyś"
+      ],
+      "sg:m1.m2.m3:ter": [
+        "zostałby"
+      ],
+      "sg:n:pri": [
+        "zostałobym"
+      ],
+      "sg:n:sec": [
+        "zostałobyś"
+      ],
+      "sg:n:ter": [
+        "zostałoby"
+      ]
+    },
+    "imperative": {
+      "pl:pri": [
+        "zostańmy"
+      ],
+      "pl:sec": [
+        "zostańcie"
+      ],
+      "sg:sec": [
+        "zostań"
+      ]
+    },
+    "compoundFutureNote": "For imperfective verbs, compound future is built with a future form of być plus infinitive or appropriate past form; do not generate automatically without grammatical review.",
+    "drillEnabled": false,
+    "source": "PoliMorf dictionary tags; forms not usage-curated"
+  },
+  {
+    "lemma": "powiedzieć",
+    "aspect": [
+      "perf"
+    ],
+    "simpleFinite": {
+      "1pl": [
+        "powiemy"
+      ],
+      "2pl": [
+        "powiecie"
+      ],
+      "3pl": [
+        "powiedzą"
+      ],
+      "1sg": [
+        "powiem"
+      ],
+      "2sg": [
+        "powiesz"
+      ],
+      "3sg": [
+        "powie"
+      ]
+    },
+    "simpleFiniteMeaning": "present if imperfective; future if perfective",
+    "futureByc": {},
+    "pastByGenderNumberPerson": {
+      "pl:m1:pri": [
+        "powiedzieliśmy"
+      ],
+      "pl:m1:sec": [
+        "powiedzieliście"
+      ],
+      "pl:m1:ter": [
+        "powiedzieli"
+      ],
+      "pl:m2.m3.f.n:pri": [
+        "powiedziałyśmy"
+      ],
+      "pl:m2.m3.f.n:sec": [
+        "powiedziałyście"
+      ],
+      "pl:m2.m3.f.n:ter": [
+        "powiedziały"
+      ],
+      "sg:f:pri": [
+        "powiedziałam"
+      ],
+      "sg:f:sec": [
+        "powiedziałaś"
+      ],
+      "sg:f:ter": [
+        "powiedziała"
+      ],
+      "sg:m1.m2.m3:pri": [
+        "powiedziałem"
+      ],
+      "sg:m1.m2.m3:sec": [
+        "powiedziałeś"
+      ],
+      "sg:m1.m2.m3:ter": [
+        "powiedział"
+      ],
+      "sg:n:pri": [
+        "powiedziałom"
+      ],
+      "sg:n:sec": [
+        "powiedziałoś"
+      ],
+      "sg:n:ter": [
+        "powiedziało"
+      ]
+    },
+    "conditionalByGenderNumberPerson": {
+      "pl:m1:pri": [
+        "powiedzielibyśmy"
+      ],
+      "pl:m1:sec": [
+        "powiedzielibyście"
+      ],
+      "pl:m1:ter": [
+        "powiedzieliby"
+      ],
+      "pl:m2.m3.f.n:pri": [
+        "powiedziałybyśmy"
+      ],
+      "pl:m2.m3.f.n:sec": [
+        "powiedziałybyście"
+      ],
+      "pl:m2.m3.f.n:ter": [
+        "powiedziałyby"
+      ],
+      "sg:f:pri": [
+        "powiedziałabym"
+      ],
+      "sg:f:sec": [
+        "powiedziałabyś"
+      ],
+      "sg:f:ter": [
+        "powiedziałaby"
+      ],
+      "sg:m1.m2.m3:pri": [
+        "powiedziałbym"
+      ],
+      "sg:m1.m2.m3:sec": [
+        "powiedziałbyś"
+      ],
+      "sg:m1.m2.m3:ter": [
+        "powiedziałby"
+      ],
+      "sg:n:pri": [
+        "powiedziałobym"
+      ],
+      "sg:n:sec": [
+        "powiedziałobyś"
+      ],
+      "sg:n:ter": [
+        "powiedziałoby"
+      ]
+    },
+    "imperative": {
+      "pl:pri": [
+        "powiedzmy"
+      ],
+      "pl:sec": [
+        "powiedzcie"
+      ],
+      "sg:sec": [
+        "powiedz"
+      ]
+    },
+    "compoundFutureNote": "For imperfective verbs, compound future is built with a future form of być plus infinitive or appropriate past form; do not generate automatically without grammatical review.",
+    "drillEnabled": false,
+    "source": "PoliMorf dictionary tags; forms not usage-curated"
+  },
+  {
+    "lemma": "musieć",
+    "aspect": [
+      "imperf"
+    ],
+    "simpleFinite": {
+      "1pl": [
+        "musimy"
+      ],
+      "2pl": [
+        "musicie"
+      ],
+      "3pl": [
+        "muszą"
+      ],
+      "1sg": [
+        "muszę"
+      ],
+      "2sg": [
+        "musisz"
+      ],
+      "3sg": [
+        "musi"
+      ]
+    },
+    "simpleFiniteMeaning": "present if imperfective; future if perfective",
+    "futureByc": {},
+    "pastByGenderNumberPerson": {
+      "pl:m1:pri": [
+        "musieliśmy"
+      ],
+      "pl:m1:sec": [
+        "musieliście"
+      ],
+      "pl:m1:ter": [
+        "musieli"
+      ],
+      "pl:m2.m3.f.n:pri": [
+        "musiałyśmy"
+      ],
+      "pl:m2.m3.f.n:sec": [
+        "musiałyście"
+      ],
+      "pl:m2.m3.f.n:ter": [
+        "musiały"
+      ],
+      "sg:f:pri": [
+        "musiałam"
+      ],
+      "sg:f:sec": [
+        "musiałaś"
+      ],
+      "sg:f:ter": [
+        "musiała"
+      ],
+      "sg:m1.m2.m3:pri": [
+        "musiałem"
+      ],
+      "sg:m1.m2.m3:sec": [
+        "musiałeś"
+      ],
+      "sg:m1.m2.m3:ter": [
+        "musiał"
+      ],
+      "sg:n:pri": [
+        "musiałom"
+      ],
+      "sg:n:sec": [
+        "musiałoś"
+      ],
+      "sg:n:ter": [
+        "musiało"
+      ]
+    },
+    "conditionalByGenderNumberPerson": {
+      "pl:m1:pri": [
+        "musielibyśmy"
+      ],
+      "pl:m1:sec": [
+        "musielibyście"
+      ],
+      "pl:m1:ter": [
+        "musieliby"
+      ],
+      "pl:m2.m3.f.n:pri": [
+        "musiałybyśmy"
+      ],
+      "pl:m2.m3.f.n:sec": [
+        "musiałybyście"
+      ],
+      "pl:m2.m3.f.n:ter": [
+        "musiałyby"
+      ],
+      "sg:f:pri": [
+        "musiałabym"
+      ],
+      "sg:f:sec": [
+        "musiałabyś"
+      ],
+      "sg:f:ter": [
+        "musiałaby"
+      ],
+      "sg:m1.m2.m3:pri": [
+        "musiałbym"
+      ],
+      "sg:m1.m2.m3:sec": [
+        "musiałbyś"
+      ],
+      "sg:m1.m2.m3:ter": [
+        "musiałby"
+      ],
+      "sg:n:pri": [
+        "musiałobym"
+      ],
+      "sg:n:sec": [
+        "musiałobyś"
+      ],
+      "sg:n:ter": [
+        "musiałoby"
+      ]
+    },
+    "imperative": {
+      "pl:pri": [
+        "muśmy"
+      ],
+      "pl:sec": [
+        "muście"
+      ],
+      "sg:sec": [
+        "muś"
+      ]
+    },
+    "compoundFutureNote": "For imperfective verbs, compound future is built with a future form of być plus infinitive or appropriate past form; do not generate automatically without grammatical review.",
+    "drillEnabled": false,
+    "source": "PoliMorf dictionary tags; forms not usage-curated"
+  },
+  {
+    "lemma": "stać",
+    "aspect": [
+      "imperf",
+      "perf"
+    ],
+    "simpleFinite": {
+      "1pl": [
+        "staniemy"
+      ],
+      "2pl": [
+        "staniecie"
+      ],
+      "3pl": [
+        "staną"
+      ],
+      "1sg": [
+        "stanę"
+      ],
+      "2sg": [
+        "staniesz"
+      ],
+      "3sg": [
+        "stanie"
+      ]
+    },
+    "simpleFiniteMeaning": "present if imperfective; future if perfective",
+    "futureByc": {},
+    "pastByGenderNumberPerson": {
+      "pl:m1:pri": [
+        "staliśmy"
+      ],
+      "pl:m1:sec": [
+        "staliście"
+      ],
+      "pl:m1:ter": [
+        "stali"
+      ],
+      "pl:m2.m3.f.n:pri": [
+        "stałyśmy"
+      ],
+      "pl:m2.m3.f.n:sec": [
+        "stałyście"
+      ],
+      "pl:m2.m3.f.n:ter": [
+        "stały"
+      ],
+      "sg:f:pri": [
+        "stałam"
+      ],
+      "sg:f:sec": [
+        "stałaś"
+      ],
+      "sg:f:ter": [
+        "stała"
+      ],
+      "sg:m1.m2.m3:pri": [
+        "stałem"
+      ],
+      "sg:m1.m2.m3:sec": [
+        "stałeś"
+      ],
+      "sg:m1.m2.m3:ter": [
+        "stał"
+      ],
+      "sg:n:pri": [
+        "stałom"
+      ],
+      "sg:n:sec": [
+        "stałoś"
+      ],
+      "sg:n:ter": [
+        "stało"
+      ]
+    },
+    "conditionalByGenderNumberPerson": {
+      "pl:m1:pri": [
+        "stalibyśmy"
+      ],
+      "pl:m1:sec": [
+        "stalibyście"
+      ],
+      "pl:m1:ter": [
+        "staliby"
+      ],
+      "pl:m2.m3.f.n:pri": [
+        "stałybyśmy"
+      ],
+      "pl:m2.m3.f.n:sec": [
+        "stałybyście"
+      ],
+      "pl:m2.m3.f.n:ter": [
+        "stałyby"
+      ],
+      "sg:f:pri": [
+        "stałabym"
+      ],
+      "sg:f:sec": [
+        "stałabyś"
+      ],
+      "sg:f:ter": [
+        "stałaby"
+      ],
+      "sg:m1.m2.m3:pri": [
+        "stałbym"
+      ],
+      "sg:m1.m2.m3:sec": [
+        "stałbyś"
+      ],
+      "sg:m1.m2.m3:ter": [
+        "stałby"
+      ],
+      "sg:n:pri": [
+        "stałobym"
+      ],
+      "sg:n:sec": [
+        "stałobyś"
+      ],
+      "sg:n:ter": [
+        "stałoby"
+      ]
+    },
+    "imperative": {
+      "pl:pri": [
+        "stańmy"
+      ],
+      "pl:sec": [
+        "stańcie"
+      ],
+      "sg:sec": [
+        "stań"
+      ]
+    },
+    "compoundFutureNote": "For imperfective verbs, compound future is built with a future form of być plus infinitive or appropriate past form; do not generate automatically without grammatical review.",
+    "drillEnabled": false,
+    "source": "PoliMorf dictionary tags; forms not usage-curated"
+  }
+]
